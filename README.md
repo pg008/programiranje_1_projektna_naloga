@@ -4,4 +4,4 @@
 
 Projektna naloga pri predmetu Programiranje 1, analiza podatkov.
 
-### Vsebina
+### Vsebina projektne naloge
