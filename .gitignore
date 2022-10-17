@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Baza modelov avtomobilov
+modeli_avtomobilov.db
+
 # C extensions
 *.so
 
