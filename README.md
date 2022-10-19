@@ -4,7 +4,7 @@
 
 ### Vsebina projektne naloge
 Analiziral bom podatke o rabljenih avtomobilih.  
-(Vir podatkov: [Avto.net](avto.net), [Bolha](bolha.com), [Mobile24](mobile24.de).)
+(Vir podatkov: [Avto.net](https://www.avto.net), [Bolha](https://www.bolha.com), [Mobile24](https://www.mobile24.de).)
 
 Za vsak avtomobil bom zajel:
 * ime modela
