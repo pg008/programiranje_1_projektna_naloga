@@ -8,12 +8,17 @@ Analiziral bom podatke o rabljenih avtomobilih.
 
 Za vsak avtomobil bom zajel:
 * ime modela
-* ceno
-* vrsto pogona
-* moč motorja
-* kapaciteta baterije (pri električnih avtomobilih)
+* leto proizvodnje
 * število prevoženih kilometrov
-* starost
+* moč motorja (kW / KM)
+* kapaciteta baterije (pri električnih avtomobilih)
+* prostornino motorja
+* vrsto pogona
+* vrsto menjalnika
+* število prestav
+* število vrat
+* tip avtomobila
+* ceno
 
 Delovne hipoteze:
 * povezava med ceno in številom prevoženih kilometrov za isti model
