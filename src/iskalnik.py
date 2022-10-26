@@ -178,7 +178,6 @@ class IskalnikBolha(Iskalnik):
             stevilo_kilometrov = int(p["prevozeni_kilometri"]) if not p["prevozeni_kilometri"] is None else None,
             cena = cena,
         )
-        a.id_modela, a.id_razlicice = identificiraj(a)
         return a
 
     def _število_strani(self):
@@ -213,5 +212,11 @@ class IskalnikBolha(Iskalnik):
         else:
             self.najdeni_avtomobili = n
         
+        self._poišči_v_bazi()
+        
+    def _poišči_v_bazi(self):
+        for a in self.najdeni_avtomobili:
+            a.id_modela, a.id_razlicice = identificiraj(a)
+    
     def tabela(self) -> pd.DataFrame:
         return pd.DataFrame.from_records([asdict(a) for a in self.najdeni_avtomobili])
