@@ -1,0 +1,657 @@
+[
+    {
+		"vrednost": "Abarth",
+		"id": 100,
+		"ime": "Abarth"
+	},
+	{
+        "vrednost": "AEV",
+        "id": 150,
+        "ime": "AEV"
+    },
+	{
+        "vrednost": "Aiways",
+        "id": 12200,
+        "ime": "Aiways"
+    },
+	{
+		"vrednost": "Aixam",
+		"id": 200,
+		"ime": "Aixam"
+	},
+	{
+		"vrednost": "Alfa Romeo",
+		"id": 300,
+		"ime": "Alfa Romeo"
+	},
+	{
+		"vrednost": "Alpine",
+		"id": 350,
+		"ime": "Alpine"
+	},
+	{
+		"vrednost": "Artega",
+		"id": 400,
+		"ime": "Artega"
+	},
+	{
+		"vrednost": "Aston Martin",
+		"id": 500,
+		"ime": "Aston Martin"
+	},
+	{
+		"vrednost": "Audi",
+		"id": 600,
+		"ime": "Audi"
+	},
+	{
+		"vrednost": "Austin",
+		"id": 700,
+		"ime": "Austin"
+	},
+	{
+		"vrednost": "Autobianchi",
+		"id": 800,
+		"ime": "Autobianchi"
+	},
+	{
+		"vrednost": "Bentley",
+		"id": 900,
+		"ime": "Bentley"
+	},
+	{
+		"vrednost": "BMW",
+		"id": 1000,
+		"ime": "BMW"
+	},
+	{
+		"vrednost": "Borgward",
+		"id": 1050,
+		"ime": "Borgward"
+	},
+	{
+		"vrednost": "Brilliance",
+		"id": 1100,
+		"ime": "Brilliance"
+	},
+	{
+		"vrednost": "Bugatti",
+		"id": 1200,
+		"ime": "Bugatti"
+	},
+	{
+		"vrednost": "Buick",
+		"id": 1300,
+		"ime": "Buick"
+	},
+	{
+		"vrednost": "Cadillac",
+		"id": 1400,
+		"ime": "Cadillac"
+	},
+	{
+		"vrednost": "Casalini",
+		"id": 1450,
+		"ime": "Casalini"
+	},
+	{
+		"vrednost": "Caterham",
+		"id": 1470,
+		"ime": "Caterham"
+	},
+	{
+		"vrednost": "Chatenet",
+		"id": 1500,
+		"ime": "Chatenet"
+	},
+	{
+		"vrednost": "Chevrolet",
+		"id": 1600,
+		"ime": "Chevrolet"
+	},
+	{
+		"vrednost": "Chrysler",
+		"id": 1700,
+		"ime": "Chrysler"
+	},
+	{
+		"vrednost": "Citroen",
+		"id": 1800,
+		"ime": "Citroen"
+	},
+	{
+		"vrednost": "Cobra",
+		"id": 1900,
+		"ime": "Cobra"
+	},
+	{
+		"vrednost": "Cupra",
+		"id": 2050,
+		"ime": "Cupra"
+	},
+	{
+		"vrednost": "Dacia",
+		"id": 2100,
+		"ime": "Dacia"
+	},
+	{
+		"vrednost": "Daewoo",
+		"id": 2200,
+		"ime": "Daewoo"
+	},
+	{
+		"vrednost": "DAF",
+		"id": 2300,
+		"ime": "DAF"
+	},
+	{
+		"vrednost": "Daihatsu",
+		"id": 2400,
+		"ime": "Daihatsu"
+	},
+	{
+		"vrednost": "DFSK",
+		"id": 12000,
+		"ime": "DFSK"
+	},
+	{
+		"vrednost": "DKW",
+		"id": 2500,
+		"ime": "DKW"
+	},
+	{
+		"vrednost": "Dodge",
+		"id": 2600,
+		"ime": "Dodge"
+	},
+	{
+		"vrednost": "Donkervoort",
+		"id": 2700,
+		"ime": "Donkervoort"
+	},
+	{
+		"vrednost": "Dongfeng",
+		"id": 12100,
+		"ime": "Dongfeng"
+	},
+	{
+		"vrednost": "DS Automobiles",
+		"id": 2750,
+		"ime": "DS Automobiles"
+	},
+	{
+		"vrednost": "EV",
+		"id": 2800,
+		"ime": "EV"
+	},
+	{
+		"vrednost": "Ferrari",
+		"id": 2900,
+		"ime": "Ferrari"
+	},
+	{
+		"vrednost": "Fiat",
+		"id": 3000,
+		"ime": "Fiat"
+	},
+	{
+		"vrednost": "Fisker",
+		"id": 3100,
+		"ime": "Fisker"
+	},
+	{
+		"vrednost": "Ford",
+		"id": 3200,
+		"ime": "Ford"
+	},
+	{
+		"vrednost": "GMC",
+		"id": 3300,
+		"ime": "GMC"
+	},
+	{
+		"vrednost": "Greatwall",
+		"id": 3400,
+		"ime": "Greatwall"
+	},
+	{
+		"vrednost": "Grecav",
+		"id": 3500,
+		"ime": "Grecav"
+	},
+	{
+		"vrednost": "Hansa",
+		"id": 3550,
+		"ime": "Hansa"
+	},
+	{
+		"vrednost": "Honda",
+		"id": 3600,
+		"ime": "Honda"
+	},
+	{
+		"vrednost": "Hummer",
+		"id": 3700,
+		"ime": "Hummer"
+	},
+	{
+		"vrednost": "Hyundai",
+		"id": 3800,
+		"ime": "Hyundai"
+	},
+	{
+		"vrednost": "Infiniti",
+		"id": 3900,
+		"ime": "Infiniti"
+	},
+	{
+		"vrednost": "Iso",
+		"id": 3950,
+		"ime": "Iso"
+	},
+	{
+		"vrednost": "Isuzu",
+		"id": 4000,
+		"ime": "Isuzu"
+	},
+	{
+		"vrednost": "Iveco",
+		"id": 4100,
+		"ime": "Iveco"
+	},
+	{
+		"vrednost": "JAC",
+		"id": 4150,
+		"ime": "JAC"
+	},
+	{
+		"vrednost": "Jaguar",
+		"id": 4200,
+		"ime": "Jaguar"
+	},
+	{
+		"vrednost": "JDM",
+		"id": 4300,
+		"ime": "JDM"
+	},
+	{
+		"vrednost": "Jeep",
+		"id": 4400,
+		"ime": "Jeep"
+	},
+	{
+		"vrednost": "Kia",
+		"id": 4500,
+		"ime": "Kia"
+	},
+	{
+		"vrednost": "KTM",
+		"id": 4600,
+		"ime": "KTM"
+	},
+	{
+		"vrednost": "Lada",
+		"id": 4700,
+		"ime": "Lada"
+	},
+	{
+		"vrednost": "Lamborghini",
+		"id": 4800,
+		"ime": "Lamborghini"
+	},
+	{
+		"vrednost": "Lancia",
+		"id": 4900,
+		"ime": "Lancia"
+	},
+	{
+		"vrednost": "LandRover",
+		"id": 5000,
+		"ime": "Land Rover"
+	},
+	{
+		"vrednost": "LandWind",
+		"id": 5100,
+		"ime": "LandWind"
+	},
+	{
+		"vrednost": "Lexus",
+		"id": 5200,
+		"ime": "Lexus"
+	},
+	{
+		"vrednost": "Ligier",
+		"id": 5300,
+		"ime": "Ligier"
+	},
+	{
+		"vrednost": "Lincoln",
+		"id": 5400,
+		"ime": "Lincoln"
+	},
+	{
+		"vrednost": "London Taxi",
+		"id": 5500,
+		"ime": "London Taxi"
+	},
+	{
+		"vrednost": "Lotus",
+		"id": 5600,
+		"ime": "Lotus"
+	},
+	{
+		"vrednost": "LuAZ",
+		"id": 5650,
+		"ime": "LuAZ"
+	},
+	{
+		"vrednost": "Mahindra",
+		"id": 5700,
+		"ime": "Mahindra"
+	},
+	{
+		"vrednost": "Maruti",
+		"id": 5800,
+		"ime": "Maruti"
+	},
+	{
+		"vrednost": "Maserati",
+		"id": 5900,
+		"ime": "Maserati"
+	},
+	{
+		"vrednost": "Maybach",
+		"id": 6000,
+		"ime": "Maybach"
+	},
+	{
+		"vrednost": "Mazda",
+		"id": 6100,
+		"ime": "Mazda"
+	},
+	{
+		"vrednost": "McLaren",
+		"id": 6200,
+		"ime": "McLaren"
+	},
+	{
+		"vrednost": "Mercedes-Benz",
+		"id": 6300,
+		"ime": "Mercedes-Benz"
+	},
+	{
+		"vrednost": "MG",
+		"id": 6400,
+		"ime": "MG"
+	},
+	{
+		"vrednost": "Microcar",
+		"id": 6500,
+		"ime": "Microcar"
+	},
+	{
+		"vrednost": "Mini",
+		"id": 6600,
+		"ime": "Mini"
+	},
+	{
+		"vrednost": "Mitsubishi",
+		"id": 6700,
+		"ime": "Mitsubishi"
+	},
+	{
+		"vrednost": "Morgan",
+		"id": 6800,
+		"ime": "Morgan"
+	},
+	{
+		"vrednost": "Moskvič",
+		"id": 6900,
+		"ime": "Moskvič"
+	},
+	{
+		"vrednost": "Nissan",
+		"id": 7000,
+		"ime": "Nissan"
+	},
+	{
+		"vrednost": "NSU",
+		"id": 7100,
+		"ime": "NSU"
+	},
+	{
+		"vrednost": "Oldsmobile",
+		"id": 7200,
+		"ime": "Oldsmobile"
+	},
+	{
+		"vrednost": "Opel",
+		"id": 7300,
+		"ime": "Opel"
+	},
+	{
+		"vrednost": "Peugeot",
+		"id": 7400,
+		"ime": "Peugeot"
+	},
+	{
+		"vrednost": "Piaggio",
+		"id": 7500,
+		"ime": "Piaggio"
+	},
+	{
+		"vrednost": "Plymouth",
+		"id": 7600,
+		"ime": "Plymouth"
+	},
+	{
+		"vrednost": "Polestar",
+		"id": 7650,
+		"ime": "Polestar"
+	},
+	{
+		"vrednost": "Pontiac",
+		"id": 7700,
+		"ime": "Pontiac"
+	},
+	{
+		"vrednost": "Porsche",
+		"id": 7800,
+		"ime": "Porsche"
+	},
+	{
+		"vrednost": "Proton",
+		"id": 7900,
+		"ime": "Proton"
+	},
+	{
+		"vrednost": "Puch",
+		"id": 8000,
+		"ime": "Puch"
+	},
+	{
+		"vrednost": "Renault",
+		"id": 8100,
+		"ime": "Renault"
+	},
+	{
+		"vrednost": "Replica",
+		"id": 8150,
+		"ime": "Replica"
+	},
+	{
+		"vrednost": "Rolls-Royce",
+		"id": 8200,
+		"ime": "Rolls-Royce"
+	},
+	{
+		"vrednost": "Rosengart",
+		"id": 15050,
+		"ime": "Rosengart"
+	},
+	{
+		"vrednost": "Rover",
+		"id": 8300,
+		"ime": "Rover"
+	},
+	{
+		"vrednost": "Saab",
+		"id": 8400,
+		"ime": "Saab"
+	},
+	{
+		"vrednost": "Saturn",
+		"id": 8500,
+		"ime": "Saturn"
+	},
+	{
+		"vrednost": "Seat",
+		"id": 8600,
+		"ime": "SEAT"
+	},
+	{
+		"vrednost": "Shuanghuan",
+		"id": 8700,
+		"ime": "Shuanghuan"
+	},
+	{
+		"vrednost": "Simca",
+		"id": 8800,
+		"ime": "Simca"
+	},
+	{
+		"vrednost": "Smart",
+		"id": 8900,
+		"ime": "Smart"
+	},
+	{
+		"vrednost": "Spyker",
+		"id": 9000,
+		"ime": "Spyker"
+	},
+	{
+		"vrednost": "SsangYong",
+		"id": 9100,
+		"ime": "SsangYong"
+	},
+	{
+		"vrednost": "Subaru",
+		"id": 9200,
+		"ime": "Subaru"
+	},
+	{
+		"vrednost": "Suzuki",
+		"id": 9300,
+		"ime": "Suzuki"
+	},
+	{
+		"vrednost": "Škoda",
+		"id": 9400,
+		"ime": "Škoda"
+	},
+	{
+		"vrednost": "Talbot",
+		"id": 9500,
+		"ime": "Talbot"
+	},
+	{
+		"vrednost": "Tata",
+		"id": 9600,
+		"ime": "Tata"
+	},
+	{
+		"vrednost": "Tavria",
+		"id": 9700,
+		"ime": "Tavria"
+	},
+	{
+		"vrednost": "Tazzari",
+		"id": 9800,
+		"ime": "Tazzari"
+	},
+	{
+		"vrednost": "Tesla",
+		"id": 9900,
+		"ime": "Tesla"
+	},
+	{
+		"vrednost": "Toyota",
+		"id": 10000,
+		"ime": "Toyota"
+	},
+	{
+		"vrednost": "Trabant",
+		"id": 10100,
+		"ime": "Trabant"
+	},
+	{
+		"vrednost": "Triumph",
+		"id": 10200,
+		"ime": "Triumph"
+	},
+	{
+		"vrednost": "TVR",
+		"id": 10300,
+		"ime": "TVR"
+	},
+	{
+		"vrednost": "UAZ",
+		"id": 10450,
+		"ime": "UAZ"
+	},
+	{
+		"vrednost": "Vauxhall",
+		"id": 10460,
+		"ime": "Vauxhall"
+	},
+	{
+		"vrednost": "Venturi",
+		"id": 10500,
+		"ime": "Venturi"
+	},
+	{
+		"vrednost": "Volga",
+		"id": 10600,
+		"ime": "Volga"
+	},
+	{
+		"vrednost": "Volvo",
+		"id": 10700,
+		"ime": "Volvo"
+	},
+	{
+		"vrednost": "Volkswagen",
+		"id": 10800,
+		"ime": "Volkswagen"
+	},
+	{
+		"vrednost": "Wartburg",
+		"id": 10900,
+		"ime": "Wartburg"
+	},
+	{
+		"vrednost": "Westfield",
+		"id": 11000,
+		"ime": "Westfield"
+	},
+	{
+		"vrednost": "Wiesmann",
+		"id": 11100,
+		"ime": "Wiesmann"
+	},
+	{
+		"vrednost": "Zastava",
+		"id": 11200,
+		"ime": "Zastava"
+	},
+	{
+		"vrednost": "ZAZ",
+		"id": 11300,
+		"ime": "ZAZ"
+	},
+	{
+		"vrednost": "Zhidou",
+		"id": 11400,
+		"ime": "Zhidou"
+	}
+]

@@ -215,6 +215,8 @@ class IskalnikBolha(Iskalnik):
                 a.menjalnik = Menjalnik.AVTOMATSKI
             case "Avtomatski sekvenčni":
                 a.menjalnik = Menjalnik.AVTOMATSKI
+            case "Sekvenčni menjalnik":
+                a.menjalnik = Menjalnik.AVTOMATSKI
             case None:
                 a.menjalnik = None
             case _:
@@ -226,6 +228,8 @@ class IskalnikBolha(Iskalnik):
                 a.vrsta_motorja = Motor.DIEZEL
             case "Hibrid":
                 a.vrsta_motorja = Motor.HIBRID
+            case "Električni":
+                a.vrsta_motorja = Motor.ELEKTRIČNI
             case None:
                 a.vrsta_motorja = None
             case _:
