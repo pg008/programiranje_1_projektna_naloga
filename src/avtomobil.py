@@ -1,11 +1,10 @@
 from dataclasses import dataclass
 import sqlite3
-from unittest.mock import NonCallableMagicMock
 from konstante import BAZA_MODELOV
 import re
 from enum import Enum
 import math
-from razno import strip_accents
+from razno import podobnost, progressbar
 
 
 class Motor(Enum):
@@ -43,12 +42,13 @@ class Avtomobil:
     prostornina_motorja: float=None
 
 @dataclass
-class NajdenAvtomobil(Avtomobil):
+class RabljenAvtomobil(Avtomobil):
     povezava: str=None
     naslov_oglasa: str=None
     leto_izdelave: int=None
     stevilo_kilometrov: int=None
     cena: float=None
+    platforma: str=None
     id_razlicice: int=None
     id_modela: int=None
 
@@ -76,52 +76,51 @@ def query(sql: str):
     c = baza.execute(sql)
     return c.fetchall()
 
-def identificiraj(a: NajdenAvtomobil) -> tuple:
+def identificiraj(a: RabljenAvtomobil) -> tuple:
     """
     Poišče id te različice avtomobila v bazi."""
-    prestave = (
-        (str(a.stevilo_prestav) if not a.stevilo_prestav is None else "")
-        + ("AT" if a.menjalnik == Menjalnik.AVTOMATSKI else "MT" if a.menjalnik == Menjalnik.ROČNI else "")
+    try:
+        id_modela = query(f'SELECT id_modela FROM modeli_platforme WHERE ime_modela_{a.platforma}="{a.ime_modela}"')[0][0]
+    except IndexError:
+        id_modela = None
+    možne_različice = pridobi_različice(
+        'WHERE znamke.id=(SELECT id_znamke FROM '
+        f'znamke_platforme WHERE ime_znamke_{a.platforma}="{a.ime_znamke}")'
+        +
+        (f' AND modeli.id={id_modela};' if id_modela else ";")
     )
-    match a.vrsta_motorja:
-        case Motor.BENCIN:
-            pogon = "gasoline"
-        case Motor.DIEZEL:
-            pogon = "diesel"
-        case Motor.HIBRID:
-            pogon = "hybrid"
-        case Motor.ELEKTRIČNI:
-            pogon = "electric"
-        case None:
-            pogon = ""
-    prostornina = str(math.floor(a.prostornina_motorja)) + "." + str(math.ceil(10*(a.prostornina_motorja - math.floor(a.prostornina_motorja)))) if not a.prostornina_motorja is None else ""
-    konjske = str(a.konjske_moci) if not a.konjske_moci is None else str(round(a.kilovati/1.34102209)) if not a.kilovati is None else ""
-    sql = (
-        splosen_query
-        + "WHERE "
-        + f'znamke.ime LIKE \"%{strip_accents(a.ime_znamke.upper().replace("-", " ")) if not a.ime_znamke == "VW" else "VOLKSWAGEN"}%\" '
-        + 'AND ( '
-        + " OR ".join(f'modeli.ime LIKE \"%{beseda.upper()}%\"' for beseda in a.ime_modela.split())
-        + ' OR '
-        + " OR ".join(f'razlicice.ime LIKE \"%{beseda.upper()}%\"' for beseda in a.ime_modela.split())
-        + ' ) '
-        # + f'AND (razlicice.opis LIKE \"%{prostornina}L%\" '
-        # + f'OR razlicice.opis LIKE \"%{konjske} HP%\") '
-        + f'AND razlicice.vrsta_motorja LIKE \"%{pogon}%\"'
-        + f'AND razlicice.opis LIKE \"%{prestave}%\"'
-        + f'AND ({a.leto_izdelave} BETWEEN razlicice.zacetno_leto AND razlicice.koncno_leto)'
-    )
-    zadetki = query(sql)
-    if len(zadetki) > 1:
-        return (zadetki[0][4], None)
-    elif len(zadetki) == 1:
-        return (zadetki[0][4], zadetki[0][0])
-    else:
-        return (None, None)
+    if len(možne_različice) == 0: return None
+
+    ujemanja = ((r, ujemanje(a, r)) for r in možne_različice)
+
+    naj_model, naj_ujemanje = max(ujemanja, key=lambda x: x[1])
+    return naj_model if naj_ujemanje > 10 else None
+    
+
+def ujemanje(n: RabljenAvtomobil, b: ModelAvtomobila):
+    u_ime_modela = podobnost(n.ime_modela, b.ime_modela)/100
+    u_ime_raz = podobnost(n.ime_razlicice, b.ime_razlicice)/100
+    u_leto = n.leto_izdelave in range(b.zacetno_leto, b.koncno_leto+1)
+    u_menjalnik = n.menjalnik == b.menjalnik
+    u_vrsta_motorja = n.vrsta_motorja == b.vrsta_motorja
+    try:
+        u_prostornina = min(n.prostornina_motorja, b.prostornina_motorja) / max(n.prostornina_motorja, b.prostornina_motorja)
+    except TypeError:
+        u_prostornina = 0
+    u_tip = n.tip_modela == b.tip_modela
+    try:
+        u_št_prestav = min(n.stevilo_prestav, b.stevilo_prestav) / max(n.stevilo_prestav, b.stevilo_prestav)
+    except TypeError:
+        u_št_prestav = 0
+    u_št_vrat = n.stevilo_vrat == b.stevilo_vrat
+
+    return (5*u_ime_modela+2*u_ime_raz+1*u_leto+2*u_menjalnik+3*u_vrsta_motorja
+            +u_prostornina+3*u_tip+u_št_prestav+u_št_vrat)
 
 def pridobi_različice(where_sql: str=None, id: int=None) -> list[ModelAvtomobila]:
     sql = splosen_query + " " + where_sql if id == None else splosen_query + f" WHERE razlicice.id={id}"
     razlicice = query(sql)
+    m = []
     for r in razlicice:
         (id_razlicice,
         ime_razlicice,
@@ -139,7 +138,7 @@ def pridobi_različice(where_sql: str=None, id: int=None) -> list[ModelAvtomobil
             število_prestav = int(število_prestav)
             menjalnik = {"AT": Menjalnik.AVTOMATSKI, "MT": Menjalnik.ROČNI}[menjalnik]
         except AttributeError:
-            stevilo_prestav, menjalnik = None, None
+            število_prestav, menjalnik = None, None
         try:
             konjske_moči = int(re.search(r'(\d{1,3}) HP', opis_razlicice).group(1))
         except AttributeError:
@@ -182,7 +181,7 @@ def pridobi_različice(where_sql: str=None, id: int=None) -> list[ModelAvtomobil
                 število_vrat = int(število_vrat.group(1))
                 break
     
-        yield ModelAvtomobila(
+        m.append(ModelAvtomobila(
             ime_znamke,
             ime_modela,
             ime_razlicice,
@@ -199,4 +198,5 @@ def pridobi_različice(where_sql: str=None, id: int=None) -> list[ModelAvtomobil
             opis_razlicice,
             zacetno_leto,
             koncno_leto
-        )
+        ))
+    return m

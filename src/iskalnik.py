@@ -1,13 +1,14 @@
 from dataclasses import dataclass, asdict
 from typing import Union
 from types import NoneType
-from avtomobil import Motor, Menjalnik, NajdenAvtomobil, identificiraj
-from konstante import ZNAMKE_BOLHA
+from avtomobil import ModelAvtomobila, Motor, Menjalnik, RabljenAvtomobil, TipVozila, identificiraj
 import grequests, requests
 import re
 import math
-from difflib import SequenceMatcher
 import pandas as pd
+from razno import progressbar
+from enum import Enum
+import copy
 
 
 class Filter:
@@ -46,42 +47,87 @@ class FilterBolha:
         return "typeOfTransaction=Prodam"
     
     def znamke_str(self):
-        idji = [
-            str(id) for
-            ime, id in
-            ZNAMKE_BOLHA.items()
-            for z in self.znamke
-            if
-            SequenceMatcher(
-                None,
-                ime.replace(" ", "").upper(),
-                z.replace(" ", "").upper()
-            ).ratio() > 0.9
+        # idji = [
+        #     str(id) for
+        #     ime, id in
+        #     ZNAMKE_BOLHA.items()
+        #     for z in self.znamke
+        #     if
+        #     SequenceMatcher(
+        #         None,
+        #         ime.replace(" ", "").upper(),
+        #         z.replace(" ", "").upper()
+        #     ).ratio() > 0.9
             
-        ]
-        return f"vehicleIds={'%2C'.join(idji)}"
-
+        # ]
+        # return f"vehicleIds={'%2C'.join(idji)}"
+        pass
 
 class Iskalnik:
-    def __init__(self, filter: Filter):
-        self.filter = filter
-        self.najdeni_avtomobili: list[NajdenAvtomobil] = []
+    def __init__(
+        self, 
+        filter: Filter=None,
+        ime_platforme: str=None,
+        url: str=None,
+        osnovni_url: str=None
+    ):
+        self._filter = filter if filter else Filter()
+        self._ime_platforme = ime_platforme
+        self._url = url
+        self._osnovni_url = osnovni_url
+        self.najdeni_avtomobili: list[RabljenAvtomobil] = []
+        self.obdelani_avtomobili = None
     
     def išči(self):
         pass
 
-class IskalnikBolha(Iskalnik):
-    def __init__(self, filter: Filter, *args, **kwargs):
-        super().__init__(filter, *args, **kwargs)
-        self._filter = filter
-        self._url = "https://www.bolha.com/rabljeni-avtomobili"
-        self._osnovni_url = "https://www.bolha.com"
+    def _obdelaj_in_poišči_v_bazi_vse_avtomobile(self):
+        print("Identificiram najdene avtomobile.")
+        if self.obdelani_avtomobili:
+            print("Že obdelano")
+            return
+        self.obdelani_avtomobili = copy.deepcopy(self.najdeni_avtomobili)
+        for a in progressbar(self.obdelani_avtomobili):
+            self._obdelaj_najden_avtomobil(a)
+            self._poišči_v_bazi(a)
+    
+    def _obdelaj_najden_avtomobil(self, a):
+        pass
 
-    def _pridobi_html(self, url, stran) -> Union[str, NoneType]:
-        html = requests.get(url+f"?page={stran}").text
-        if "Trenutno ni oglasov," in html:
-            return False
-        else: return html
+    def _poišči_v_bazi(self, a):
+        zadetek: ModelAvtomobila = identificiraj(a)
+        if zadetek is None: return
+        a.id_modela, a.id_razlicice = zadetek.id_modela, zadetek.id_razlicice
+        a.ime_znamke, a.ime_modela, a.ime_razlicice = zadetek.ime_znamke, zadetek.ime_modela, zadetek.ime_razlicice
+
+    def tabela(self, obdelani: bool=True) -> pd.DataFrame:
+        """Vrne pandas DataFrame s podatki o avtomobilih."""
+        l = self.obdelani_avtomobili if obdelani else self.najdeni_avtomobili
+        slovarji = [asdict(a) for a in l]
+        for s in slovarji:
+            for i,a in s.items():
+                if isinstance(a, Enum):
+                    s[i] = str(a.name)
+        return pd.DataFrame.from_records(slovarji)
+    
+    def _odpri_oglase_in_poišči_podatke(self, povezave) -> list:
+        print("Iščem podatke o avtomobilih.")
+        najdeni_avtomobili = []
+        for sklop_oglasov in progressbar([povezave[x:x+15] for x in range(0, len(povezave), 15)]):
+            rs = (grequests.get(o) for o in sklop_oglasov)
+            reqs = grequests.map(rs)
+            najdeni_avtomobili.extend([self._podatki_o_avtomobilu(r.text, r.url) for r in reqs])
+        return najdeni_avtomobili
+
+class IskalnikBolha(Iskalnik):
+    def __init__(self, filter: Filter=None, *args, **kwargs):
+        super().__init__(
+            filter,
+            ime_platforme = "bolha",
+            url = "https://www.bolha.com/rabljeni-avtomobili",
+            osnovni_url = "https://www.bolha.com",
+            *args, **kwargs)
+        self._filter.__class__ = FilterBolha
     
     def _poišči_avtomobile(self, html) -> list:
         iskalnik_avtomobilov = re.compile(
@@ -99,7 +145,7 @@ class IskalnikBolha(Iskalnik):
         avtomobili = [iskalnik_podatkov.search(a)
             for a in najdeni]
         return [
-            NajdenAvtomobil(
+            RabljenAvtomobil(
                povezava = a["povezava"],
                leto_izdelave = a["leto_izdelave"],
                naslov_oglasa=a["naslov"],
@@ -107,7 +153,7 @@ class IskalnikBolha(Iskalnik):
             for a in avtomobili
         ]
 
-    def _podatki_o_avtomobilu(self, request) -> NajdenAvtomobil:
+    def _podatki_o_avtomobilu(self, html, url) -> RabljenAvtomobil:
         p = re.search(
             r'<h1 class="ClassifiedDetailSummary-title"\s?>(?P<naslov_oglasa>.*?)</h1>'
             r'(?:[\s\S]*?<dd class="ClassifiedDetailSummary-priceDomestic"\s?>[\s\S]*?(?P<cena>[\d\.,]+?)[^\d\.,]*?€)?'
@@ -121,64 +167,92 @@ class IskalnikBolha(Iskalnik):
             r'<span.*?>(?P<leto_izdelave>.*?)</span>)?'
             r'(?:[\s\S]*?Prevoženi kilometri[\s\S]*?'
             r'<span.*?>(?P<prevozeni_kilometri>\d+?)\skm</span>)?'
-            r'(?:[\s\S]*?Motor[\s\S]*?'
+            r'(?:[\s\S]*?Motor</span>[\s\S]*?'
             r'<span.*?>(?P<pogon>.*?)</span>)?'
-            r'(?:[\s\S]*?Moč motorja[\s\S]*?'
+            r'(?:[\s\S]*?Moč motorja</span>[\s\S]*?'
             r'<span.*?>(?P<moc_motorja>\d+?) <)?'
-            r'(?:[\s\S]*?Delovna prostornina[\s\S]*?'
+            r'(?:[\s\S]*?Delovna prostornina</span>[\s\S]*?'
             r'<span.*?>(?P<prostornina_motorja>[\d\.]+?) <)?'
-            r'(?:[\s\S]*?Menjalnik[\s\S]*?'
+            r'(?:[\s\S]*?Menjalnik</span>[\s\S]*?'
             r'<span.*?>(?P<menjalnik>.+?)</span>)?'
-            r'(?:[\s\S]*?Število prestav[\s\S]*?'
+            r'(?:[\s\S]*?Število prestav</span>[\s\S]*?'
             r'<span.*?>(?P<stevilo_prestav>\d+?) stopenj)?'
             r'(?:[\s\S]*?Oblika karoserije: (?P<tip>[^\n]*?)\s+?</li)?'
             r'(?:[\s\S]*?Število vrat: (?P<stevilo_vrat>\d))?'
             ,
-            request.text,
+            html,
             re.MULTILINE
         )
         if p is None: return None
-        match p["menjalnik"]:
-            case "Mehanski menjalnik":
-                menjalnik = Menjalnik.ROČNI
-            case "Avtomatski":
-                menjalnik = Menjalnik.AVTOMATSKI
-            case "Avtomatski sekvenčni":
-                menjalnik = Menjalnik.AVTOMATSKI
-            case None:
-                menjalnik = None
-            case _:
-                raise NotImplementedError(f'ne poznam menjalnika: {p["menjalnik"]}, {request.url}')
-        match p["pogon"]:
-            case "Bencin":
-                vrsta_motorja = Motor.BENCIN
-            case "Diezel":
-                vrsta_motorja = Motor.DIEZEL
-            case None:
-                vrsta_motorja = None
-            case _:
-                raise NotImplementedError(f'ne poznam motorja: {p["pogon"]}, {request.url}')
-        if not p["cena"] is None: cena = float(p["cena"].replace(".", "").replace(",", "."))
-        else: cena = None
-        a = NajdenAvtomobil(
+        
+        a = RabljenAvtomobil(
             ime_znamke = p["znamka"],
             ime_modela = p["model"],
             ime_razlicice = p["razlicica"],
             tip_modela = p["tip"],
-            menjalnik = menjalnik,
-            vrsta_motorja = vrsta_motorja,
-            stevilo_vrat = int(p["stevilo_vrat"]) if not p["stevilo_vrat"] is None else None,
-            stevilo_prestav = int(p["stevilo_prestav"]) if not p["stevilo_prestav"] is None else None,
+            menjalnik = p["menjalnik"],
+            vrsta_motorja = p["pogon"],
+            stevilo_vrat = int(p["stevilo_vrat"]) if p["stevilo_vrat"] else None,
+            stevilo_prestav = int(p["stevilo_prestav"]) if p["stevilo_prestav"] else None,
             konjske_moci = None,
-            kilovati = int(p["moc_motorja"]) if not p["moc_motorja"] is None else None,
-            prostornina_motorja = float(p["prostornina_motorja"]) if not p["prostornina_motorja"] is None else None,
-            povezava = request.url,
+            kilovati = int(p["moc_motorja"]) if p["moc_motorja"] else None,
+            prostornina_motorja = float(p["prostornina_motorja"]) if p["prostornina_motorja"] else None,
+            povezava = url,
             naslov_oglasa = p["naslov_oglasa"],
-            leto_izdelave = int(p["leto_izdelave"]) if not p["leto_izdelave"] is None else None,
+            leto_izdelave = int(p["leto_izdelave"]) if p["leto_izdelave"] else None,
             stevilo_kilometrov = int(p["prevozeni_kilometri"]) if not p["prevozeni_kilometri"] is None else None,
-            cena = cena,
+            platforma = self._ime_platforme,
+            cena = p["cena"],
         )
         return a
+
+    def _obdelaj_najden_avtomobil(self, a: RabljenAvtomobil):
+        super()._obdelaj_najden_avtomobil(a)
+        match a.menjalnik:
+            case "Mehanski menjalnik":
+                a.menjalnik = Menjalnik.ROČNI
+            case "Avtomatski":
+                a.menjalnik = Menjalnik.AVTOMATSKI
+            case "Avtomatski sekvenčni":
+                a.menjalnik = Menjalnik.AVTOMATSKI
+            case None:
+                a.menjalnik = None
+            case _:
+                raise NotImplementedError(f'ne poznam menjalnika: {a.menjalnik}, {a.povezava}')
+        match a.vrsta_motorja:
+            case "Bencin":
+                a.vrsta_motorja = Motor.BENCIN
+            case "Diezel":
+                a.vrsta_motorja = Motor.DIEZEL
+            case "Hibrid":
+                a.vrsta_motorja = Motor.HIBRID
+            case None:
+                a.vrsta_motorja = None
+            case _:
+                raise NotImplementedError(f'ne poznam motorja: {a.vrsta_motorja}, {a.povezava}')
+        match a.tip_modela:
+            case "limuzina":
+                a.tip_modela = TipVozila.SPREMENLJIV
+            case "karavan":
+                a.tip_modela = TipVozila.KARAVAN
+            case "enoprostorec":
+                a.tip_modela = TipVozila.KOMBI
+            case "coupe":
+                a.tip_modela = TipVozila.COUPÉ
+            case "kabriolet":
+                a.tip_modela = TipVozila.SPREMENLJIV
+            case "terensko vozilo – SUV":
+                a.tip_modela = TipVozila.SUV
+            case "kombibus":
+                a.tip_modela = TipVozila.KOMBI
+            case "hatchback":
+                a.tip_modela = TipVozila.HATCHBACK
+            case None:
+                a.tip_modela = None
+            case _:
+                raise NotImplementedError(f'ne poznam tipa: {a.tip_modela}, {a.povezava}')
+        if not a.cena is None:
+            a.cena = float(a.cena.replace(".", "").replace(",", "."))
 
     def _število_strani(self):
         oglasov = re.search(
@@ -188,19 +262,15 @@ class IskalnikBolha(Iskalnik):
         return math.ceil(int(oglasov) / 25)
     
     def _poln_url(self, stran=1):
-        return self._url + "?" + self._filter.kriterijski_niz() + f"&page={stran}"
-
-    def _poišči_podrobno_avtomobile(self, povezave) -> list:
-        print("Iščem podatke o avtomobilih:")
-        rs = (grequests.get(self._osnovni_url + u) for u in povezave)
-        reqs = grequests.map(rs)
-        return [self._podatki_o_avtomobilu(r) for r in reqs]
+        return (self._url + "?"
+            + self._filter.kriterijski_niz()
+            + f"&page={stran}")
     
-    def išči(self, podrobno=True, samo_prva_stran=False):
+    def išči(self, podrobno=True, strani=None, identificiraj_in_obdelaj: bool=True):
         povezave = [
             self._poln_url(s+1) for s in range(self._število_strani())
         ]
-        if samo_prva_stran: povezave = povezave[:1]
+        if not strani is None: povezave = povezave[:strani]
         n = []
         rs = (grequests.get(u) for u in povezave)
         print("Listam strani na bolhi:")
@@ -208,15 +278,14 @@ class IskalnikBolha(Iskalnik):
             html = r.text
             n.extend(self._poišči_avtomobile(html))
         if podrobno:
-            self.najdeni_avtomobili = self._poišči_podrobno_avtomobile([a.povezava for a in n])
+            a = self._odpri_oglase_in_poišči_podatke([self._osnovni_url + a.povezava for a in n])
+            self.najdeni_avtomobili = a
         else:
             self.najdeni_avtomobili = n
         
-        self._poišči_v_bazi()
+        if identificiraj_in_obdelaj:
+            self._obdelaj_in_poišči_v_bazi_vse_avtomobile()
         
-    def _poišči_v_bazi(self):
-        for a in self.najdeni_avtomobili:
-            a.id_modela, a.id_razlicice = identificiraj(a)
+
     
-    def tabela(self) -> pd.DataFrame:
-        return pd.DataFrame.from_records([asdict(a) for a in self.najdeni_avtomobili])
+    

@@ -20,6 +20,7 @@ def strip_accents(s):
                   if unicodedata.category(c) != 'Mn')
 
 def podobnost(a, b) -> int:
+    if a is None or b is None: return 0
     a, b = strip_accents(a), strip_accents(b)
     a = a.replace("-", " ").upper()
     b = b.replace("-", " ").upper()
