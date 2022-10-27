@@ -1,0 +1,822 @@
+
+[{
+	"vrednost": "156",
+	"znamka": "Alfa Romeo",
+	"ime": "156"
+},
+{
+	"vrednost": "156---Sportwagon",
+	"znamka": "Alfa Romeo",
+	"ime": "156 Sportwagon"
+},{
+	"vrednost": "159",
+	"znamka": "Alfa Romeo",
+	"ime": "159"
+},
+{
+	"vrednost": "159---Sportwagon",
+	"znamka": "Alfa Romeo",
+	"ime": "159 Sportwagon"
+},{
+	"vrednost": "A1",
+	"znamka": "Audi",
+	"ime": "A1"
+},
+{
+	"vrednost": "S1",
+	"znamka": "Audi",
+	"ime": "S1"
+},
+{
+	"vrednost": "A3",
+	"znamka": "Audi",
+	"ime": "A3"
+},
+{
+	"vrednost": "A3---Cabriolet",
+	"znamka": "Audi",
+	"ime": "A3 Cabriolet"
+},
+{
+	"vrednost": "S3",
+	"znamka": "Audi",
+	"ime": "S3"
+},
+{
+	"vrednost": "S3---Cabriolet",
+	"znamka": "Audi",
+	"ime": "S3 Cabriolet"
+},
+{
+	"vrednost": "RS3",
+	"znamka": "Audi",
+	"ime": "RS3"
+},{
+	"vrednost": "A4",
+	"znamka": "Audi",
+	"ime": "A4"
+},
+{
+	"vrednost": "A4---Avant",
+	"znamka": "Audi",
+	"ime": "A4 Avant"
+},
+{
+	"vrednost": "A4---Cabriolet",
+	"znamka": "Audi",
+	"ime": "A4 Cabriolet"
+},
+{
+	"vrednost": "A4---Allroad",
+	"znamka": "Audi",
+	"ime": "A4 Allroad"
+},
+{
+	"vrednost": "S4",
+	"znamka": "Audi",
+	"ime": "S4"
+},
+{
+	"vrednost": "S4---Cabriolet",
+	"znamka": "Audi",
+	"ime": "S4 Cabriolet"
+},
+{
+	"vrednost": "RS4",
+	"znamka": "Audi",
+	"ime": "RS4"
+},{
+	"vrednost": "A5",
+	"znamka": "Audi",
+	"ime": "A5"
+},
+{
+	"vrednost": "A5---Cabriolet",
+	"znamka": "Audi",
+	"ime": "A5 Cabriolet"
+},
+{
+	"vrednost": "A5---Sportback",
+	"znamka": "Audi",
+	"ime": "A5 Sportback"
+},
+{
+	"vrednost": "S5",
+	"znamka": "Audi",
+	"ime": "S5"
+},
+{
+	"vrednost": "S5---Cabriolet",
+	"znamka": "Audi",
+	"ime": "S5 Cabriolet"
+},
+{
+	"vrednost": "S5---Sportback",
+	"znamka": "Audi",
+	"ime": "S5 Sportback"
+},
+{
+	"vrednost": "RS5",
+	"znamka": "Audi",
+	"ime": "RS5"
+},
+{
+	"vrednost": "RS5---Cabriolet",
+	"znamka": "Audi",
+	"ime": "RS5 Cabriolet"
+},{
+	"vrednost": "A6",
+	"znamka": "Audi",
+	"ime": "A6"
+},
+{
+	"vrednost": "A6---Avant",
+	"znamka": "Audi",
+	"ime": "A6 Avant"
+},
+{
+	"vrednost": "A6---Allroad",
+	"znamka": "Audi",
+	"ime": "A6 Allroad"
+},
+{
+	"vrednost": "S6",
+	"znamka": "Audi",
+	"ime": "S6"
+},
+{
+	"vrednost": "RS6",
+	"znamka": "Audi",
+	"ime": "RS6"
+},{
+	"vrednost": "A7",
+	"znamka": "Audi",
+	"ime": "A7"
+},
+{
+	"vrednost": "S7",
+	"znamka": "Audi",
+	"ime": "S7"
+},
+{
+	"vrednost": "RS7",
+	"znamka": "Audi",
+	"ime": "RS7"
+},{
+	"vrednost": "A8",
+	"znamka": "Audi",
+	"ime": "A8"
+},
+{
+	"vrednost": "S8",
+	"znamka": "Audi",
+	"ime": "S8"
+},{
+	"vrednost": "Q2",
+	"znamka": "Audi",
+	"ime": "Q2"
+},
+{
+	"vrednost": "SQ2",
+	"znamka": "Audi",
+	"ime": "SQ2"
+},{
+	"vrednost": "Q3",
+	"znamka": "Audi",
+	"ime": "Q3"
+},
+{
+	"vrednost": "Q3 Sportback",
+	"znamka": "Audi",
+	"ime": "Q3 Sportback"
+},
+{
+	"vrednost": "RS Q3",
+	"znamka": "Audi",
+	"ime": "RS Q3"
+},
+{
+	"vrednost": "RS Q3 Sportback",
+	"znamka": "Audi",
+	"ime": "RS Q3 Sportback"
+},{
+	"vrednost": "Q4 e-tron",
+	"znamka": "Audi",
+	"ime": "Q4 e-tron"
+},
+{
+	"vrednost": "Q4 Sportback e-tron",
+	"znamka": "Audi",
+	"ime": "Q4 Sportback e-tron"
+},{
+	"vrednost": "Q5",
+	"znamka": "Audi",
+	"ime": "Q5"
+},
+{
+	"vrednost": "Q5 Sportback",
+	"znamka": "Audi",
+	"ime": "Q5 Sportback"
+},
+{
+	"vrednost": "SQ5",
+	"znamka": "Audi",
+	"ime": "SQ5"
+},{
+	"vrednost": "Q7",
+	"znamka": "Audi",
+	"ime": "Q7"
+},
+{
+	"vrednost": "SQ7",
+	"znamka": "Audi",
+	"ime": "SQ7"
+},{
+	"vrednost": "Q8",
+	"znamka": "Audi",
+	"ime": "Q8"
+},
+{
+	"vrednost": "SQ8",
+	"znamka": "Audi",
+	"ime": "SQ8"
+},
+{
+	"vrednost": "RS Q8",
+	"znamka": "Audi",
+	"ime": "RS Q8"
+},
+{
+	"vrednost": "TT",
+	"znamka": "Audi",
+	"ime": "TT"
+},
+{
+	"vrednost": "TTS",
+	"znamka": "Audi",
+	"ime": "TTS"
+},
+{
+	"vrednost": "TT RS",
+	"znamka": "Audi",
+	"ime": "TT RS"
+},{
+	"vrednost": "serija 1:",
+	"znamka": "BMW",
+	"ime": "serija 1:"
+},
+{
+	"vrednost": "serija 1 Coupe:",
+	"znamka": "BMW",
+	"ime": "serija 1 Coupe:"
+},
+{
+	"vrednost": "serija 1 Cabrio:",
+	"znamka": "BMW",
+	"ime": "serija 1 Cabrio:"
+},
+{
+	"vrednost": "1M Coupe",
+	"znamka": "BMW",
+	"ime": "1M Coupe"
+},
+{
+	"vrednost": "serija 2:",
+	"znamka": "BMW",
+	"ime": "serija 2:"
+},
+{
+	"vrednost": "serija 2 Coupe:",
+	"znamka": "BMW",
+	"ime": "serija 2 Coupe:"
+},
+{
+	"vrednost": "serija 2 Cabrio:",
+	"znamka": "BMW",
+	"ime": "serija 2 Cabrio:"
+},
+{
+	"vrednost": "serija 2 Active Tourer:",
+	"znamka": "BMW",
+	"ime": "serija 2 Active Tourer:"
+},
+{
+	"vrednost": "serija 2 Gran Tourer:",
+	"znamka": "BMW",
+	"ime": "serija 2 Gran Tourer:"
+},
+{
+	"vrednost": "serija 2 Gran Coupe:",
+	"znamka": "BMW",
+	"ime": "serija 2 Gran Coupe:"
+},
+{
+	"vrednost": "M2",
+	"znamka": "BMW",
+	"ime": "M2"
+},
+{
+	"vrednost": "serija 3:",
+	"znamka": "BMW",
+	"ime": "serija 3:"
+},
+{
+	"vrednost": "serija 3 Touring:",
+	"znamka": "BMW",
+	"ime": "serija 3 Touring:"
+},
+{
+	"vrednost": "serija 3 Compact:",
+	"znamka": "BMW",
+	"ime": "serija 3 Compact:"
+},
+{
+	"vrednost": "serija 3 Coupe:",
+	"znamka": "BMW",
+	"ime": "serija 3 Coupe:"
+},
+{
+	"vrednost": "serija 3 Cabrio:",
+	"znamka": "BMW",
+	"ime": "serija 3 Cabrio:"
+},
+{
+	"vrednost": "serija 3 Gran Turismo:",
+	"znamka": "BMW",
+	"ime": "serija 3 Gran Turismo:"
+},
+{
+	"vrednost": "M3",
+	"znamka": "BMW",
+	"ime": "M3"
+},
+{
+	"vrednost": "serija 4 Coupe:",
+	"znamka": "BMW",
+	"ime": "serija 4 Coupe:"
+},
+{
+	"vrednost": "serija 4 Cabrio:",
+	"znamka": "BMW",
+	"ime": "serija 4 Cabrio:"
+},
+{
+	"vrednost": "serija 4 Gran Coupe:",
+	"znamka": "BMW",
+	"ime": "serija 4 Gran Coupe:"
+},
+{
+	"vrednost": "M4",
+	"znamka": "BMW",
+	"ime": "M4"
+},
+{
+	"vrednost": "serija 5:",
+	"znamka": "BMW",
+	"ime": "serija 5"
+},
+{
+	"vrednost": "serija 5 Touring:",
+	"znamka": "BMW",
+	"ime": "serija 5 Touring"
+},
+{
+	"vrednost": "serija 5 Gran Turismo:",
+	"znamka": "BMW",
+	"ime": "serija 5 Gran Turismo"
+},
+{
+	"vrednost": "M5",
+	"znamka": "BMW",
+	"ime": "M5"
+},
+{
+	"vrednost": "serija 6:",
+	"znamka": "BMW",
+	"ime": "serija 6"
+},
+{
+	"vrednost": "serija 6 Gran Turismo:",
+	"znamka": "BMW",
+	"ime": "serija 6 Gran Turismo"
+},
+{
+	"vrednost": "serija 6 Gran Coupe:",
+	"znamka": "BMW",
+	"ime": "serija 6 Gran Coupe"
+},
+{
+	"vrednost": "M6",
+	"znamka": "BMW",
+	"ime": "M6"
+},
+{
+	"vrednost": "serija 8 Coupe:",
+	"znamka": "BMW",
+	"ime": "serija 8 Coupe"
+},
+{
+	"vrednost": "serija 8 Cabrio:",
+	"znamka": "BMW",
+	"ime": "serija 8 Cabrio"
+},
+{
+	"vrednost": "serija 8 Gran Coupe:",
+	"znamka": "BMW",
+	"ime": "serija 8 Gran Coupe"
+},
+{
+	"vrednost": "M8",
+	"znamka": "BMW",
+	"ime": "M8"
+},
+{
+	"vrednost": "Voyager",
+	"znamka": "Chrysler",
+	"ime": "Voyager"
+},
+{
+	"vrednost": "Grand Voyager",
+	"znamka": "Chrysler",
+	"ime": "Grand Voyager"
+},{
+	"vrednost": "C4 Picasso",
+	"znamka": "Citroen",
+	"ime": "C4 Picasso"
+},
+{
+	"vrednost": "C4 Grand Picasso",
+	"znamka": "Citroen",
+	"ime": "C4 Grand Picasso"
+},{
+	"vrednost": "C4 SpaceTourer",
+	"znamka": "Citroen",
+	"ime": "C4 SpaceTourer"
+},
+{
+	"vrednost": "C4 Grand SpaceTourer",
+	"znamka": "Citroen",
+	"ime": "C4 Grand SpaceTourer"
+},
+{
+	"vrednost": "C-Max",
+	"znamka": "Ford",
+	"ime": "C-Max"
+},
+{
+	"vrednost": "Grand C-Max",
+	"znamka": "Ford",
+	"ime": "Grand C-Max"
+},{
+	"vrednost": "i30",
+	"znamka": "Hyundai",
+	"ime": "i30"
+},
+{
+	"vrednost": "i30---Wagon",
+	"znamka": "Hyundai",
+	"ime": "i30 Wagon"
+},
+{
+	"vrednost": "i30---Fastback",
+	"znamka": "Hyundai",
+	"ime": "i30 Fastback"
+},
+{
+	"vrednost": "Santa Fe",
+	"znamka": "Hyundai",
+	"ime": "Santa Fe"
+},
+{
+	"vrednost": "Grand Santa Fe",
+	"znamka": "Hyundai",
+	"ime": "Grand Santa Fe"
+},{
+	"vrednost": "Ceed",
+	"znamka": "Kia",
+	"ime": "Ceed"
+},
+{
+	"vrednost": "Ceed---SW",
+	"znamka": "Kia",
+	"ime": "Ceed SW"
+},
+{
+	"vrednost": "Pro_CeeD",
+	"znamka": "Kia",
+	"ime": "Pro_CeeD"
+},
+{
+	"vrednost": "ProCeed",
+	"znamka": "Kia",
+	"ime": "ProCeed"
+},{
+	"vrednost": "AMG GT Coupe",
+	"znamka": "Mercedes-Benz",
+	"ime": "AMG GT Coupe"
+},
+{
+	"vrednost": "AMG GT Roadster",
+	"znamka": "Mercedes-Benz",
+	"ime": "AMG GT Roadster"
+},    
+{
+	"vrednost": "AMG GT 4-vratni Coupe",
+	"znamka": "Mercedes-Benz",
+	"ime": "AMG GT 4-vratni Coupe"
+},{
+	"vrednost": "CLA-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "CLA-Razred"
+},
+{
+	"vrednost": "CLA Shooting Brake",
+	"znamka": "Mercedes-Benz",
+	"ime": "CLA Shooting Brake"
+},{
+	"vrednost": "CLS-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "CLS-Razred"
+},
+{
+	"vrednost": "CLS Shooting Brake",
+	"znamka": "Mercedes-Benz",
+	"ime": "CLS Shooting Brake"
+},
+{
+	"vrednost": "Pajero",
+	"znamka": "Mitsubishi",
+	"ime": "Pajero"
+},
+{
+	"vrednost": "Pajero Pinin",
+	"znamka": "Mitsubishi",
+	"ime": "Pajero Pinin"
+},
+{
+	"vrednost": "Pajero Sport",
+	"znamka": "Mitsubishi",
+	"ime": "Pajero Sport"
+},{
+	"vrednost": "Micra",
+	"znamka": "Nissan",
+	"ime": "Micra"
+},
+{
+	"vrednost": "Micra---CC",
+	"znamka": "Nissan",
+	"ime": "Micra CC"
+},
+{
+	"vrednost": "NV200",
+	"znamka": "Nissan",
+	"ime": "NV200"
+},
+{
+	"vrednost": "e-NV200",
+	"znamka": "Nissan",
+	"ime": "e-NV200"
+},{
+	"vrednost": "Crossland",
+	"znamka": "Opel",
+	"ime": "Crossland"
+},
+{
+	"vrednost": "Crossland X",
+	"znamka": "Opel",
+	"ime": "Crossland X"
+},{
+	"vrednost": "Grandland",
+	"znamka": "Opel",
+	"ime": "Grandland"
+},
+{
+	"vrednost": "Grandland X",
+	"znamka": "Opel",
+	"ime": "Grandland X"
+},{
+	"vrednost": "Mokka",
+	"znamka": "Opel",
+	"ime": "Mokka"
+},
+{
+	"vrednost": "Mokka X",
+	"znamka": "Opel",
+	"ime": "Mokka X"
+},{
+	"vrednost": "718 Boxster",
+	"znamka": "Porsche",
+	"ime": "718 Boxster"
+},
+{
+	"vrednost": "718 Cayman",
+	"znamka": "Porsche",
+	"ime": "718 Cayman"
+},
+{
+	"vrednost": "911",
+	"znamka": "Porsche",
+	"ime": "911"
+},
+{
+	"vrednost": "911---Cabriolet",
+	"znamka": "Porsche",
+	"ime": "911 Cabriolet"
+},
+{
+	"vrednost": "911---Targa",
+	"znamka": "Porsche",
+	"ime": "911 Targa"
+},{
+	"vrednost": "Cayenne",
+	"znamka": "Porsche",
+	"ime": "Cayenne"
+},
+{
+	"vrednost": "Cayenne Coupe",
+	"znamka": "Porsche",
+	"ime": "Cayenne Coupe"
+},
+{
+	"vrednost": "Panamera",
+	"znamka": "Porsche",
+	"ime": "Panamera"
+},
+{
+	"vrednost": "Panamera---Sport Turismo",
+	"znamka": "Porsche",
+	"ime": "Panamera Sport Turismo"
+},{
+	"vrednost": "Taycan",
+	"znamka": "Porsche",
+	"ime": "Taycan"
+},
+{
+	"vrednost": "Taycan---Sport Turismo",
+	"znamka": "Porsche",
+	"ime": "Taycan Sport Turismo"
+},{
+	"vrednost": "Espace",
+	"znamka": "Renault",
+	"ime": "Espace"
+},
+{
+	"vrednost": "Grand Espace",
+	"znamka": "Renault",
+	"ime": "Grand Espace"
+},
+{
+	"vrednost": "Scenic",
+	"znamka": "Renault",
+	"ime": "Scenic"
+},
+{
+	"vrednost": "Grand Scenic",
+	"znamka": "Renault",
+	"ime": "Grand Scenic"
+},{
+	"vrednost": "Altea",
+	"znamka": "Seat",
+	"ime": "Altea"
+},
+{
+	"vrednost": "Altea Freetrack",
+	"znamka": "Seat",
+	"ime": "Altea Freetrack"
+},
+{
+	"vrednost": "Altea XL",
+	"znamka": "Seat",
+	"ime": "Altea XL"
+},{
+	"vrednost": "fortwo",
+	"znamka": "Smart",
+	"ime": "fortwo"
+},
+{
+	"vrednost": "fortwo cabrio",
+	"znamka": "Smart",
+	"ime": "fortwo cabrio"
+},{
+	"vrednost": "S60",
+	"znamka": "Volvo",
+	"ime": "S60"
+},
+{
+	"vrednost": "S60 Cross Country",
+	"znamka": "Volvo",
+	"ime": "S60 Cross Country"
+},
+{
+	"vrednost": "V40",
+	"znamka": "Volvo",
+	"ime": "V40"
+},
+{
+	"vrednost": "V40 Cross Country",
+	"znamka": "Volvo",
+	"ime": "V40 Cross Country"
+},
+{
+	"vrednost": "V60",
+	"znamka": "Volvo",
+	"ime": "V60"
+},
+{
+	"vrednost": "V60 Cross Country",
+	"znamka": "Volvo",
+	"ime": "V60 Cross Country"
+},
+{
+	"vrednost": "V70",
+	"znamka": "Volvo",
+	"ime": "V70"
+},
+{
+	"vrednost": "V70 XC",
+	"znamka": "Volvo",
+	"ime": "V70 XC"
+},{
+	"vrednost": "V90",
+	"znamka": "Volvo",
+	"ime": "V90"
+},
+{
+	"vrednost": "V90 Cross Country",
+	"znamka": "Volvo",
+	"ime": "V90 Cross Country"
+},
+{
+	"vrednost": "Arteon",
+	"znamka": "Volkswagen",
+	"ime": "Arteon"
+},
+{
+	"vrednost": "Arteon---Shooting Brake",
+	"znamka": "Volkswagen",
+	"ime": "Arteon Shooting Brake"
+},
+{
+	"vrednost": "Golf",
+	"znamka": "Volkswagen",
+	"ime": "Golf"
+},
+{
+	"vrednost": "Golf---Variant",
+	"znamka": "Volkswagen",
+	"ime": "Golf Variant"
+},
+{
+	"vrednost": "Golf---Plus",
+	"znamka": "Volkswagen",
+	"ime": "Golf Plus"
+},
+{
+	"vrednost": "Golf---Sportsvan",
+	"znamka": "Volkswagen",
+	"ime": "Golf Sportsvan"
+},
+{
+	"vrednost": "Crossgolf",
+	"znamka": "Volkswagen",
+	"ime": "Crossgolf"
+},
+{
+	"vrednost": "Passat",
+	"znamka": "Volkswagen",
+	"ime": "Passat"
+},
+{
+	"vrednost": "Passat---Variant",
+	"znamka": "Volkswagen",
+	"ime": "Passat Variant"
+},
+{
+	"vrednost": "Passat---Alltrack",
+	"znamka": "Volkswagen",
+	"ime": "Passat Alltrack"
+},
+{
+	"vrednost": "Passat---CC",
+	"znamka": "Volkswagen",
+	"ime": "Passat CC"
+},
+{
+	"vrednost": "Tiguan",
+	"znamka": "Volkswagen",
+	"ime": "Tiguan"
+},
+{
+	"vrednost": "Tiguan Allspace",
+	"znamka": "Volkswagen",
+	"ime": "Tiguan Allspace"
+},{
+	"vrednost": "T-Roc",
+	"znamka": "Volkswagen",
+	"ime": "T-Roc"
+},
+{
+	"vrednost": "T-Roc---Cabriolet",
+	"znamka": "Volkswagen",
+	"ime": "T-Roc Cabriolet"
+}]
