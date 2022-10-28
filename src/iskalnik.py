@@ -468,6 +468,8 @@ class IskalnikAvtoNet(Iskalnik):
                 a.vrsta_motorja = Motor.PLIN
             case "CNG zemeljski plin":
                 a.vrsta_motorja = Motor.PLIN
+            case "hibridni pogon":
+                a.vrsta_motorja = Motor.HIBRID
             case None:
                 a.vrsta_motorja = None
             case _:
