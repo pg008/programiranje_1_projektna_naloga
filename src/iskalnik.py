@@ -260,8 +260,16 @@ class Iskalnik:
         self._filter._nastavi_urlje()
 
     def _urlji_iskalnih_strani(self):
+        while True:
+            try:
+                strani = self._število_strani()
+            except IOError:
+                print("Blokada! Nadaljujem?")
+                input()
+            else:
+                break
         return [
-            self._filter._poln_url(s+1) for s in range(self._število_strani())
+            self._filter._poln_url(s+1) for s in range(strani)
         ]
 
 class IskalnikBolha(Iskalnik):
@@ -404,7 +412,7 @@ class IskalnikAvtoNet(Iskalnik):
                 return 1
             elif re.search("Ni zadetkov", html):
                 return 0
-            raise Exception(f"Ne najdem števila strani, {self._filter._poln_url(stran=1000)}")
+            raise IOError(f"Ne najdem števila strani, {self._filter._poln_url(stran=1000)}")
         return int(i)
 
     def _poišči_avtomobile(self, html) -> list:
