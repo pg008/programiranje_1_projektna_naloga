@@ -1,614 +1,5793 @@
-
 [{
+	"vrednost": "595",
+	"znamka": "Abarth",
+	"ime": "595"
+},
+{
+	"vrednost": "695",
+	"znamka": "Abarth",
+	"ime": "695"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Abarth",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "AEV",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "U5",
+	"znamka": "Aiways",
+	"ime": "U5"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Aiways",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Aixam",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "33",
+	"znamka": "Alfa Romeo",
+	"ime": "33"
+},
+{
+	"vrednost": "75",
+	"znamka": "Alfa Romeo",
+	"ime": "75"
+},
+{
+	"vrednost": "90",
+	"znamka": "Alfa Romeo",
+	"ime": "90"
+},
+{
+	"vrednost": "145",
+	"znamka": "Alfa Romeo",
+	"ime": "145"
+},
+{
+	"vrednost": "146",
+	"znamka": "Alfa Romeo",
+	"ime": "146"
+},
+{
+	"vrednost": "147",
+	"znamka": "Alfa Romeo",
+	"ime": "147"
+},
+{
+	"vrednost": "155",
+	"znamka": "Alfa Romeo",
+	"ime": "155"
+},
+{
+	"vrednost": "156 (vsi)",
+	"znamka": "Alfa Romeo vsi",
+	"ime": "156 (vsi)"
+},
+    {
 	"vrednost": "156",
 	"znamka": "Alfa Romeo",
 	"ime": "156"
 },
-{
+    {
 	"vrednost": "156---Sportwagon",
 	"znamka": "Alfa Romeo",
 	"ime": "156 Sportwagon"
-},{
+},
+{
+	"vrednost": "159 (vsi)",
+	"znamka": "Alfa Romeo vsi",
+	"ime": "159 (vsi)"
+},
+    {
 	"vrednost": "159",
 	"znamka": "Alfa Romeo",
 	"ime": "159"
 },
-{
+    {
 	"vrednost": "159---Sportwagon",
 	"znamka": "Alfa Romeo",
 	"ime": "159 Sportwagon"
+},
+{
+	"vrednost": "164",
+	"znamka": "Alfa Romeo",
+	"ime": "164"
+},
+{
+	"vrednost": "166",
+	"znamka": "Alfa Romeo",
+	"ime": "166"
+},
+{
+	"vrednost": "4C",
+	"znamka": "Alfa Romeo",
+	"ime": "4C"
+},
+{
+	"vrednost": "8C",
+	"znamka": "Alfa Romeo",
+	"ime": "8C"
+},
+{
+	"vrednost": "1750",
+	"znamka": "Alfa Romeo",
+	"ime": "1750"
+},
+{
+	"vrednost": "Alfasud",
+	"znamka": "Alfa Romeo",
+	"ime": "Alfasud"
+},
+{
+	"vrednost": "Alfetta",
+	"znamka": "Alfa Romeo",
+	"ime": "Alfetta"
+},
+{
+	"vrednost": "Brera",
+	"znamka": "Alfa Romeo",
+	"ime": "Brera"
+},
+{
+	"vrednost": "Crosswagon",
+	"znamka": "Alfa Romeo",
+	"ime": "Crosswagon"
+},
+{
+	"vrednost": "Giulia",
+	"znamka": "Alfa Romeo",
+	"ime": "Giulia"
+},
+{
+	"vrednost": "Giulietta",
+	"znamka": "Alfa Romeo",
+	"ime": "Giulietta"
+},
+{
+	"vrednost": "GT",
+	"znamka": "Alfa Romeo",
+	"ime": "GT"
+},
+{
+	"vrednost": "GTV",
+	"znamka": "Alfa Romeo",
+	"ime": "GTV"
+},
+{
+	"vrednost": "MiTo",
+	"znamka": "Alfa Romeo",
+	"ime": "MiTo"
+},
+{
+	"vrednost": "RZ",
+	"znamka": "Alfa Romeo",
+	"ime": "RZ"
+},
+{
+	"vrednost": "SZ",
+	"znamka": "Alfa Romeo",
+	"ime": "SZ"
+},
+{
+	"vrednost": "Spider",
+	"znamka": "Alfa Romeo",
+	"ime": "Spider"
+},
+{
+	"vrednost": "Sprint",
+	"znamka": "Alfa Romeo",
+	"ime": "Sprint"
+},
+{
+	"vrednost": "Stelvio",
+	"znamka": "Alfa Romeo",
+	"ime": "Stelvio"
+},
+{
+	"vrednost": "Tonale",
+	"znamka": "Alfa Romeo",
+	"ime": "Tonale"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Alfa Romeo",
+	"ime": "modela ni na seznamu"
 },{
+	"vrednost": "A110",
+	"znamka": "Alpine",
+	"ime": "A110"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Alpine",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Artega",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Cygnet",
+	"znamka": "Aston Martin",
+	"ime": "Cygnet"
+},
+{
+	"vrednost": "DB",
+	"znamka": "Aston Martin",
+	"ime": "DB"
+},
+{
+	"vrednost": "DB7",
+	"znamka": "Aston Martin",
+	"ime": "DB7"
+},
+{
+	"vrednost": "DB9",
+	"znamka": "Aston Martin",
+	"ime": "DB9"
+},
+{
+	"vrednost": "DB11",
+	"znamka": "Aston Martin",
+	"ime": "DB11"
+},
+{
+	"vrednost": "DBS",
+	"znamka": "Aston Martin",
+	"ime": "DBS"
+},
+{
+	"vrednost": "DBX",
+	"znamka": "Aston Martin",
+	"ime": "DBX"
+},
+{
+	"vrednost": "Lagonda",
+	"znamka": "Aston Martin",
+	"ime": "Lagonda"
+},
+{
+	"vrednost": "One-77",
+	"znamka": "Aston Martin",
+	"ime": "One-77"
+},
+{
+	"vrednost": "Rapide",
+	"znamka": "Aston Martin",
+	"ime": "Rapide"
+},
+{
+	"vrednost": "V8",
+	"znamka": "Aston Martin",
+	"ime": "V8"
+},
+{
+	"vrednost": "Vantage",
+	"znamka": "Aston Martin",
+	"ime": "Vantage"
+},
+{
+	"vrednost": "Vanquish",
+	"znamka": "Aston Martin",
+	"ime": "Vanquish"
+},
+{
+	"vrednost": "Virage",
+	"znamka": "Aston Martin",
+	"ime": "Virage"
+},
+{
+	"vrednost": "Volante",
+	"znamka": "Aston Martin",
+	"ime": "Volante"
+},
+{
+	"vrednost": "Zagato",
+	"znamka": "Aston Martin",
+	"ime": "Zagato"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Aston Martin",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "50",
+	"znamka": "Audi",
+	"ime": "50"
+},
+{
+	"vrednost": "60",
+	"znamka": "Audi",
+	"ime": "60"
+},
+{
+	"vrednost": "80",
+	"znamka": "Audi",
+	"ime": "80"
+},
+{
+	"vrednost": "90",
+	"znamka": "Audi",
+	"ime": "90"
+},
+{
+	"vrednost": "100",
+	"znamka": "Audi",
+	"ime": "100"
+},
+{
+	"vrednost": "200",
+	"znamka": "Audi",
+	"ime": "200"
+},
+{
+	"vrednost": "A1 (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "A1 (vsi)"
+},
+    {
 	"vrednost": "A1",
 	"znamka": "Audi",
 	"ime": "A1"
 },
-{
+    {
 	"vrednost": "S1",
 	"znamka": "Audi",
 	"ime": "S1"
 },
 {
+	"vrednost": "A2",
+	"znamka": "Audi",
+	"ime": "A2"
+},
+{
+	"vrednost": "A3 (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "A3 (vsi)"
+},
+    {
 	"vrednost": "A3",
 	"znamka": "Audi",
 	"ime": "A3"
 },
-{
+    {
 	"vrednost": "A3---Cabriolet",
 	"znamka": "Audi",
 	"ime": "A3 Cabriolet"
 },
-{
+    {
 	"vrednost": "S3",
 	"znamka": "Audi",
 	"ime": "S3"
 },
-{
+    {
 	"vrednost": "S3---Cabriolet",
 	"znamka": "Audi",
 	"ime": "S3 Cabriolet"
 },
-{
+    {
 	"vrednost": "RS3",
 	"znamka": "Audi",
 	"ime": "RS3"
-},{
+},
+{
+	"vrednost": "A4 (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "A4 (vsi)"
+},
+    {
 	"vrednost": "A4",
 	"znamka": "Audi",
 	"ime": "A4"
 },
-{
+    {
 	"vrednost": "A4---Avant",
 	"znamka": "Audi",
 	"ime": "A4 Avant"
 },
-{
+    {
 	"vrednost": "A4---Cabriolet",
 	"znamka": "Audi",
 	"ime": "A4 Cabriolet"
 },
-{
+    {
 	"vrednost": "A4---Allroad",
 	"znamka": "Audi",
 	"ime": "A4 Allroad"
 },
-{
+    {
 	"vrednost": "S4",
 	"znamka": "Audi",
 	"ime": "S4"
 },
-{
+    {
 	"vrednost": "S4---Cabriolet",
 	"znamka": "Audi",
 	"ime": "S4 Cabriolet"
 },
-{
+    {
 	"vrednost": "RS4",
 	"znamka": "Audi",
 	"ime": "RS4"
-},{
+},
+{
+	"vrednost": "A5 (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "A5 (vsi)"
+},
+    {
 	"vrednost": "A5",
 	"znamka": "Audi",
 	"ime": "A5"
 },
-{
+    {
 	"vrednost": "A5---Cabriolet",
 	"znamka": "Audi",
 	"ime": "A5 Cabriolet"
 },
-{
+    {
 	"vrednost": "A5---Sportback",
 	"znamka": "Audi",
 	"ime": "A5 Sportback"
 },
-{
+    {
 	"vrednost": "S5",
 	"znamka": "Audi",
 	"ime": "S5"
 },
-{
+    {
 	"vrednost": "S5---Cabriolet",
 	"znamka": "Audi",
 	"ime": "S5 Cabriolet"
 },
-{
+    {
 	"vrednost": "S5---Sportback",
 	"znamka": "Audi",
 	"ime": "S5 Sportback"
 },
-{
+    {
 	"vrednost": "RS5",
 	"znamka": "Audi",
 	"ime": "RS5"
 },
-{
+    {
 	"vrednost": "RS5---Cabriolet",
 	"znamka": "Audi",
 	"ime": "RS5 Cabriolet"
-},{
+},
+{
+	"vrednost": "A6 (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "A6 (vsi)"
+},
+    {
 	"vrednost": "A6",
 	"znamka": "Audi",
 	"ime": "A6"
 },
-{
+    {
 	"vrednost": "A6---Avant",
 	"znamka": "Audi",
 	"ime": "A6 Avant"
 },
-{
+    {
 	"vrednost": "A6---Allroad",
 	"znamka": "Audi",
 	"ime": "A6 Allroad"
 },
-{
+    {
 	"vrednost": "S6",
 	"znamka": "Audi",
 	"ime": "S6"
 },
-{
+    {
 	"vrednost": "RS6",
 	"znamka": "Audi",
 	"ime": "RS6"
-},{
+},
+{
+	"vrednost": "A7 (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "A7 (vsi)"
+},
+    {
 	"vrednost": "A7",
 	"znamka": "Audi",
 	"ime": "A7"
 },
-{
+    {
 	"vrednost": "S7",
 	"znamka": "Audi",
 	"ime": "S7"
 },
-{
+    {
 	"vrednost": "RS7",
 	"znamka": "Audi",
 	"ime": "RS7"
-},{
+},
+{
+	"vrednost": "A8 (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "A8 (vsi)"
+},
+    {
 	"vrednost": "A8",
 	"znamka": "Audi",
 	"ime": "A8"
 },
-{
+    {
 	"vrednost": "S8",
 	"znamka": "Audi",
 	"ime": "S8"
-},{
+},
+{
+	"vrednost": "Coupe",
+	"znamka": "Audi",
+	"ime": "Coupe"
+},
+{
+	"vrednost": "Cabriolet",
+	"znamka": "Audi",
+	"ime": "Cabriolet"
+},
+{
+	"vrednost": "E-Tron",
+	"znamka": "Audi",
+	"ime": "E-Tron"
+},
+{
+	"vrednost": "E-Tron GT",
+	"znamka": "Audi",
+	"ime": "E-Tron GT"
+},
+{
+	"vrednost": "E-Tron Sportback",
+	"znamka": "Audi",
+	"ime": "E-Tron Sportback"
+},
+{
+	"vrednost": "Q1",
+	"znamka": "Audi",
+	"ime": "Q1"
+},
+{
+	"vrednost": "Q2 (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "Q2 (vsi)"
+},
+    {
 	"vrednost": "Q2",
 	"znamka": "Audi",
 	"ime": "Q2"
 },
-{
+    {
 	"vrednost": "SQ2",
 	"znamka": "Audi",
 	"ime": "SQ2"
-},{
+},
+{
+	"vrednost": "Q3 (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "Q3 (vsi)"
+},
+    {
 	"vrednost": "Q3",
 	"znamka": "Audi",
 	"ime": "Q3"
 },
-{
+    {
 	"vrednost": "Q3 Sportback",
 	"znamka": "Audi",
 	"ime": "Q3 Sportback"
 },
-{
+    {
 	"vrednost": "RS Q3",
 	"znamka": "Audi",
 	"ime": "RS Q3"
 },
-{
+    {
 	"vrednost": "RS Q3 Sportback",
 	"znamka": "Audi",
 	"ime": "RS Q3 Sportback"
-},{
+},
+{
+	"vrednost": "Q4 (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "Q4 (vsi)"
+},
+    {
 	"vrednost": "Q4 e-tron",
 	"znamka": "Audi",
 	"ime": "Q4 e-tron"
 },
-{
+    {
 	"vrednost": "Q4 Sportback e-tron",
 	"znamka": "Audi",
 	"ime": "Q4 Sportback e-tron"
-},{
+},
+{
+	"vrednost": "Q5 (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "Q5 (vsi)"
+},
+    {
 	"vrednost": "Q5",
 	"znamka": "Audi",
 	"ime": "Q5"
 },
-{
+    {
 	"vrednost": "Q5 Sportback",
 	"znamka": "Audi",
 	"ime": "Q5 Sportback"
 },
-{
+    {
 	"vrednost": "SQ5",
 	"znamka": "Audi",
 	"ime": "SQ5"
-},{
+},
+{
+	"vrednost": "Q7 (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "Q7 (vsi)"
+},
+    {
 	"vrednost": "Q7",
 	"znamka": "Audi",
 	"ime": "Q7"
 },
-{
+    {
 	"vrednost": "SQ7",
 	"znamka": "Audi",
 	"ime": "SQ7"
-},{
+},
+{
+	"vrednost": "Q8 (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "Q8 (vsi)"
+},
+    {
 	"vrednost": "Q8",
 	"znamka": "Audi",
 	"ime": "Q8"
 },
-{
+    {
 	"vrednost": "SQ8",
 	"znamka": "Audi",
 	"ime": "SQ8"
 },
-{
+    {
 	"vrednost": "RS Q8",
 	"znamka": "Audi",
 	"ime": "RS Q8"
 },
 {
+	"vrednost": "R8",
+	"znamka": "Audi",
+	"ime": "R8"
+},
+{
+	"vrednost": "RS2",
+	"znamka": "Audi",
+	"ime": "RS2"
+},
+{
+	"vrednost": "S2",
+	"znamka": "Audi",
+	"ime": "S2"
+},
+{
+	"vrednost": "TT (vsi)",
+	"znamka": "Audi vsi",
+	"ime": "TT (vsi)"
+},
+    {
 	"vrednost": "TT",
 	"znamka": "Audi",
 	"ime": "TT"
 },
-{
+    {
 	"vrednost": "TTS",
 	"znamka": "Audi",
 	"ime": "TTS"
 },
-{
+    {
 	"vrednost": "TT RS",
 	"znamka": "Audi",
 	"ime": "TT RS"
+},
+{
+	"vrednost": "V8",
+	"znamka": "Audi",
+	"ime": "V8"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Audi",
+	"ime": "modela ni na seznamu"
 },{
+	"vrednost": "Metro",
+	"znamka": "Austin",
+	"ime": "Metro"
+},
+{
+	"vrednost": "Mini",
+	"znamka": "Austin",
+	"ime": "Mini"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Austin",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "A112",
+	"znamka": "Autobianchi",
+	"ime": "A112"
+},
+{
+	"vrednost": "Bianchina",
+	"znamka": "Autobianchi",
+	"ime": "Bianchina"
+},
+{
+	"vrednost": "Primula",
+	"znamka": "Autobianchi",
+	"ime": "Primula"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Autobianchi",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "Arnage",
+	"znamka": "Bentley",
+	"ime": "Arnage"
+},
+{
+	"vrednost": "Azure",
+	"znamka": "Bentley",
+	"ime": "Azure"
+},
+{
+	"vrednost": "Bentayga",
+	"znamka": "Bentley",
+	"ime": "Bentayga"
+},
+{
+	"vrednost": "Brooklands",
+	"znamka": "Bentley",
+	"ime": "Brooklands"
+},
+{
+	"vrednost": "Continental",
+	"znamka": "Bentley",
+	"ime": "Continental"
+},
+{
+	"vrednost": "Eight",
+	"znamka": "Bentley",
+	"ime": "Eight"
+},
+{
+	"vrednost": "Flying Spur",
+	"znamka": "Bentley",
+	"ime": "Flying Spur"
+},
+{
+	"vrednost": "Mulsanne",
+	"znamka": "Bentley",
+	"ime": "Mulsanne"
+},
+{
+	"vrednost": "Turbo",
+	"znamka": "Bentley",
+	"ime": "Turbo"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Bentley",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "1802",
+	"znamka": "BMW",
+	"ime": "1802"
+},
+{
+	"vrednost": "2002",
+	"znamka": "BMW",
+	"ime": "2002"
+},
+{
+	"vrednost": "i3",
+	"znamka": "BMW",
+	"ime": "i3"
+},
+{
+	"vrednost": "i4",
+	"znamka": "BMW",
+	"ime": "i4"
+},
+{
+	"vrednost": "i8",
+	"znamka": "BMW",
+	"ime": "i8"
+},
+{
+	"vrednost": "iX",
+	"znamka": "BMW",
+	"ime": "iX"
+},
+{
+	"vrednost": "iX1",
+	"znamka": "BMW",
+	"ime": "iX1"
+},
+{
+	"vrednost": "iX3",
+	"znamka": "BMW",
+	"ime": "iX3"
+},
+{
+	"vrednost": "M1",
+	"znamka": "BMW",
+	"ime": "M1"
+},
+
+{
+	"vrednost": "serija 1: (vsi)",
+	"znamka": "BMW vsi",
+	"ime": "Serija 1 (vsi)"
+},
+    {
 	"vrednost": "serija 1:",
 	"znamka": "BMW",
 	"ime": "serija 1:"
 },
-{
+    {
 	"vrednost": "serija 1 Coupe:",
 	"znamka": "BMW",
 	"ime": "serija 1 Coupe:"
 },
-{
+    {
 	"vrednost": "serija 1 Cabrio:",
 	"znamka": "BMW",
 	"ime": "serija 1 Cabrio:"
 },
-{
+    {
 	"vrednost": "1M Coupe",
 	"znamka": "BMW",
 	"ime": "1M Coupe"
 },
+
 {
+	"vrednost": "serija 2: (vsi)",
+	"znamka": "BMW vsi",
+	"ime": "Serija 2 (vsi)"
+},
+    {
 	"vrednost": "serija 2:",
 	"znamka": "BMW",
 	"ime": "serija 2:"
 },
-{
+    {
 	"vrednost": "serija 2 Coupe:",
 	"znamka": "BMW",
 	"ime": "serija 2 Coupe:"
 },
-{
+    {
 	"vrednost": "serija 2 Cabrio:",
 	"znamka": "BMW",
 	"ime": "serija 2 Cabrio:"
 },
-{
+    {
 	"vrednost": "serija 2 Active Tourer:",
 	"znamka": "BMW",
 	"ime": "serija 2 Active Tourer:"
 },
-{
+    {
 	"vrednost": "serija 2 Gran Tourer:",
 	"znamka": "BMW",
 	"ime": "serija 2 Gran Tourer:"
 },
-{
+    {
 	"vrednost": "serija 2 Gran Coupe:",
 	"znamka": "BMW",
 	"ime": "serija 2 Gran Coupe:"
 },
-{
+    {
 	"vrednost": "M2",
 	"znamka": "BMW",
 	"ime": "M2"
 },
+
 {
+	"vrednost": "serija 3: (vsi)",
+	"znamka": "BMW vsi",
+	"ime": "Serija 3 (vsi)"
+},
+    {
 	"vrednost": "serija 3:",
 	"znamka": "BMW",
 	"ime": "serija 3:"
 },
-{
+    {
 	"vrednost": "serija 3 Touring:",
 	"znamka": "BMW",
 	"ime": "serija 3 Touring:"
 },
-{
+    {
 	"vrednost": "serija 3 Compact:",
 	"znamka": "BMW",
 	"ime": "serija 3 Compact:"
 },
-{
+    {
 	"vrednost": "serija 3 Coupe:",
 	"znamka": "BMW",
 	"ime": "serija 3 Coupe:"
 },
-{
+    {
 	"vrednost": "serija 3 Cabrio:",
 	"znamka": "BMW",
 	"ime": "serija 3 Cabrio:"
 },
-{
+    {
 	"vrednost": "serija 3 Gran Turismo:",
 	"znamka": "BMW",
 	"ime": "serija 3 Gran Turismo:"
 },
-{
+    {
 	"vrednost": "M3",
 	"znamka": "BMW",
 	"ime": "M3"
 },
+
 {
+	"vrednost": "serija 4: (vsi)",
+	"znamka": "BMW vsi",
+	"ime": "Serija 4 (vsi)"
+},
+    {
 	"vrednost": "serija 4 Coupe:",
 	"znamka": "BMW",
 	"ime": "serija 4 Coupe:"
 },
-{
+    {
 	"vrednost": "serija 4 Cabrio:",
 	"znamka": "BMW",
 	"ime": "serija 4 Cabrio:"
 },
-{
+    {
 	"vrednost": "serija 4 Gran Coupe:",
 	"znamka": "BMW",
 	"ime": "serija 4 Gran Coupe:"
 },
-{
+    {
 	"vrednost": "M4",
 	"znamka": "BMW",
 	"ime": "M4"
 },
+
 {
+	"vrednost": "serija 5: (vsi)",
+	"znamka": "BMW vsi",
+	"ime": "Serija 5 (vsi)"
+},
+    {
 	"vrednost": "serija 5:",
 	"znamka": "BMW",
 	"ime": "serija 5"
 },
-{
+    {
 	"vrednost": "serija 5 Touring:",
 	"znamka": "BMW",
 	"ime": "serija 5 Touring"
 },
-{
+    {
 	"vrednost": "serija 5 Gran Turismo:",
 	"znamka": "BMW",
 	"ime": "serija 5 Gran Turismo"
 },
-{
+    {
 	"vrednost": "M5",
 	"znamka": "BMW",
 	"ime": "M5"
 },
+
 {
+	"vrednost": "serija 6: (vsi)",
+	"znamka": "BMW vsi",
+	"ime": "Serija 6 (vsi)"
+},
+    {
 	"vrednost": "serija 6:",
 	"znamka": "BMW",
 	"ime": "serija 6"
 },
-{
+    {
 	"vrednost": "serija 6 Gran Turismo:",
 	"znamka": "BMW",
 	"ime": "serija 6 Gran Turismo"
 },
-{
+    {
 	"vrednost": "serija 6 Gran Coupe:",
 	"znamka": "BMW",
 	"ime": "serija 6 Gran Coupe"
 },
-{
+    {
 	"vrednost": "M6",
 	"znamka": "BMW",
 	"ime": "M6"
 },
+
 {
+	"vrednost": "serija 7:",
+	"znamka": "BMW",
+	"ime": "Serija 7"
+},
+
+{
+	"vrednost": "serija 8: (vsi)",
+	"znamka": "BMW vsi",
+	"ime": "Serija 8 (vsi)"
+},
+    {
 	"vrednost": "serija 8 Coupe:",
 	"znamka": "BMW",
 	"ime": "serija 8 Coupe"
 },
-{
+    {
 	"vrednost": "serija 8 Cabrio:",
 	"znamka": "BMW",
 	"ime": "serija 8 Cabrio"
 },
-{
+    {
 	"vrednost": "serija 8 Gran Coupe:",
 	"znamka": "BMW",
 	"ime": "serija 8 Gran Coupe"
 },
-{
+    {
 	"vrednost": "M8",
 	"znamka": "BMW",
 	"ime": "M8"
 },
+
 {
+	"vrednost": "serija X1:",
+	"znamka": "BMW",
+	"ime": "Serija X1"
+},
+{
+	"vrednost": "serija X2:",
+	"znamka": "BMW",
+	"ime": "Serija X2"
+},
+{
+	"vrednost": "serija X3:",
+	"znamka": "BMW",
+	"ime": "Serija X3"
+},
+{
+	"vrednost": "serija X4:",
+	"znamka": "BMW",
+	"ime": "Serija X4"
+},
+{
+	"vrednost": "serija X5:",
+	"znamka": "BMW",
+	"ime": "Serija X5"
+},
+{
+	"vrednost": "serija X6:",
+	"znamka": "BMW",
+	"ime": "Serija X6"
+},
+{
+	"vrednost": "serija X7:",
+	"znamka": "BMW",
+	"ime": "Serija X7"
+},
+{
+	"vrednost": "Z1",
+	"znamka": "BMW",
+	"ime": "Z1"
+},
+{
+	"vrednost": "Z3",
+	"znamka": "BMW",
+	"ime": "Z3"
+},
+{
+	"vrednost": "Z4",
+	"znamka": "BMW",
+	"ime": "Z4"
+},
+{
+	"vrednost": "Z8",
+	"znamka": "BMW",
+	"ime": "Z8"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "BMW",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "BX3",
+	"znamka": "Borgward",
+	"ime": "BX3"
+},
+{
+	"vrednost": "BX5",
+	"znamka": "Borgward",
+	"ime": "BX5"
+},
+{
+	"vrednost": "BX7",
+	"znamka": "Borgward",
+	"ime": "BX7"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Borgward",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Brilliance",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "EB 110",
+	"znamka": "Bugatti",
+	"ime": "EB 110"
+},
+{
+	"vrednost": "Veyron",
+	"znamka": "Bugatti",
+	"ime": "Veyron"
+},
+{
+	"vrednost": "Chiron",
+	"znamka": "Bugatti",
+	"ime": "Chiron"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Bugatti",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Buick",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Allante",
+	"znamka": "Cadillac",
+	"ime": "Allante"
+},
+{
+	"vrednost": "ATS",
+	"znamka": "Cadillac",
+	"ime": "ATS"
+},
+{
+	"vrednost": "BLS",
+	"znamka": "Cadillac",
+	"ime": "BLS"
+},
+{
+	"vrednost": "DeVille",
+	"znamka": "Cadillac",
+	"ime": "DeVille"
+},
+{
+	"vrednost": "CT5",
+	"znamka": "Cadillac",
+	"ime": "CT5"
+},
+{
+	"vrednost": "CT6",
+	"znamka": "Cadillac",
+	"ime": "CT6"
+},
+{
+	"vrednost": "CTS",
+	"znamka": "Cadillac",
+	"ime": "CTS"
+},
+{
+	"vrednost": "Eldorado",
+	"znamka": "Cadillac",
+	"ime": "Eldorado"
+},
+{
+	"vrednost": "Escalade",
+	"znamka": "Cadillac",
+	"ime": "Escalade"
+},
+{
+	"vrednost": "Fleetwood",
+	"znamka": "Cadillac",
+	"ime": "Fleetwood"
+},
+{
+	"vrednost": "Seville",
+	"znamka": "Cadillac",
+	"ime": "Seville"
+},
+{
+	"vrednost": "SRX",
+	"znamka": "Cadillac",
+	"ime": "SRX"
+},
+{
+	"vrednost": "STS",
+	"znamka": "Cadillac",
+	"ime": "STS"
+},
+{
+	"vrednost": "XLR",
+	"znamka": "Cadillac",
+	"ime": "XLR"
+},
+{
+	"vrednost": "XTS",
+	"znamka": "Cadillac",
+	"ime": "XTS"
+},
+{
+	"vrednost": "XTS",
+	"znamka": "Cadillac",
+	"ime": "XTS"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Cadillac",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Casalini",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Seven",
+	"znamka": "Caterham",
+	"ime": "Seven"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Caterham",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Chatenet",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Astro",
+	"znamka": "Chevrolet",
+	"ime": "Astro"
+},
+{
+	"vrednost": "Avalanche",
+	"znamka": "Chevrolet",
+	"ime": "Avalanche"
+},
+{
+	"vrednost": "Aveo",
+	"znamka": "Chevrolet",
+	"ime": "Aveo"
+},
+{
+	"vrednost": "Beretta",
+	"znamka": "Chevrolet",
+	"ime": "Beretta"
+},
+{
+	"vrednost": "Blazer",
+	"znamka": "Chevrolet",
+	"ime": "Blazer"
+},
+{
+	"vrednost": "Camaro",
+	"znamka": "Chevrolet",
+	"ime": "Camaro"
+},
+{
+	"vrednost": "Captiva",
+	"znamka": "Chevrolet",
+	"ime": "Captiva"
+},
+{
+	"vrednost": "Cavalier",
+	"znamka": "Chevrolet",
+	"ime": "Cavalier"
+},
+{
+	"vrednost": "Corvette",
+	"znamka": "Chevrolet",
+	"ime": "Corvette"
+},
+{
+	"vrednost": "Cruze",
+	"znamka": "Chevrolet",
+	"ime": "Cruze"
+},
+{
+	"vrednost": "Epica",
+	"znamka": "Chevrolet",
+	"ime": "Epica"
+},
+{
+	"vrednost": "Equinox",
+	"znamka": "Chevrolet",
+	"ime": "Equinox"
+},
+{
+	"vrednost": "Evanda",
+	"znamka": "Chevrolet",
+	"ime": "Evanda"
+},
+{
+	"vrednost": "HHR",
+	"znamka": "Chevrolet",
+	"ime": "HHR"
+},
+{
+	"vrednost": "Kalos",
+	"znamka": "Chevrolet",
+	"ime": "Kalos"
+},
+{
+	"vrednost": "Lacetti",
+	"znamka": "Chevrolet",
+	"ime": "Lacetti"
+},
+{
+	"vrednost": "Lumina",
+	"znamka": "Chevrolet",
+	"ime": "Lumina"
+},
+{
+	"vrednost": "Malibu",
+	"znamka": "Chevrolet",
+	"ime": "Malibu"
+},
+{
+	"vrednost": "Matiz",
+	"znamka": "Chevrolet",
+	"ime": "Matiz"
+},
+{
+	"vrednost": "Nubira",
+	"znamka": "Chevrolet",
+	"ime": "Nubira"
+},
+{
+	"vrednost": "Orlando",
+	"znamka": "Chevrolet",
+	"ime": "Orlando"
+},
+{
+	"vrednost": "Rezzo",
+	"znamka": "Chevrolet",
+	"ime": "Rezzo"
+},
+{
+	"vrednost": "Spark",
+	"znamka": "Chevrolet",
+	"ime": "Spark"
+},
+{
+	"vrednost": "Suburban",
+	"znamka": "Chevrolet",
+	"ime": "Suburban"
+},
+{
+	"vrednost": "Tacuma",
+	"znamka": "Chevrolet",
+	"ime": "Tacuma"
+},
+{
+	"vrednost": "Tahoe",
+	"znamka": "Chevrolet",
+	"ime": "Tahoe"
+},
+{
+	"vrednost": "TrailBlazer",
+	"znamka": "Chevrolet",
+	"ime": "TrailBlazer"
+},
+{
+	"vrednost": "Trans Sport",
+	"znamka": "Chevrolet",
+	"ime": "Trans Sport"
+},
+{
+	"vrednost": "Trax",
+	"znamka": "Chevrolet",
+	"ime": "Trax"
+},
+{
+	"vrednost": "Volt",
+	"znamka": "Chevrolet",
+	"ime": "Volt"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Chevrolet",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "300C",
+	"znamka": "Chrysler",
+	"ime": "300C"
+},
+{
+	"vrednost": "300M",
+	"znamka": "Chrysler",
+	"ime": "300M"
+},
+{
+	"vrednost": "Crossfire",
+	"znamka": "Chrysler",
+	"ime": "Crossfire"
+},
+{
+	"vrednost": "ES",
+	"znamka": "Chrysler",
+	"ime": "ES"
+},
+{
+	"vrednost": "Le Baron",
+	"znamka": "Chrysler",
+	"ime": "Le Baron"
+},
+{
+	"vrednost": "Neon",
+	"znamka": "Chrysler",
+	"ime": "Neon"
+},
+{
+	"vrednost": "New Yorker",
+	"znamka": "Chrysler",
+	"ime": "New Yorker"
+},
+{
+	"vrednost": "Pacifica",
+	"znamka": "Chrysler",
+	"ime": "Pacifica"
+},
+{
+	"vrednost": "PT Cruiser",
+	"znamka": "Chrysler",
+	"ime": "PT Cruiser"
+},
+{
+	"vrednost": "Saratoga",
+	"znamka": "Chrysler",
+	"ime": "Saratoga"
+},
+{
+	"vrednost": "Sebring",
+	"znamka": "Chrysler",
+	"ime": "Sebring"
+},
+{
+	"vrednost": "Stratus",
+	"znamka": "Chrysler",
+	"ime": "Stratus"
+},
+{
+	"vrednost": "Viper",
+	"znamka": "Chrysler",
+	"ime": "Viper"
+},
+{
+	"vrednost": "Vision",
+	"znamka": "Chrysler",
+	"ime": "Vision"
+},
+{
+	"vrednost": "Voyager (vsi)",
+	"znamka": "Chrysler vsi",
+	"ime": "Voyager (vsi)"
+},
+    {
 	"vrednost": "Voyager",
 	"znamka": "Chrysler",
 	"ime": "Voyager"
 },
-{
+    {
 	"vrednost": "Grand Voyager",
 	"znamka": "Chrysler",
 	"ime": "Grand Voyager"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Chrysler",
+	"ime": "modela ni na seznamu"
 },{
+	"vrednost": "2 CV",
+	"znamka": "Citroen",
+	"ime": "2 CV"
+},
+{
+	"vrednost": "Ami",
+	"znamka": "Citroen",
+	"ime": "Ami"
+},
+{
+	"vrednost": "AX",
+	"znamka": "Citroen",
+	"ime": "AX"
+},
+{
+	"vrednost": "Berlingo",
+	"znamka": "Citroen",
+	"ime": "Berlingo"
+},
+{
+	"vrednost": "BX",
+	"znamka": "Citroen",
+	"ime": "BX"
+},
+{
+	"vrednost": "C1",
+	"znamka": "Citroen",
+	"ime": "C1"
+},
+{
+	"vrednost": "C2",
+	"znamka": "Citroen",
+	"ime": "C2"
+},
+{
+	"vrednost": "C3",
+	"znamka": "Citroen",
+	"ime": "C3"
+},
+{
+	"vrednost": "C3 Aircross",
+	"znamka": "Citroen",
+	"ime": "C3 Aircross"
+},
+{
+	"vrednost": "C3 Picasso",
+	"znamka": "Citroen",
+	"ime": "C3 Picasso"
+},
+{
+	"vrednost": "C3 Pluriel",
+	"znamka": "Citroen",
+	"ime": "C3 Pluriel"
+},
+{
+	"vrednost": "C4",
+	"znamka": "Citroen",
+	"ime": "C4"
+},
+{
+	"vrednost": "C4 Aircross",
+	"znamka": "Citroen",
+	"ime": "C4 Aircross"
+},
+{
+	"vrednost": "C4 Cactus",
+	"znamka": "Citroen",
+	"ime": "C4 Cactus"
+},
+{
+	"vrednost": "C4 Picasso (vsi)",
+	"znamka": "Citroen vsi",
+	"ime": "C4 Picasso (vsi)"
+},
+    {
 	"vrednost": "C4 Picasso",
 	"znamka": "Citroen",
 	"ime": "C4 Picasso"
 },
-{
+    {
 	"vrednost": "C4 Grand Picasso",
 	"znamka": "Citroen",
 	"ime": "C4 Grand Picasso"
-},{
+},
+{
+	"vrednost": "C4 SpaceTourer (vsi)",
+	"znamka": "Citroen vsi",
+	"ime": "C4 SpaceTourer (vsi)"
+},
+    {
 	"vrednost": "C4 SpaceTourer",
 	"znamka": "Citroen",
 	"ime": "C4 SpaceTourer"
 },
-{
+    {
 	"vrednost": "C4 Grand SpaceTourer",
 	"znamka": "Citroen",
 	"ime": "C4 Grand SpaceTourer"
 },
 {
+	"vrednost": "C4 X",
+	"znamka": "Citroen",
+	"ime": "C4 X"
+},
+{
+	"vrednost": "C5",
+	"znamka": "Citroen",
+	"ime": "C5"
+},
+{
+	"vrednost": "C5 Aircross",
+	"znamka": "Citroen",
+	"ime": "C5 Aircross"
+},
+{
+	"vrednost": "C5 X",
+	"znamka": "Citroen",
+	"ime": "C5 X"
+},
+{
+	"vrednost": "C6",
+	"znamka": "Citroen",
+	"ime": "C6"
+},
+{
+	"vrednost": "C8",
+	"znamka": "Citroen",
+	"ime": "C8"
+},
+{
+	"vrednost": "C-Crosser",
+	"znamka": "Citroen",
+	"ime": "C-Crosser"
+},
+{
+	"vrednost": "C-Elysee",
+	"znamka": "Citroen",
+	"ime": "C-Elysee"
+},
+{
+	"vrednost": "C-Zero",
+	"znamka": "Citroen",
+	"ime": "C-Zero"
+},
+{
+	"vrednost": "CX",
+	"znamka": "Citroen",
+	"ime": "CX"
+},
+{
+	"vrednost": "DS",
+	"znamka": "Citroen",
+	"ime": "DS"
+},
+{
+	"vrednost": "DS3",
+	"znamka": "Citroen",
+	"ime": "DS3"
+},
+{
+	"vrednost": "DS4",
+	"znamka": "Citroen",
+	"ime": "DS4"
+},
+{
+	"vrednost": "DS5",
+	"znamka": "Citroen",
+	"ime": "DS5"
+},
+{
+	"vrednost": "Dyane",
+	"znamka": "Citroen",
+	"ime": "Dyane"
+},
+{
+	"vrednost": "Evasion",
+	"znamka": "Citroen",
+	"ime": "Evasion"
+},
+{
+	"vrednost": "GS",
+	"znamka": "Citroen",
+	"ime": "GS"
+},
+{
+	"vrednost": "GSA",
+	"znamka": "Citroen",
+	"ime": "GSA"
+},
+{
+	"vrednost": "Jumpy",
+	"znamka": "Citroen",
+	"ime": "Jumpy"
+},
+{
+	"vrednost": "LN",
+	"znamka": "Citroen",
+	"ime": "LN"
+},
+{
+	"vrednost": "Nemo",
+	"znamka": "Citroen",
+	"ime": "Nemo"
+},
+{
+	"vrednost": "Saxo",
+	"znamka": "Citroen",
+	"ime": "Saxo"
+},
+{
+	"vrednost": "SM",
+	"znamka": "Citroen",
+	"ime": "SM"
+},
+{
+	"vrednost": "SpaceTourer",
+	"znamka": "Citroen",
+	"ime": "SpaceTourer"
+},
+{
+	"vrednost": "Visa",
+	"znamka": "Citroen",
+	"ime": "Visa"
+},
+{
+	"vrednost": "Xantia",
+	"znamka": "Citroen",
+	"ime": "Xantia"
+},
+{
+	"vrednost": "XM",
+	"znamka": "Citroen",
+	"ime": "XM"
+},
+{
+	"vrednost": "Xsara",
+	"znamka": "Citroen",
+	"ime": "Xsara"
+},
+{
+	"vrednost": "Xsara Picasso",
+	"znamka": "Citroen",
+	"ime": "Xsara Picasso"
+},
+{
+	"vrednost": "ZX",
+	"znamka": "Citroen",
+	"ime": "ZX"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Citroen",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Cobra",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Ateca",
+	"znamka": "Cupra",
+	"ime": "Ateca"
+},
+{
+	"vrednost": "Born",
+	"znamka": "Cupra",
+	"ime": "Born"
+},
+{
+	"vrednost": "Formentor",
+	"znamka": "Cupra",
+	"ime": "Formentor"
+},
+{
+	"vrednost": "Leon",
+	"znamka": "Cupra",
+	"ime": "Leon"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Cupra",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "Dokker",
+	"znamka": "Dacia",
+	"ime": "Dokker"
+},
+{
+	"vrednost": "Jogger",
+	"znamka": "Dacia",
+	"ime": "Jogger"
+},
+{
+	"vrednost": "Lodgy",
+	"znamka": "Dacia",
+	"ime": "Lodgy"
+},
+{
+	"vrednost": "Logan",
+	"znamka": "Dacia",
+	"ime": "Logan"
+},
+{
+	"vrednost": "Sandero",
+	"znamka": "Dacia",
+	"ime": "Sandero"
+},
+{
+	"vrednost": "Spring",
+	"znamka": "Dacia",
+	"ime": "Spring"
+},
+{
+	"vrednost": "Duster",
+	"znamka": "Dacia",
+	"ime": "Duster"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Dacia",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "Chairman",
+	"znamka": "Daewoo",
+	"ime": "Chairman"
+},
+{
+	"vrednost": "Espero",
+	"znamka": "Daewoo",
+	"ime": "Espero"
+},
+{
+	"vrednost": "Evanda",
+	"znamka": "Daewoo",
+	"ime": "Evanda"
+},
+{
+	"vrednost": "Kalos",
+	"znamka": "Daewoo",
+	"ime": "Kalos"
+},
+{
+	"vrednost": "Korando",
+	"znamka": "Daewoo",
+	"ime": "Korando"
+},
+{
+	"vrednost": "Lacetti",
+	"znamka": "Daewoo",
+	"ime": "Lacetti"
+},
+{
+	"vrednost": "Lanos",
+	"znamka": "Daewoo",
+	"ime": "Lanos"
+},
+{
+	"vrednost": "Leganza",
+	"znamka": "Daewoo",
+	"ime": "Leganza"
+},
+{
+	"vrednost": "Matiz",
+	"znamka": "Daewoo",
+	"ime": "Matiz"
+},
+{
+	"vrednost": "Musso",
+	"znamka": "Daewoo",
+	"ime": "Musso"
+},
+{
+	"vrednost": "Nexia",
+	"znamka": "Daewoo",
+	"ime": "Nexia"
+},
+{
+	"vrednost": "Nubira",
+	"znamka": "Daewoo",
+	"ime": "Nubira"
+},
+{
+	"vrednost": "Racer",
+	"znamka": "Daewoo",
+	"ime": "Racer"
+},
+{
+	"vrednost": "Tacuma",
+	"znamka": "Daewoo",
+	"ime": "Tacuma"
+},
+{
+	"vrednost": "Tico",
+	"znamka": "Daewoo",
+	"ime": "Tico"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Daewoo",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "Applause",
+	"znamka": "Daihatsu",
+	"ime": "Applause"
+},
+{
+	"vrednost": "Charade",
+	"znamka": "Daihatsu",
+	"ime": "Charade"
+},
+{
+	"vrednost": "Copen",
+	"znamka": "Daihatsu",
+	"ime": "Copen"
+},
+{
+	"vrednost": "Cuore",
+	"znamka": "Daihatsu",
+	"ime": "Cuore"
+},
+{
+	"vrednost": "Feroza",
+	"znamka": "Daihatsu",
+	"ime": "Feroza"
+},
+{
+	"vrednost": "Freeclimber",
+	"znamka": "Daihatsu",
+	"ime": "Freeclimber"
+},
+{
+	"vrednost": "Gran Move",
+	"znamka": "Daihatsu",
+	"ime": "Gran Move"
+},
+{
+	"vrednost": "Materia",
+	"znamka": "Daihatsu",
+	"ime": "Materia"
+},
+{
+	"vrednost": "Move",
+	"znamka": "Daihatsu",
+	"ime": "Move"
+},
+{
+	"vrednost": "Rocky",
+	"znamka": "Daihatsu",
+	"ime": "Rocky"
+},
+{
+	"vrednost": "Sirion",
+	"znamka": "Daihatsu",
+	"ime": "Sirion"
+},
+{
+	"vrednost": "Terios",
+	"znamka": "Daihatsu",
+	"ime": "Terios"
+},
+{
+	"vrednost": "Trevis",
+	"znamka": "Daihatsu",
+	"ime": "Trevis"
+},
+{
+	"vrednost": "YRV",
+	"znamka": "Daihatsu",
+	"ime": "YRV"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Daihatsu",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "DAF",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Seres 3",
+	"znamka": "DFSK",
+	"ime": "Seres 3"
+},
+{
+	"vrednost": "Seres 5",
+	"znamka": "DFSK",
+	"ime": "Seres 5"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "DFSK",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "DKW",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Avenger",
+	"znamka": "Dodge",
+	"ime": "Avenger"
+},
+{
+	"vrednost": "Caliber",
+	"znamka": "Dodge",
+	"ime": "Caliber"
+},
+{
+	"vrednost": "Caravan",
+	"znamka": "Dodge",
+	"ime": "Caravan"
+},
+{
+	"vrednost": "Charger",
+	"znamka": "Dodge",
+	"ime": "Charger"
+},
+{
+	"vrednost": "Durango",
+	"znamka": "Dodge",
+	"ime": "Durango"
+},
+{
+	"vrednost": "Journey",
+	"znamka": "Dodge",
+	"ime": "Journey"
+},
+{
+	"vrednost": "Magnum",
+	"znamka": "Dodge",
+	"ime": "Magnum"
+},
+{
+	"vrednost": "Nitro",
+	"znamka": "Dodge",
+	"ime": "Nitro"
+},
+{
+	"vrednost": "RAM",
+	"znamka": "Dodge",
+	"ime": "RAM"
+},
+{
+	"vrednost": "Stealth",
+	"znamka": "Dodge",
+	"ime": "Stealth"
+},
+{
+	"vrednost": "Viper",
+	"znamka": "Dodge",
+	"ime": "Viper"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Dodge",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Donkervoort",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Seres 3",
+	"znamka": "Dongfeng",
+	"ime": "Seres 3"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Dongfeng",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "DS 3",
+	"znamka": "DS Automobiles",
+	"ime": "DS 3"
+},
+{
+	"vrednost": "DS 3 Crossback",
+	"znamka": "DS Automobiles",
+	"ime": "DS 3 Crossback"
+},
+{
+	"vrednost": "DS 4",
+	"znamka": "DS Automobiles",
+	"ime": "DS 4"
+},
+{
+	"vrednost": "DS 4 Crossback",
+	"znamka": "DS Automobiles",
+	"ime": "DS 4 Crossback"
+},
+{
+	"vrednost": "DS 5",
+	"znamka": "DS Automobiles",
+	"ime": "DS 5"
+},
+{
+	"vrednost": "DS 7 Crossback",
+	"znamka": "DS Automobiles",
+	"ime": "DS 7 Crossback"
+},
+{
+	"vrednost": "DS 9",
+	"znamka": "DS Automobiles",
+	"ime": "DS 9"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "DS Automobiles",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "EV",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "208",
+	"znamka": "Ferrari",
+	"ime": "208"
+},
+{
+	"vrednost": "296",
+	"znamka": "Ferrari",
+	"ime": "296"
+},
+{
+	"vrednost": "308",
+	"znamka": "Ferrari",
+	"ime": "308"
+},
+{
+	"vrednost": "328",
+	"znamka": "Ferrari",
+	"ime": "328"
+},
+{
+	"vrednost": "348",
+	"znamka": "Ferrari",
+	"ime": "348"
+},
+{
+	"vrednost": "355",
+	"znamka": "Ferrari",
+	"ime": "355"
+},
+{
+	"vrednost": "360",
+	"znamka": "Ferrari",
+	"ime": "360"
+},
+{
+	"vrednost": "400",
+	"znamka": "Ferrari",
+	"ime": "400"
+},
+{
+	"vrednost": "412",
+	"znamka": "Ferrari",
+	"ime": "412"
+},
+{
+	"vrednost": "430",
+	"znamka": "Ferrari",
+	"ime": "430"
+},
+{
+	"vrednost": "456",
+	"znamka": "Ferrari",
+	"ime": "456"
+},
+{
+	"vrednost": "458",
+	"znamka": "Ferrari",
+	"ime": "458"
+},
+{
+	"vrednost": "488",
+	"znamka": "Ferrari",
+	"ime": "488"
+},
+{
+	"vrednost": "512",
+	"znamka": "Ferrari",
+	"ime": "512"
+},
+{
+	"vrednost": "550 Maranello",
+	"znamka": "Ferrari",
+	"ime": "550 Maranello"
+},
+{
+	"vrednost": "575",
+	"znamka": "Ferrari",
+	"ime": "575"
+},
+{
+	"vrednost": "599",
+	"znamka": "Ferrari",
+	"ime": "599"
+},
+{
+	"vrednost": "612 Scaglietti",
+	"znamka": "Ferrari",
+	"ime": "612 Scaglietti"
+},
+{
+	"vrednost": "812",
+	"znamka": "Ferrari",
+	"ime": "812"
+},
+{
+	"vrednost": "California",
+	"znamka": "Ferrari",
+	"ime": "California"
+},
+{
+	"vrednost": "Daytona SP3",
+	"znamka": "Ferrari",
+	"ime": "Daytona SP3"
+},
+{
+	"vrednost": "Dino",
+	"znamka": "Ferrari",
+	"ime": "Dino"
+},
+{
+	"vrednost": "Enzo",
+	"znamka": "Ferrari",
+	"ime": "Enzo"
+},
+{
+	"vrednost": "F8",
+	"znamka": "Ferrari",
+	"ime": "F8"
+},
+{
+	"vrednost": "F12",
+	"znamka": "Ferrari",
+	"ime": "F12"
+},
+{
+	"vrednost": "F40",
+	"znamka": "Ferrari",
+	"ime": "F40"
+},
+{
+	"vrednost": "F50",
+	"znamka": "Ferrari",
+	"ime": "F50"
+},
+{
+	"vrednost": "FF",
+	"znamka": "Ferrari",
+	"ime": "FF"
+},
+{
+	"vrednost": "GTC4Lusso",
+	"znamka": "Ferrari",
+	"ime": "GTC4Lusso"
+},
+{
+	"vrednost": "LaFerrari",
+	"znamka": "Ferrari",
+	"ime": "LaFerrari"
+},
+{
+	"vrednost": "Mondial",
+	"znamka": "Ferrari",
+	"ime": "Mondial"
+},
+{
+	"vrednost": "Monza",
+	"znamka": "Ferrari",
+	"ime": "Monza"
+},
+{
+	"vrednost": "Portofino",
+	"znamka": "Ferrari",
+	"ime": "Portofino"
+},
+{
+	"vrednost": "Roma",
+	"znamka": "Ferrari",
+	"ime": "Roma"
+},
+{
+	"vrednost": "Superamerica",
+	"znamka": "Ferrari",
+	"ime": "Superamerica"
+},
+{
+	"vrednost": "SF90",
+	"znamka": "Ferrari",
+	"ime": "SF90"
+},
+{
+	"vrednost": "Testarossa",
+	"znamka": "Ferrari",
+	"ime": "Testarossa"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Ferrari",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "1100",
+	"znamka": "Fiat",
+	"ime": "1100"
+},
+{
+	"vrednost": "124",
+	"znamka": "Fiat",
+	"ime": "124"
+},
+{
+	"vrednost": "124 Spider",
+	"znamka": "Fiat",
+	"ime": "124 Spider"
+},
+{
+	"vrednost": "125",
+	"znamka": "Fiat",
+	"ime": "125"
+},
+{
+	"vrednost": "126",
+	"znamka": "Fiat",
+	"ime": "126"
+},
+{
+	"vrednost": "127",
+	"znamka": "Fiat",
+	"ime": "127"
+},
+{
+	"vrednost": "130",
+	"znamka": "Fiat",
+	"ime": "130"
+},
+{
+	"vrednost": "131",
+	"znamka": "Fiat",
+	"ime": "131"
+},
+{
+	"vrednost": "132",
+	"znamka": "Fiat",
+	"ime": "132"
+},
+{
+	"vrednost": "500",
+	"znamka": "Fiat",
+	"ime": "500"
+},
+{
+	"vrednost": "500C",
+	"znamka": "Fiat",
+	"ime": "500C"
+},
+{
+	"vrednost": "500L",
+	"znamka": "Fiat",
+	"ime": "500L"
+},
+{
+	"vrednost": "500X",
+	"znamka": "Fiat",
+	"ime": "500X"
+},
+{
+	"vrednost": "600",
+	"znamka": "Fiat",
+	"ime": "600"
+},
+{
+	"vrednost": "850",
+	"znamka": "Fiat",
+	"ime": "850"
+},
+{
+	"vrednost": "1500",
+	"znamka": "Fiat",
+	"ime": "1500"
+},
+{
+	"vrednost": "Albea",
+	"znamka": "Fiat",
+	"ime": "Albea"
+},
+{
+	"vrednost": "Argenta",
+	"znamka": "Fiat",
+	"ime": "Argenta"
+},
+{
+	"vrednost": "Barchetta",
+	"znamka": "Fiat",
+	"ime": "Barchetta"
+},
+{
+	"vrednost": "Brava",
+	"znamka": "Fiat",
+	"ime": "Brava"
+},
+{
+	"vrednost": "Bravo",
+	"znamka": "Fiat",
+	"ime": "Bravo"
+},
+{
+	"vrednost": "Campagnola",
+	"znamka": "Fiat",
+	"ime": "Campagnola"
+},
+{
+	"vrednost": "Cinquecento",
+	"znamka": "Fiat",
+	"ime": "Cinquecento"
+},
+{
+	"vrednost": "Coupe",
+	"znamka": "Fiat",
+	"ime": "Coupe"
+},
+{
+	"vrednost": "Croma",
+	"znamka": "Fiat",
+	"ime": "Croma"
+},
+{
+	"vrednost": "Dino",
+	"znamka": "Fiat",
+	"ime": "Dino"
+},
+{
+	"vrednost": "Doblo",
+	"znamka": "Fiat",
+	"ime": "Doblo"
+},
+{
+	"vrednost": "Freemont",
+	"znamka": "Fiat",
+	"ime": "Freemont"
+},
+{
+	"vrednost": "Fullback",
+	"znamka": "Fiat",
+	"ime": "Fullback"
+},
+{
+	"vrednost": "Idea",
+	"znamka": "Fiat",
+	"ime": "Idea"
+},
+{
+	"vrednost": "Linea",
+	"znamka": "Fiat",
+	"ime": "Linea"
+},
+{
+	"vrednost": "Marea",
+	"znamka": "Fiat",
+	"ime": "Marea"
+},
+{
+	"vrednost": "Multipla",
+	"znamka": "Fiat",
+	"ime": "Multipla"
+},
+{
+	"vrednost": "Palio",
+	"znamka": "Fiat",
+	"ime": "Palio"
+},
+{
+	"vrednost": "Panda",
+	"znamka": "Fiat",
+	"ime": "Panda"
+},
+{
+	"vrednost": "Punto",
+	"znamka": "Fiat",
+	"ime": "Punto"
+},
+{
+	"vrednost": "Qubo",
+	"znamka": "Fiat",
+	"ime": "Qubo"
+},
+{
+	"vrednost": "Regata",
+	"znamka": "Fiat",
+	"ime": "Regata"
+},
+{
+	"vrednost": "Ritmo",
+	"znamka": "Fiat",
+	"ime": "Ritmo"
+},
+{
+	"vrednost": "Scudo",
+	"znamka": "Fiat",
+	"ime": "Scudo"
+},
+{
+	"vrednost": "Sedici",
+	"znamka": "Fiat",
+	"ime": "Sedici"
+},
+{
+	"vrednost": "Seicento",
+	"znamka": "Fiat",
+	"ime": "Seicento"
+},
+{
+	"vrednost": "Spider",
+	"znamka": "Fiat",
+	"ime": "Spider"
+},
+{
+	"vrednost": "Stilo",
+	"znamka": "Fiat",
+	"ime": "Stilo"
+},
+{
+	"vrednost": "Talento",
+	"znamka": "Fiat",
+	"ime": "Talento"
+},
+{
+	"vrednost": "Tempra",
+	"znamka": "Fiat",
+	"ime": "Tempra"
+},
+{
+	"vrednost": "Tipo",
+	"znamka": "Fiat",
+	"ime": "Tipo"
+},
+{
+	"vrednost": "Ulysse",
+	"znamka": "Fiat",
+	"ime": "Ulysse"
+},
+{
+	"vrednost": "Uno",
+	"znamka": "Fiat",
+	"ime": "Uno"
+},
+{
+	"vrednost": "X 1/9",
+	"znamka": "Fiat",
+	"ime": "X 1/9"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Fiat",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Karma",
+	"znamka": "Fisker",
+	"ime": "Karma"
+},
+{
+	"vrednost": "Ocean",
+	"znamka": "Fisker",
+	"ime": "Ocean"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Fisker",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Aerostar",
+	"znamka": "Ford",
+	"ime": "Aerostar"
+},
+{
+	"vrednost": "Bronco",
+	"znamka": "Ford",
+	"ime": "Bronco"
+},
+{
+	"vrednost": "B-Max",
+	"znamka": "Ford",
+	"ime": "B-Max"
+},
+{
+	"vrednost": "C-Max (vsi)",
+	"znamka": "Ford vsi",
+	"ime": "C-Max (vsi)"
+},
+    {
 	"vrednost": "C-Max",
 	"znamka": "Ford",
 	"ime": "C-Max"
 },
-{
+    {
 	"vrednost": "Grand C-Max",
 	"znamka": "Ford",
 	"ime": "Grand C-Max"
+},
+{
+	"vrednost": "Capri",
+	"znamka": "Ford",
+	"ime": "Capri"
+},
+{
+	"vrednost": "Cougar",
+	"znamka": "Ford",
+	"ime": "Cougar"
+},
+{
+	"vrednost": "Ecosport",
+	"znamka": "Ford",
+	"ime": "Ecosport"
+},
+{
+	"vrednost": "Edge",
+	"znamka": "Ford",
+	"ime": "Edge"
+},
+{
+	"vrednost": "Escort",
+	"znamka": "Ford",
+	"ime": "Escort"
+},
+{
+	"vrednost": "Excursion",
+	"znamka": "Ford",
+	"ime": "Excursion"
+},
+{
+	"vrednost": "Expedition",
+	"znamka": "Ford",
+	"ime": "Expedition"
+},
+{
+	"vrednost": "Explorer",
+	"znamka": "Ford",
+	"ime": "Explorer"
+},
+{
+	"vrednost": "F-150",
+	"znamka": "Ford",
+	"ime": "F-150"
+},
+{
+	"vrednost": "Fiesta",
+	"znamka": "Ford",
+	"ime": "Fiesta"
+},
+{
+	"vrednost": "Focus",
+	"znamka": "Ford",
+	"ime": "Focus"
+},
+{
+	"vrednost": "Fusion",
+	"znamka": "Ford",
+	"ime": "Fusion"
+},
+{
+	"vrednost": "Galaxy",
+	"znamka": "Ford",
+	"ime": "Galaxy"
+},
+{
+	"vrednost": "Granada",
+	"znamka": "Ford",
+	"ime": "Granada"
+},
+{
+	"vrednost": "GT",
+	"znamka": "Ford",
+	"ime": "GT"
+},
+{
+	"vrednost": "Ka",
+	"znamka": "Ford",
+	"ime": "Ka"
+},
+{
+	"vrednost": "Kuga",
+	"znamka": "Ford",
+	"ime": "Kuga"
+},
+{
+	"vrednost": "Maverick",
+	"znamka": "Ford",
+	"ime": "Maverick"
+},
+{
+	"vrednost": "Mondeo",
+	"znamka": "Ford",
+	"ime": "Mondeo"
+},
+{
+	"vrednost": "Mustang",
+	"znamka": "Ford",
+	"ime": "Mustang"
+},
+{
+	"vrednost": "Mustang Mach-E",
+	"znamka": "Ford",
+	"ime": "Mustang Mach-E"
+},
+{
+	"vrednost": "Orion",
+	"znamka": "Ford",
+	"ime": "Orion"
+},
+{
+	"vrednost": "Probe",
+	"znamka": "Ford",
+	"ime": "Probe"
+},
+{
+	"vrednost": "Puma",
+	"znamka": "Ford",
+	"ime": "Puma"
+},
+{
+	"vrednost": "Ranger",
+	"znamka": "Ford",
+	"ime": "Ranger"
+},
+{
+	"vrednost": "S-Max",
+	"znamka": "Ford",
+	"ime": "S-Max"
+},
+{
+	"vrednost": "Scorpio",
+	"znamka": "Ford",
+	"ime": "Scorpio"
+},
+{
+	"vrednost": "Sierra",
+	"znamka": "Ford",
+	"ime": "Sierra"
+},
+{
+	"vrednost": "StreetKa",
+	"znamka": "Ford",
+	"ime": "StreetKa"
+},
+{
+	"vrednost": "Taunus",
+	"znamka": "Ford",
+	"ime": "Taunus"
+},
+{
+	"vrednost": "Taurus",
+	"znamka": "Ford",
+	"ime": "Taurus"
+},
+{
+	"vrednost": "Thunderbird",
+	"znamka": "Ford",
+	"ime": "Thunderbird"
+},
+{
+	"vrednost": "Tourneo",
+	"znamka": "Ford",
+	"ime": "Tourneo"
+},
+{
+	"vrednost": "Tourneo Courier",
+	"znamka": "Ford",
+	"ime": "Tourneo Courier"
+},
+{
+	"vrednost": "Tourneo Connect",
+	"znamka": "Ford",
+	"ime": "Tourneo Connect"
+},
+{
+	"vrednost": "Tourneo Custom",
+	"znamka": "Ford",
+	"ime": "Tourneo Custom"
+},
+{
+	"vrednost": "Transit",
+	"znamka": "Ford",
+	"ime": "Transit"
+},
+{
+	"vrednost": "Transit Custom",
+	"znamka": "Ford",
+	"ime": "Transit Custom"
+},
+{
+	"vrednost": "Windstar",
+	"znamka": "Ford",
+	"ime": "Windstar"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Ford",
+	"ime": "modela ni na seznamu"
 },{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "GMC",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Hover",
+	"znamka": "Greatwall",
+	"ime": "Hover"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Greatwall",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Sonique",
+	"znamka": "Grecav",
+	"ime": "Sonique"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Grecav",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Hansa",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Accord",
+	"znamka": "Honda",
+	"ime": "Accord"
+},
+{
+	"vrednost": "Civic",
+	"znamka": "Honda",
+	"ime": "Civic"
+},
+{
+	"vrednost": "Concerto",
+	"znamka": "Honda",
+	"ime": "Concerto"
+},
+{
+	"vrednost": "CR-V",
+	"znamka": "Honda",
+	"ime": "CR-V"
+},
+{
+	"vrednost": "CR-Z",
+	"znamka": "Honda",
+	"ime": "CR-Z"
+},
+{
+	"vrednost": "Crosstar",
+	"znamka": "Honda",
+	"ime": "Crosstar"
+},
+{
+	"vrednost": "CRX",
+	"znamka": "Honda",
+	"ime": "CRX"
+},
+{
+	"vrednost": "e",
+	"znamka": "Honda",
+	"ime": "e"
+},
+{
+	"vrednost": "FR-V",
+	"znamka": "Honda",
+	"ime": "FR-V"
+},
+{
+	"vrednost": "HR-V",
+	"znamka": "Honda",
+	"ime": "HR-V"
+},
+{
+	"vrednost": "Insight",
+	"znamka": "Honda",
+	"ime": "Insight"
+},
+{
+	"vrednost": "Integra",
+	"znamka": "Honda",
+	"ime": "Integra"
+},
+{
+	"vrednost": "Jazz",
+	"znamka": "Honda",
+	"ime": "Jazz"
+},
+{
+	"vrednost": "Legend",
+	"znamka": "Honda",
+	"ime": "Legend"
+},
+{
+	"vrednost": "Logo",
+	"znamka": "Honda",
+	"ime": "Logo"
+},
+{
+	"vrednost": "NSX",
+	"znamka": "Honda",
+	"ime": "NSX"
+},
+{
+	"vrednost": "Odyssey",
+	"znamka": "Honda",
+	"ime": "Odyssey"
+},
+{
+	"vrednost": "Pilot",
+	"znamka": "Honda",
+	"ime": "Pilot"
+},
+{
+	"vrednost": "Prelude",
+	"znamka": "Honda",
+	"ime": "Prelude"
+},
+{
+	"vrednost": "S2000",
+	"znamka": "Honda",
+	"ime": "S2000"
+},
+{
+	"vrednost": "Shuttle",
+	"znamka": "Honda",
+	"ime": "Shuttle"
+},
+{
+	"vrednost": "Stream",
+	"znamka": "Honda",
+	"ime": "Stream"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Honda",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "H1",
+	"znamka": "Hummer",
+	"ime": "H1"
+},
+{
+	"vrednost": "H2",
+	"znamka": "Hummer",
+	"ime": "H2"
+},
+{
+	"vrednost": "H3",
+	"znamka": "Hummer",
+	"ime": "H3"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Hummer",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Accent",
+	"znamka": "Hyundai",
+	"ime": "Accent"
+},
+{
+	"vrednost": "Atos",
+	"znamka": "Hyundai",
+	"ime": "Atos"
+},
+{
+	"vrednost": "Bayon",
+	"znamka": "Hyundai",
+	"ime": "Bayon"
+},
+{
+	"vrednost": "Coupe",
+	"znamka": "Hyundai",
+	"ime": "Coupe"
+},
+{
+	"vrednost": "Elantra",
+	"znamka": "Hyundai",
+	"ime": "Elantra"
+},
+{
+	"vrednost": "Excel",
+	"znamka": "Hyundai",
+	"ime": "Excel"
+},
+{
+	"vrednost": "Galloper",
+	"znamka": "Hyundai",
+	"ime": "Galloper"
+},
+{
+	"vrednost": "Genesis",
+	"znamka": "Hyundai",
+	"ime": "Genesis"
+},
+{
+	"vrednost": "Getz",
+	"znamka": "Hyundai",
+	"ime": "Getz"
+},
+{
+	"vrednost": "Grandeur",
+	"znamka": "Hyundai",
+	"ime": "Grandeur"
+},
+{
+	"vrednost": "H-1",
+	"znamka": "Hyundai",
+	"ime": "H-1"
+},
+{
+	"vrednost": "H100",
+	"znamka": "Hyundai",
+	"ime": "H100"
+},
+{
+	"vrednost": "i10",
+	"znamka": "Hyundai",
+	"ime": "i10"
+},
+{
+	"vrednost": "i20",
+	"znamka": "Hyundai",
+	"ime": "i20"
+},
+{
 	"vrednost": "i30",
 	"znamka": "Hyundai",
 	"ime": "i30"
 },
 {
+	"vrednost": "i30 (vsi)",
+	"znamka": "Hyundai vsi",
+	"ime": "i30 (vsi)"
+},
+    {
+	"vrednost": "i30",
+	"znamka": "Hyundai",
+	"ime": "i30"
+},
+    {
 	"vrednost": "i30---Wagon",
 	"znamka": "Hyundai",
 	"ime": "i30 Wagon"
 },
-{
+    {
 	"vrednost": "i30---Fastback",
 	"znamka": "Hyundai",
 	"ime": "i30 Fastback"
 },
 {
+	"vrednost": "i40",
+	"znamka": "Hyundai",
+	"ime": "i40"
+},
+{
+	"vrednost": "ix20",
+	"znamka": "Hyundai",
+	"ime": "ix20"
+},
+{
+	"vrednost": "ix35",
+	"znamka": "Hyundai",
+	"ime": "ix35"
+},
+{
+	"vrednost": "ix55",
+	"znamka": "Hyundai",
+	"ime": "ix55"
+},
+{
+	"vrednost": "Ioniq",
+	"znamka": "Hyundai",
+	"ime": "Ioniq"
+},
+{
+	"vrednost": "Ioniq 5",
+	"znamka": "Hyundai",
+	"ime": "Ioniq 5"
+},
+{
+	"vrednost": "Ioniq 6",
+	"znamka": "Hyundai",
+	"ime": "Ioniq 6"
+},
+{
+	"vrednost": "Kona",
+	"znamka": "Hyundai",
+	"ime": "Kona"
+},
+{
+	"vrednost": "Lantra",
+	"znamka": "Hyundai",
+	"ime": "Lantra"
+},
+{
+	"vrednost": "Matrix",
+	"znamka": "Hyundai",
+	"ime": "Matrix"
+},
+{
+	"vrednost": "Pony",
+	"znamka": "Hyundai",
+	"ime": "Pony"
+},
+{
+	"vrednost": "S-Coupe",
+	"znamka": "Hyundai",
+	"ime": "S-Coupe"
+},
+{
+	"vrednost": "Santa Cruz",
+	"znamka": "Hyundai",
+	"ime": "Santa Cruz"
+},
+{
+	"vrednost": "Santa Fe (vsi)",
+	"znamka": "Hyundai vsi",
+	"ime": "Santa Fe (vsi)"
+},
+    {
 	"vrednost": "Santa Fe",
 	"znamka": "Hyundai",
 	"ime": "Santa Fe"
 },
-{
+    {
 	"vrednost": "Grand Santa Fe",
 	"znamka": "Hyundai",
 	"ime": "Grand Santa Fe"
+},
+{
+	"vrednost": "Santamo",
+	"znamka": "Hyundai",
+	"ime": "Santamo"
+},
+{
+	"vrednost": "Sonata",
+	"znamka": "Hyundai",
+	"ime": "Sonata"
+},
+{
+	"vrednost": "Staria",
+	"znamka": "Hyundai",
+	"ime": "Staria"
+},
+{
+	"vrednost": "Terracan",
+	"znamka": "Hyundai",
+	"ime": "Terracan"
+},
+{
+	"vrednost": "Trajet",
+	"znamka": "Hyundai",
+	"ime": "Trajet"
+},
+{
+	"vrednost": "Tucson",
+	"znamka": "Hyundai",
+	"ime": "Tucson"
+},
+{
+	"vrednost": "Veloster",
+	"znamka": "Hyundai",
+	"ime": "Veloster"
+},
+{
+	"vrednost": "XG",
+	"znamka": "Hyundai",
+	"ime": "XG"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Hyundai",
+	"ime": "modela ni na seznamu"
 },{
+	"vrednost": "G Coupe",
+	"znamka": "Infiniti",
+	"ime": "G Coupe"
+},
+{
+	"vrednost": "G Cabrio",
+	"znamka": "Infiniti",
+	"ime": "G Cabrio"
+},
+{
+	"vrednost": "G",
+	"znamka": "Infiniti",
+	"ime": "G"
+},
+{
+	"vrednost": "M",
+	"znamka": "Infiniti",
+	"ime": "M"
+},
+{
+	"vrednost": "EX",
+	"znamka": "Infiniti",
+	"ime": "EX"
+},
+{
+	"vrednost": "FX",
+	"znamka": "Infiniti",
+	"ime": "FX"
+},
+{
+	"vrednost": "JX",
+	"znamka": "Infiniti",
+	"ime": "JX"
+},
+{
+	"vrednost": "QX",
+	"znamka": "Infiniti",
+	"ime": "QX"
+},
+{
+	"vrednost": "Q30",
+	"znamka": "Infiniti",
+	"ime": "Q30"
+},
+{
+	"vrednost": "Q50",
+	"znamka": "Infiniti",
+	"ime": "Q50"
+},
+{
+	"vrednost": "Q60",
+	"znamka": "Infiniti",
+	"ime": "Q60"
+},
+{
+	"vrednost": "Q70",
+	"znamka": "Infiniti",
+	"ime": "Q70"
+},
+{
+	"vrednost": "QX50",
+	"znamka": "Infiniti",
+	"ime": "QX50"
+},
+{
+	"vrednost": "QX55",
+	"znamka": "Infiniti",
+	"ime": "QX55"
+},
+{
+	"vrednost": "QX60",
+	"znamka": "Infiniti",
+	"ime": "QX60"
+},
+{
+	"vrednost": "QX70",
+	"znamka": "Infiniti",
+	"ime": "QX70"
+},
+{
+	"vrednost": "QX80",
+	"znamka": "Infiniti",
+	"ime": "QX80"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Infiniti",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Iso",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Amigo",
+	"znamka": "Isuzu",
+	"ime": "Amigo"
+},
+{
+	"vrednost": "Campo",
+	"znamka": "Isuzu",
+	"ime": "Campo"
+},
+{
+	"vrednost": "D-Max",
+	"znamka": "Isuzu",
+	"ime": "D-Max"
+},
+{
+	"vrednost": "Gemini",
+	"znamka": "Isuzu",
+	"ime": "Gemini"
+},
+{
+	"vrednost": "Mu",
+	"znamka": "Isuzu",
+	"ime": "Mu"
+},
+{
+	"vrednost": "Trooper",
+	"znamka": "Isuzu",
+	"ime": "Trooper"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Isuzu",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "Massif",
+	"znamka": "Iveco",
+	"ime": "Massif"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Iveco",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "e-S4",
+	"znamka": "JAC",
+	"ime": "e-S4"
+},
+{
+	"vrednost": "iEV7S",
+	"znamka": "JAC",
+	"ime": "iEV7S"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "JAC",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "Daimler",
+	"znamka": "Jaguar",
+	"ime": "Daimler"
+},
+{
+	"vrednost": "MX-II",
+	"znamka": "Jaguar",
+	"ime": "MK-II"
+},
+{
+	"vrednost": "E-Type",
+	"znamka": "Jaguar",
+	"ime": "E-Type"
+},
+{
+	"vrednost": "E-Pace",
+	"znamka": "Jaguar",
+	"ime": "E-Pace"
+},
+{
+	"vrednost": "F-Pace",
+	"znamka": "Jaguar",
+	"ime": "F-Pace"
+},
+{
+	"vrednost": "F-Type",
+	"znamka": "Jaguar",
+	"ime": "F-Type"
+},
+{
+	"vrednost": "I-Pace",
+	"znamka": "Jaguar",
+	"ime": "I-Pace"
+},
+{
+	"vrednost": "S-Type",
+	"znamka": "Jaguar",
+	"ime": "S-Type"
+},
+{
+	"vrednost": "X-Type",
+	"znamka": "Jaguar",
+	"ime": "X-Type"
+},
+{
+	"vrednost": "XE",
+	"znamka": "Jaguar",
+	"ime": "XE"
+},
+{
+	"vrednost": "XF",
+	"znamka": "Jaguar",
+	"ime": "XF"
+},
+{
+	"vrednost": "XJ",
+	"znamka": "Jaguar",
+	"ime": "XJ"
+},
+{
+	"vrednost": "XJS",
+	"znamka": "Jaguar",
+	"ime": "XJS"
+},
+{
+	"vrednost": "XK",
+	"znamka": "Jaguar",
+	"ime": "XK"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Jaguar",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "JDM",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "CJ",
+	"znamka": "Jeep",
+	"ime": "CJ"
+},
+{
+	"vrednost": "Cherokee",
+	"znamka": "Jeep",
+	"ime": "Cherokee"
+},
+{
+	"vrednost": "Commander",
+	"znamka": "Jeep",
+	"ime": "Commander"
+},
+{
+	"vrednost": "Compass",
+	"znamka": "Jeep",
+	"ime": "Compass"
+},
+{
+	"vrednost": "Gladiator",
+	"znamka": "Jeep",
+	"ime": "Gladiator"
+},
+{
+	"vrednost": "Grand Cherokee",
+	"znamka": "Jeep",
+	"ime": "Grand Cherokee"
+},
+{
+	"vrednost": "Patriot",
+	"znamka": "Jeep",
+	"ime": "Patriot"
+},
+{
+	"vrednost": "Renegade",
+	"znamka": "Jeep",
+	"ime": "Renegade"
+},
+{
+	"vrednost": "Wagoneer",
+	"znamka": "Jeep",
+	"ime": "Wagoneer"
+},
+{
+	"vrednost": "Willys",
+	"znamka": "Jeep",
+	"ime": "Willys"
+},
+{
+	"vrednost": "Wrangler",
+	"znamka": "Jeep",
+	"ime": "Wrangler"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Jeep",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "Carens",
+	"znamka": "Kia",
+	"ime": "Carens"
+},
+{
+	"vrednost": "Carnival",
+	"znamka": "Kia",
+	"ime": "Carnival"
+},
+{
+	"vrednost": "Ceed (vsi)",
+	"znamka": "Kia vsi",
+	"ime": "Ceed (vsi)"
+},
+    {
 	"vrednost": "Ceed",
 	"znamka": "Kia",
 	"ime": "Ceed"
 },
-{
+    {
 	"vrednost": "Ceed---SW",
 	"znamka": "Kia",
 	"ime": "Ceed SW"
 },
-{
+    {
 	"vrednost": "Pro_CeeD",
 	"znamka": "Kia",
 	"ime": "Pro_CeeD"
 },
-{
+    {
 	"vrednost": "ProCeed",
 	"znamka": "Kia",
 	"ime": "ProCeed"
+},
+{
+	"vrednost": "Cerato",
+	"znamka": "Kia",
+	"ime": "Cerato"
+},
+{
+	"vrednost": "Clarus",
+	"znamka": "Kia",
+	"ime": "Clarus"
+},
+{
+	"vrednost": "Elan",
+	"znamka": "Kia",
+	"ime": "Elan"
+},
+{
+	"vrednost": "EV6",
+	"znamka": "Kia",
+	"ime": "EV6"
+},
+{
+	"vrednost": "Forte",
+	"znamka": "Kia",
+	"ime": "Forte"
+},
+{
+	"vrednost": "Joice",
+	"znamka": "Kia",
+	"ime": "Joice"
+},
+{
+	"vrednost": "Magentis",
+	"znamka": "Kia",
+	"ime": "Magentis"
+},
+{
+	"vrednost": "Niro",
+	"znamka": "Kia",
+	"ime": "Niro"
+},
+{
+	"vrednost": "Opirus",
+	"znamka": "Kia",
+	"ime": "Opirus"
+},
+{
+	"vrednost": "Optima",
+	"znamka": "Kia",
+	"ime": "Optima"
+},
+{
+	"vrednost": "Picanto",
+	"znamka": "Kia",
+	"ime": "Picanto"
+},
+{
+	"vrednost": "Pride",
+	"znamka": "Kia",
+	"ime": "Pride"
+},
+{
+	"vrednost": "Retona",
+	"znamka": "Kia",
+	"ime": "Retona"
+},
+{
+	"vrednost": "Rio",
+	"znamka": "Kia",
+	"ime": "Rio"
+},
+{
+	"vrednost": "Rocsta",
+	"znamka": "Kia",
+	"ime": "Rocsta"
+},
+{
+	"vrednost": "Sephia",
+	"znamka": "Kia",
+	"ime": "Sephia"
+},
+{
+	"vrednost": "Sorento",
+	"znamka": "Kia",
+	"ime": "Sorento"
+},
+{
+	"vrednost": "Soul",
+	"znamka": "Kia",
+	"ime": "Soul"
+},
+{
+	"vrednost": "Spectra",
+	"znamka": "Kia",
+	"ime": "Spectra"
+},
+{
+	"vrednost": "Sportage",
+	"znamka": "Kia",
+	"ime": "Sportage"
+},
+{
+	"vrednost": "Stinger",
+	"znamka": "Kia",
+	"ime": "Stinger"
+},
+{
+	"vrednost": "Stonic",
+	"znamka": "Kia",
+	"ime": "Stonic"
+},
+{
+	"vrednost": "Venga",
+	"znamka": "Kia",
+	"ime": "Venga"
+},
+{
+	"vrednost": "XCeed",
+	"znamka": "Kia",
+	"ime": "XCeed"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Kia",
+	"ime": "modela ni na seznamu"
 },{
+	"vrednost": "X-Bow",
+	"znamka": "KTM",
+	"ime": "X-Bow"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "KTM",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "110",
+	"znamka": "Lada",
+	"ime": "110"
+},
+{
+	"vrednost": "111",
+	"znamka": "Lada",
+	"ime": "111"
+},
+{
+	"vrednost": "112",
+	"znamka": "Lada",
+	"ime": "112"
+},
+{
+	"vrednost": "1300",
+	"znamka": "Lada",
+	"ime": "1300"
+},
+{
+	"vrednost": "1500",
+	"znamka": "Lada",
+	"ime": "1500"
+},
+{
+	"vrednost": "Desetka",
+	"znamka": "Lada",
+	"ime": "Desetka"
+},
+{
+	"vrednost": "Aleko",
+	"znamka": "Lada",
+	"ime": "Aleko"
+},
+{
+	"vrednost": "Granta",
+	"znamka": "Lada",
+	"ime": "Granta"
+},
+{
+	"vrednost": "Kalina",
+	"znamka": "Lada",
+	"ime": "Kalina"
+},
+{
+	"vrednost": "Karavan",
+	"znamka": "Lada",
+	"ime": "Karavan"
+},
+{
+	"vrednost": "Niva",
+	"znamka": "Lada",
+	"ime": "Niva"
+},
+{
+	"vrednost": "Nova",
+	"znamka": "Lada",
+	"ime": "Nova"
+},
+{
+	"vrednost": "Samara",
+	"znamka": "Lada",
+	"ime": "Samara"
+},
+{
+	"vrednost": "Vesta",
+	"znamka": "Lada",
+	"ime": "Vesta"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Lada",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "Aventador",
+	"znamka": "Lamborghini",
+	"ime": "Aventador"
+},
+{
+	"vrednost": "Countach",
+	"znamka": "Lamborghini",
+	"ime": "Countach"
+},
+{
+	"vrednost": "Diablo",
+	"znamka": "Lamborghini",
+	"ime": "Diablo"
+},
+{
+	"vrednost": "Espada",
+	"znamka": "Lamborghini",
+	"ime": "Espada"
+},
+{
+	"vrednost": "Gallardo",
+	"znamka": "Lamborghini",
+	"ime": "Gallardo"
+},
+{
+	"vrednost": "Huracan",
+	"znamka": "Lamborghini",
+	"ime": "Huracan"
+},
+{
+	"vrednost": "LM002",
+	"znamka": "Lamborghini",
+	"ime": "LM002"
+},
+{
+	"vrednost": "Miura",
+	"znamka": "Lamborghini",
+	"ime": "Miura"
+},
+{
+	"vrednost": "Murcielago",
+	"znamka": "Lamborghini",
+	"ime": "Murcielago"
+},
+{
+	"vrednost": "Urus",
+	"znamka": "Lamborghini",
+	"ime": "Urus"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Lamborghini",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "Beta",
+	"znamka": "Lancia",
+	"ime": "Beta"
+},
+{
+	"vrednost": "Dedra",
+	"znamka": "Lancia",
+	"ime": "Dedra"
+},
+{
+	"vrednost": "Delta",
+	"znamka": "Lancia",
+	"ime": "Delta"
+},
+{
+	"vrednost": "Flavia",
+	"znamka": "Lancia",
+	"ime": "Flavia"
+},
+{
+	"vrednost": "Fulvia",
+	"znamka": "Lancia",
+	"ime": "Fulvia"
+},
+{
+	"vrednost": "Kappa",
+	"znamka": "Lancia",
+	"ime": "Kappa"
+},
+{
+	"vrednost": "Lybra",
+	"znamka": "Lancia",
+	"ime": "Lybra"
+},
+{
+	"vrednost": "Musa",
+	"znamka": "Lancia",
+	"ime": "Musa"
+},
+{
+	"vrednost": "Phedra",
+	"znamka": "Lancia",
+	"ime": "Phedra"
+},
+{
+	"vrednost": "Prisma",
+	"znamka": "Lancia",
+	"ime": "Prisma"
+},
+{
+	"vrednost": "Stratos",
+	"znamka": "Lancia",
+	"ime": "Stratos"
+},
+{
+	"vrednost": "Thema",
+	"znamka": "Lancia",
+	"ime": "Thema"
+},
+{
+	"vrednost": "Thesis",
+	"znamka": "Lancia",
+	"ime": "Thesis"
+},
+{
+	"vrednost": "Voyager",
+	"znamka": "Lancia",
+	"ime": "Voyager"
+},
+{
+	"vrednost": "Y",
+	"znamka": "Lancia",
+	"ime": "Y"
+},
+{
+	"vrednost": "Ypsilon",
+	"znamka": "Lancia",
+	"ime": "Ypsilon"
+},
+{
+	"vrednost": "Zeta",
+	"znamka": "Lancia",
+	"ime": "Zeta"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Lancia",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "Defender",
+	"znamka": "LandRover",
+	"ime": "Defender"
+},
+{
+	"vrednost": "Discovery",
+	"znamka": "LandRover",
+	"ime": "Discovery"
+},
+{
+	"vrednost": "Discovery Sport",
+	"znamka": "LandRover",
+	"ime": "Discovery Sport"
+},
+{
+	"vrednost": "Freelander",
+	"znamka": "LandRover",
+	"ime": "Freelander"
+},
+{
+	"vrednost": "Range Rover",
+	"znamka": "LandRover",
+	"ime": "Range Rover"
+},
+{
+	"vrednost": "Range Rover Evoque",
+	"znamka": "LandRover",
+	"ime": "Range Rover Evoque"
+},
+{
+	"vrednost": "Range Rover Evoque Convertible",
+	"znamka": "LandRover",
+	"ime": "Range Rover Evoque Convertible"
+},
+{
+	"vrednost": "Range Rover Sport",
+	"znamka": "LandRover",
+	"ime": "Range Rover Sport"
+},
+{
+	"vrednost": "Range Rover Velar",
+	"znamka": "LandRover",
+	"ime": "Range Rover Velar"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "LandRover",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "LandWind",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "CT",
+	"znamka": "Lexus",
+	"ime": "CT"
+},
+{
+	"vrednost": "ES",
+	"znamka": "Lexus",
+	"ime": "ES"
+},
+{
+	"vrednost": "GS",
+	"znamka": "Lexus",
+	"ime": "GS"
+},
+{
+	"vrednost": "GX",
+	"znamka": "Lexus",
+	"ime": "GX"
+},
+{
+	"vrednost": "IS",
+	"znamka": "Lexus",
+	"ime": "IS"
+},
+{
+	"vrednost": "LC",
+	"znamka": "Lexus",
+	"ime": "LC"
+},
+{
+	"vrednost": "LFA",
+	"znamka": "Lexus",
+	"ime": "LFA"
+},
+{
+	"vrednost": "LS",
+	"znamka": "Lexus",
+	"ime": "LS"
+},
+{
+	"vrednost": "LX",
+	"znamka": "Lexus",
+	"ime": "LX"
+},
+{
+	"vrednost": "NX",
+	"znamka": "Lexus",
+	"ime": "NX"
+},
+{
+	"vrednost": "RC",
+	"znamka": "Lexus",
+	"ime": "RC"
+},
+{
+	"vrednost": "RX",
+	"znamka": "Lexus",
+	"ime": "RX"
+},
+{
+	"vrednost": "RX",
+	"znamka": "Lexus",
+	"ime": "RZ"
+},
+{
+	"vrednost": "SC",
+	"znamka": "Lexus",
+	"ime": "SC"
+},
+{
+	"vrednost": "UX",
+	"znamka": "Lexus",
+	"ime": "UX"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Lexus",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Ligier",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Aviator",
+	"znamka": "Lincoln",
+	"ime": "Aviator"
+},
+{
+	"vrednost": "Continental",
+	"znamka": "Lincoln",
+	"ime": "Continental"
+},
+{
+	"vrednost": "Corsair",
+	"znamka": "Lincoln",
+	"ime": "Corsair"
+},
+{
+	"vrednost": "MKZ",
+	"znamka": "Lincoln",
+	"ime": "MKZ"
+},
+{
+	"vrednost": "Nautilus",
+	"znamka": "Lincoln",
+	"ime": "Nautilus"
+},
+{
+	"vrednost": "Navigator",
+	"znamka": "Lincoln",
+	"ime": "Navigator"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Lincoln",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "FX series",
+	"znamka": "London Taxi",
+	"ime": "FX series"
+},
+{
+	"vrednost": "Fairway series",
+	"znamka": "London Taxi",
+	"ime": "Fairway series"
+},
+{
+	"vrednost": "TX series",
+	"znamka": "London Taxi",
+	"ime": "TX series"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "London Taxi",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "3-Eleven",
+	"znamka": "Lotus",
+	"ime": "3-Eleven"
+},
+{
+	"vrednost": "340R",
+	"znamka": "Lotus",
+	"ime": "340R"
+},
+{
+	"vrednost": "Elan",
+	"znamka": "Lotus",
+	"ime": "Elan"
+},
+{
+	"vrednost": "Eletre",
+	"znamka": "Lotus",
+	"ime": "Eletre"
+},
+{
+	"vrednost": "Elise",
+	"znamka": "Lotus",
+	"ime": "Elise"
+},
+{
+	"vrednost": "Esprit",
+	"znamka": "Lotus",
+	"ime": "Esprit"
+},
+{
+	"vrednost": "Esprit",
+	"znamka": "Lotus",
+	"ime": "Emira"
+},
+{
+	"vrednost": "Europa",
+	"znamka": "Lotus",
+	"ime": "Europa"
+},
+{
+	"vrednost": "Evora",
+	"znamka": "Lotus",
+	"ime": "Evora"
+},
+{
+	"vrednost": "Excel",
+	"znamka": "Lotus",
+	"ime": "Excel"
+},
+{
+	"vrednost": "Exige",
+	"znamka": "Lotus",
+	"ime": "Exige"
+},
+{
+	"vrednost": "Super seven",
+	"znamka": "Lotus",
+	"ime": "Super seven"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Lotus",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "LuAZ",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Mahindra",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Maruti",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "222",
+	"znamka": "Maserati",
+	"ime": "222"
+},
+{
+	"vrednost": "224",
+	"znamka": "Maserati",
+	"ime": "224"
+},
+{
+	"vrednost": "228",
+	"znamka": "Maserati",
+	"ime": "228"
+},
+{
+	"vrednost": "418",
+	"znamka": "Maserati",
+	"ime": "418"
+},
+{
+	"vrednost": "420",
+	"znamka": "Maserati",
+	"ime": "420"
+},
+{
+	"vrednost": "422",
+	"znamka": "Maserati",
+	"ime": "422"
+},
+{
+	"vrednost": "424",
+	"znamka": "Maserati",
+	"ime": "424"
+},
+{
+	"vrednost": "430",
+	"znamka": "Maserati",
+	"ime": "430"
+},
+{
+	"vrednost": "GT 3200",
+	"znamka": "Maserati",
+	"ime": "GT 3200"
+},
+{
+	"vrednost": "Biturbo",
+	"znamka": "Maserati",
+	"ime": "Biturbo"
+},
+{
+	"vrednost": "Coupe",
+	"znamka": "Maserati",
+	"ime": "Coupe"
+},
+{
+	"vrednost": "Ghibli",
+	"znamka": "Maserati",
+	"ime": "Ghibli"
+},
+{
+	"vrednost": "GranSport",
+	"znamka": "Maserati",
+	"ime": "GranSport"
+},
+{
+	"vrednost": "GranTurismo",
+	"znamka": "Maserati",
+	"ime": "GranTurismo"
+},
+{
+	"vrednost": "GranCabrio",
+	"znamka": "Maserati",
+	"ime": "GranCabrio"
+},
+{
+	"vrednost": "Grecale",
+	"znamka": "Maserati",
+	"ime": "Grecale"
+},
+{
+	"vrednost": "Levante",
+	"znamka": "Maserati",
+	"ime": "Levante"
+},
+{
+	"vrednost": "MC20",
+	"znamka": "Maserati",
+	"ime": "MC20"
+},
+{
+	"vrednost": "Quattroporte",
+	"znamka": "Maserati",
+	"ime": "Quattroporte"
+},
+{
+	"vrednost": "Shamal",
+	"znamka": "Maserati",
+	"ime": "Shamal"
+},
+{
+	"vrednost": "Spyder",
+	"znamka": "Maserati",
+	"ime": "Spyder"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Maserati",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "57",
+	"znamka": "Maybach",
+	"ime": "57"
+},
+{
+	"vrednost": "62",
+	"znamka": "Maybach",
+	"ime": "62"
+},
+{
+	"vrednost": "Guard",
+	"znamka": "Maybach",
+	"ime": "Guard"
+},
+{
+	"vrednost": "Landaulet",
+	"znamka": "Maybach",
+	"ime": "Landaulet"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Maybach",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "121",
+	"znamka": "Mazda",
+	"ime": "121"
+},
+{
+	"vrednost": "323",
+	"znamka": "Mazda",
+	"ime": "323"
+},
+{
+	"vrednost": "626",
+	"znamka": "Mazda",
+	"ime": "626"
+},
+{
+	"vrednost": "929",
+	"znamka": "Mazda",
+	"ime": "929"
+},
+{
+	"vrednost": "BT-50",
+	"znamka": "Mazda",
+	"ime": "BT-50"
+},
+{
+	"vrednost": "CX-3",
+	"znamka": "Mazda",
+	"ime": "CX-3"
+},
+{
+	"vrednost": "CX-30",
+	"znamka": "Mazda",
+	"ime": "CX-30"
+},
+{
+	"vrednost": "CX-50",
+	"znamka": "Mazda",
+	"ime": "CX-50"
+},
+{
+	"vrednost": "CX-60",
+	"znamka": "Mazda",
+	"ime": "CX-60"
+},
+{
+	"vrednost": "CX-5",
+	"znamka": "Mazda",
+	"ime": "CX-5"
+},
+{
+	"vrednost": "CX-7",
+	"znamka": "Mazda",
+	"ime": "CX-7"
+},
+{
+	"vrednost": "CX-9",
+	"znamka": "Mazda",
+	"ime": "CX-9"
+},
+{
+	"vrednost": "Demio",
+	"znamka": "Mazda",
+	"ime": "Demio"
+},
+{
+	"vrednost": "Mazda2",
+	"znamka": "Mazda",
+	"ime": "Mazda2"
+},
+{
+	"vrednost": "Mazda3",
+	"znamka": "Mazda",
+	"ime": "Mazda3"
+},
+{
+	"vrednost": "Mazda5",
+	"znamka": "Mazda",
+	"ime": "Mazda5"
+},
+{
+	"vrednost": "Mazda6",
+	"znamka": "Mazda",
+	"ime": "Mazda6"
+},
+{
+	"vrednost": "MPV",
+	"znamka": "Mazda",
+	"ime": "MPV"
+},
+{
+	"vrednost": "MX-3",
+	"znamka": "Mazda",
+	"ime": "MX-3"
+},
+{
+	"vrednost": "MX-5",
+	"znamka": "Mazda",
+	"ime": "MX-5"
+},
+{
+	"vrednost": "MX-6",
+	"znamka": "Mazda",
+	"ime": "MX-6"
+},
+{
+	"vrednost": "MX-30",
+	"znamka": "Mazda",
+	"ime": "MX-30"
+},
+{
+	"vrednost": "Premacy",
+	"znamka": "Mazda",
+	"ime": "Premacy"
+},
+{
+	"vrednost": "RX-7",
+	"znamka": "Mazda",
+	"ime": "RX-7"
+},
+{
+	"vrednost": "RX-8",
+	"znamka": "Mazda",
+	"ime": "RX-8"
+},
+{
+	"vrednost": "Tribute",
+	"znamka": "Mazda",
+	"ime": "Tribute"
+},
+{
+	"vrednost": "Xedos 6",
+	"znamka": "Mazda",
+	"ime": "Xedos 6"
+},
+{
+	"vrednost": "Xedos 9",
+	"znamka": "Mazda",
+	"ime": "Xedos 9"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Mazda",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "12C",
+	"znamka": "McLaren",
+	"ime": "12C"
+},
+{
+	"vrednost": "540C",
+	"znamka": "McLaren",
+	"ime": "540C"
+},
+{
+	"vrednost": "570S",
+	"znamka": "McLaren",
+	"ime": "570S"
+},
+{
+	"vrednost": "600LT",
+	"znamka": "McLaren",
+	"ime": "600LT"
+},
+{
+	"vrednost": "620R",
+	"znamka": "McLaren",
+	"ime": "620R"
+},
+{
+	"vrednost": "675LT",
+	"znamka": "McLaren",
+	"ime": "675LT"
+},
+{
+	"vrednost": "720S",
+	"znamka": "McLaren",
+	"ime": "720S"
+},
+{
+	"vrednost": "765LT",
+	"znamka": "McLaren",
+	"ime": "765LT"
+},
+{
+	"vrednost": "Artura",
+	"znamka": "McLaren",
+	"ime": "Artura"
+},
+{
+	"vrednost": "Elva",
+	"znamka": "McLaren",
+	"ime": "Elva"
+},
+{
+	"vrednost": "F1",
+	"znamka": "McLaren",
+	"ime": "F1"
+},
+{
+	"vrednost": "GT",
+	"znamka": "McLaren",
+	"ime": "GT"
+},
+{
+	"vrednost": "P1",
+	"znamka": "McLaren",
+	"ime": "P1"
+},
+{
+	"vrednost": "Senna",
+	"znamka": "McLaren",
+	"ime": "Senna"
+},
+{
+	"vrednost": "Speedtail",
+	"znamka": "McLaren",
+	"ime": "Speedtail"
+},
+{
+	"vrednost": "190",
+	"znamka": "Mercedes-Benz",
+	"ime": "190"
+},
+{
+	"vrednost": "W123",
+	"znamka": "Mercedes-Benz",
+	"ime": "W123"
+},
+{
+	"vrednost": "AMG GT (vsi)",
+	"znamka": "Mercedes-Benz vsi",
+	"ime": "AMG GT (vsi)"
+},
+    {
 	"vrednost": "AMG GT Coupe",
 	"znamka": "Mercedes-Benz",
 	"ime": "AMG GT Coupe"
 },
-{
+    {
 	"vrednost": "AMG GT Roadster",
 	"znamka": "Mercedes-Benz",
 	"ime": "AMG GT Roadster"
 },    
-{
+    {
 	"vrednost": "AMG GT 4-vratni Coupe",
 	"znamka": "Mercedes-Benz",
 	"ime": "AMG GT 4-vratni Coupe"
-},{
+},
+{
+	"vrednost": "AMG One",
+	"znamka": "Mercedes-Benz",
+	"ime": "AMG One"
+},
+{
+	"vrednost": "A-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "A-Razred"
+},
+{
+	"vrednost": "B-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "B-Razred"
+},
+{
+	"vrednost": "C-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "C-Razred"
+},
+{
+	"vrednost": "Citan",
+	"znamka": "Mercedes-Benz",
+	"ime": "Citan"
+},
+{
+	"vrednost": "CL-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "CL-Razred"
+},
+{
+	"vrednost": "CLA-Razred (vsi)",
+	"znamka": "Mercedes-Benz vsi",
+	"ime": "CLA-Razred (vsi)"
+},
+    {
 	"vrednost": "CLA-Razred",
 	"znamka": "Mercedes-Benz",
 	"ime": "CLA-Razred"
 },
-{
+    {
 	"vrednost": "CLA Shooting Brake",
 	"znamka": "Mercedes-Benz",
 	"ime": "CLA Shooting Brake"
-},{
+},
+{
+	"vrednost": "CLC-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "CLC-Razred"
+},
+{
+	"vrednost": "CLK-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "CLK-Razred"
+},
+{
+	"vrednost": "CLS-Razred (vsi)",
+	"znamka": "Mercedes-Benz vsi",
+	"ime": "CLS-Razred (vsi)"
+},
+    {
 	"vrednost": "CLS-Razred",
 	"znamka": "Mercedes-Benz",
 	"ime": "CLS-Razred"
 },
-{
+    {
 	"vrednost": "CLS Shooting Brake",
 	"znamka": "Mercedes-Benz",
 	"ime": "CLS Shooting Brake"
 },
 {
+	"vrednost": "E-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "E-Razred"
+},
+{
+	"vrednost": "EQA",
+	"znamka": "Mercedes-Benz",
+	"ime": "EQA"
+},
+{
+	"vrednost": "EQB",
+	"znamka": "Mercedes-Benz",
+	"ime": "EQB"
+},
+{
+	"vrednost": "EQC",
+	"znamka": "Mercedes-Benz",
+	"ime": "EQC"
+},
+{
+	"vrednost": "EQE",
+	"znamka": "Mercedes-Benz",
+	"ime": "EQE"
+},
+{
+	"vrednost": "EQS",
+	"znamka": "Mercedes-Benz",
+	"ime": "EQS"
+},
+{
+	"vrednost": "EQS SUV",
+	"znamka": "Mercedes-Benz",
+	"ime": "EQS SUV"
+},
+{
+	"vrednost": "EQV",
+	"znamka": "Mercedes-Benz",
+	"ime": "EQV"
+},
+{
+	"vrednost": "G-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "G-Razred"
+},
+{
+	"vrednost": "GL-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "GL-Razred"
+},
+{
+	"vrednost": "GLA-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "GLA-Razred"
+},
+{
+	"vrednost": "GLB-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "GLB-Razred"
+},
+{
+	"vrednost": "GLC-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "GLC-Razred"
+},
+{
+	"vrednost": "GLC coupe",
+	"znamka": "Mercedes-Benz",
+	"ime": "GLC coupe"
+},
+{
+	"vrednost": "GLE-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "GLE-Razred"
+},
+{
+	"vrednost": "GLE coupe",
+	"znamka": "Mercedes-Benz",
+	"ime": "GLE coupe"
+},
+{
+	"vrednost": "GLK-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "GLK-Razred"
+},
+{
+	"vrednost": "GLS-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "GLS-Razred"
+},
+{
+	"vrednost": "ML-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "ML-Razred"
+},
+{
+	"vrednost": "R-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "R-Razred"
+},
+{
+	"vrednost": "S-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "S-Razred"
+},
+{
+	"vrednost": "SL-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "SL-Razred"
+},
+{
+	"vrednost": "SLC-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "SLC-Razred"
+},
+{
+	"vrednost": "SLS AMG",
+	"znamka": "Mercedes-Benz",
+	"ime": "SLS AMG"
+},
+{
+	"vrednost": "SLK-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "SLK-Razred"
+},
+{
+	"vrednost": "SLR-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "SLR-Razred"
+},
+{
+	"vrednost": "T-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "T-Razred"
+},
+{
+	"vrednost": "V-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "V-Razred"
+},
+{
+	"vrednost": "X-Razred",
+	"znamka": "Mercedes-Benz",
+	"ime": "X-Razred"
+},
+{
+	"vrednost": "Vaneo",
+	"znamka": "Mercedes-Benz",
+	"ime": "Vaneo"
+},
+{
+	"vrednost": "Viano",
+	"znamka": "Mercedes-Benz",
+	"ime": "Viano"
+},
+{
+	"vrednost": "Vito",
+	"znamka": "Mercedes-Benz",
+	"ime": "Vito"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Mercedes-Benz",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "EHS",
+	"znamka": "MG",
+	"ime": "EHS"
+},
+{
+	"vrednost": "F",
+	"znamka": "MG",
+	"ime": "F"
+},
+{
+	"vrednost": "GS",
+	"znamka": "MG",
+	"ime": "GS"
+},
+{
+	"vrednost": "HS",
+	"znamka": "MG",
+	"ime": "HS"
+},
+{
+	"vrednost": "Marvel R",
+	"znamka": "MG",
+	"ime": "Marvel R"
+},
+{
+	"vrednost": "MG3",
+	"znamka": "MG",
+	"ime": "MG3"
+},
+{
+	"vrednost": "MG4",
+	"znamka": "MG",
+	"ime": "MG4"
+},
+{
+	"vrednost": "MG5",
+	"znamka": "MG",
+	"ime": "MG5"
+},
+{
+	"vrednost": "TF",
+	"znamka": "MG",
+	"ime": "TF"
+},
+{
+	"vrednost": "ZR",
+	"znamka": "MG",
+	"ime": "ZR"
+},
+{
+	"vrednost": "ZS",
+	"znamka": "MG",
+	"ime": "ZS"
+},
+{
+	"vrednost": "ZS EV",
+	"znamka": "MG",
+	"ime": "ZS EV"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "MG",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Microcar",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "-",
+	"znamka": "Mini",
+	"ime": "Mini"
+},
+{
+	"vrednost": "Cabrio",
+	"znamka": "Mini",
+	"ime": "Cabrio"
+},
+{
+	"vrednost": "Clubman",
+	"znamka": "Mini",
+	"ime": "Clubman"
+},
+{
+	"vrednost": "Countryman",
+	"znamka": "Mini",
+	"ime": "Countryman"
+},
+{
+	"vrednost": "Coupe",
+	"znamka": "Mini",
+	"ime": "Coupe"
+},
+{
+	"vrednost": "Paceman",
+	"znamka": "Mini",
+	"ime": "Paceman"
+},
+{
+	"vrednost": "Roadster",
+	"znamka": "Mini",
+	"ime": "Roadster"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Mini",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "3000 GT",
+	"znamka": "Mitsubishi",
+	"ime": "3000 GT"
+},
+{
+	"vrednost": "ASX",
+	"znamka": "Mitsubishi",
+	"ime": "ASX"
+},
+{
+	"vrednost": "Carisma",
+	"znamka": "Mitsubishi",
+	"ime": "Carisma"
+},
+{
+	"vrednost": "Colt",
+	"znamka": "Mitsubishi",
+	"ime": "Colt"
+},
+{
+	"vrednost": "Diamante",
+	"znamka": "Mitsubishi",
+	"ime": "Diamante"
+},
+{
+	"vrednost": "Eclipse",
+	"znamka": "Mitsubishi",
+	"ime": "Eclipse"
+},
+{
+	"vrednost": "Eclipse Cross",
+	"znamka": "Mitsubishi",
+	"ime": "Eclipse Cross"
+},
+{
+	"vrednost": "Galant",
+	"znamka": "Mitsubishi",
+	"ime": "Galant"
+},
+{
+	"vrednost": "Grandis",
+	"znamka": "Mitsubishi",
+	"ime": "Grandis"
+},
+{
+	"vrednost": "i-MiEV",
+	"znamka": "Mitsubishi",
+	"ime": "i-MiEV"
+},
+{
+	"vrednost": "L 200",
+	"znamka": "Mitsubishi",
+	"ime": "L 200"
+},
+{
+	"vrednost": "L 300",
+	"znamka": "Mitsubishi",
+	"ime": "L 300"
+},
+{
+	"vrednost": "Lancer",
+	"znamka": "Mitsubishi",
+	"ime": "Lancer"
+},
+{
+	"vrednost": "Outlander",
+	"znamka": "Mitsubishi",
+	"ime": "Outlander"
+},
+{
+	"vrednost": "Pajero (vsi)",
+	"znamka": "Mitsubishi vsi",
+	"ime": "Pajero (vsi)"
+},
+    {
 	"vrednost": "Pajero",
 	"znamka": "Mitsubishi",
 	"ime": "Pajero"
 },
-{
+    {
 	"vrednost": "Pajero Pinin",
 	"znamka": "Mitsubishi",
 	"ime": "Pajero Pinin"
 },
-{
+    {
 	"vrednost": "Pajero Sport",
 	"znamka": "Mitsubishi",
 	"ime": "Pajero Sport"
+},
+{
+	"vrednost": "Sigma",
+	"znamka": "Mitsubishi",
+	"ime": "Sigma"
+},
+{
+	"vrednost": "Space Gear",
+	"znamka": "Mitsubishi",
+	"ime": "Space Gear"
+},
+{
+	"vrednost": "Space Runner",
+	"znamka": "Mitsubishi",
+	"ime": "Space Runner"
+},
+{
+	"vrednost": "Space Star",
+	"znamka": "Mitsubishi",
+	"ime": "Space Star"
+},
+{
+	"vrednost": "Space Wagon",
+	"znamka": "Mitsubishi",
+	"ime": "Space Wagon"
+},
+{
+	"vrednost": "Starion",
+	"znamka": "Mitsubishi",
+	"ime": "Starion"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Mitsubishi",
+	"ime": "modela ni na seznamu"
 },{
-	"vrednost": "Micra",
-	"znamka": "Nissan",
-	"ime": "Micra"
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Morgan",
+	"ime": "modela ni na seznamu"
 },
 {
-	"vrednost": "Micra---CC",
-	"znamka": "Nissan",
-	"ime": "Micra CC"
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Moskvič",
+	"ime": "modela ni na seznamu"
 },
 {
-	"vrednost": "NV200",
+	"vrednost": "100NX",
 	"znamka": "Nissan",
-	"ime": "NV200"
+	"ime": "100NX"
+},
+{
+	"vrednost": "200SX",
+	"znamka": "Nissan",
+	"ime": "200SX"
+},
+{
+	"vrednost": "280ZX",
+	"znamka": "Nissan",
+	"ime": "280ZX"
+},
+{
+	"vrednost": "300ZX",
+	"znamka": "Nissan",
+	"ime": "300ZX"
+},
+{
+	"vrednost": "350Z",
+	"znamka": "Nissan",
+	"ime": "350Z"
+},
+{
+	"vrednost": "370Z",
+	"znamka": "Nissan",
+	"ime": "370Z"
+},
+{
+	"vrednost": "Almera",
+	"znamka": "Nissan",
+	"ime": "Almera"
+},
+{
+	"vrednost": "Almera Tino",
+	"znamka": "Nissan",
+	"ime": "Almera Tino"
+},
+{
+	"vrednost": "Altima",
+	"znamka": "Nissan",
+	"ime": "Altima"
+},
+{
+	"vrednost": "Ariya",
+	"znamka": "Nissan",
+	"ime": "Ariya"
+},
+{
+	"vrednost": "Bluebird",
+	"znamka": "Nissan",
+	"ime": "Bluebird"
+},
+{
+	"vrednost": "Cherry",
+	"znamka": "Nissan",
+	"ime": "Cherry"
+},
+{
+	"vrednost": "Cube",
+	"znamka": "Nissan",
+	"ime": "Cube"
 },
 {
 	"vrednost": "e-NV200",
 	"znamka": "Nissan",
 	"ime": "e-NV200"
-},{
+},
+{
+	"vrednost": "Evalia",
+	"znamka": "Nissan",
+	"ime": "Evalia"
+},
+{
+	"vrednost": "GT-R",
+	"znamka": "Nissan",
+	"ime": "GT-R"
+},
+{
+	"vrednost": "Juke",
+	"znamka": "Nissan",
+	"ime": "Juke"
+},
+{
+	"vrednost": "King Cab",
+	"znamka": "Nissan",
+	"ime": "King Cab"
+},
+{
+	"vrednost": "Leaf",
+	"znamka": "Nissan",
+	"ime": "Leaf"
+},
+{
+	"vrednost": "Maxima",
+	"znamka": "Nissan",
+	"ime": "Maxima"
+},
+{
+	"vrednost": "Micra (vsi)",
+	"znamka": "Nissan vsi",
+	"ime": "Micra (vsi)"
+},
+    {
+	"vrednost": "Micra",
+	"znamka": "Nissan",
+	"ime": "Micra"
+},
+    {
+	"vrednost": "Micra---CC",
+	"znamka": "Nissan",
+	"ime": "Micra CC"
+},
+{
+	"vrednost": "Murano",
+	"znamka": "Nissan",
+	"ime": "Murano"
+},
+{
+	"vrednost": "Navara",
+	"znamka": "Nissan",
+	"ime": "Navara"
+},
+{
+	"vrednost": "Note",
+	"znamka": "Nissan",
+	"ime": "Note"
+},
+{
+	"vrednost": "NV200 (vsi)",
+	"znamka": "Nissan vsi",
+	"ime": "NV200 (vsi)"
+},
+    {
+	"vrednost": "NV200",
+	"znamka": "Nissan",
+	"ime": "NV200"
+},
+    {
+	"vrednost": "e-NV200",
+	"znamka": "Nissan",
+	"ime": "e-NV200"
+},
+{
+	"vrednost": "Pathfinder",
+	"znamka": "Nissan",
+	"ime": "Pathfinder"
+},
+{
+	"vrednost": "Patrol",
+	"znamka": "Nissan",
+	"ime": "Patrol"
+},
+{
+	"vrednost": "Pick Up",
+	"znamka": "Nissan",
+	"ime": "Pick Up"
+},
+{
+	"vrednost": "Pixo",
+	"znamka": "Nissan",
+	"ime": "Pixo"
+},
+{
+	"vrednost": "Prairie",
+	"znamka": "Nissan",
+	"ime": "Prairie"
+},
+{
+	"vrednost": "Primera",
+	"znamka": "Nissan",
+	"ime": "Primera"
+},
+{
+	"vrednost": "Pulsar",
+	"znamka": "Nissan",
+	"ime": "Pulsar"
+},
+{
+	"vrednost": "Qashqai",
+	"znamka": "Nissan",
+	"ime": "Qashqai"
+},
+{
+	"vrednost": "Quest",
+	"znamka": "Nissan",
+	"ime": "Quest"
+},
+{
+	"vrednost": "Serena",
+	"znamka": "Nissan",
+	"ime": "Serena"
+},
+{
+	"vrednost": "Silvia",
+	"znamka": "Nissan",
+	"ime": "Silvia"
+},
+{
+	"vrednost": "Skyline",
+	"znamka": "Nissan",
+	"ime": "Skyline"
+},
+{
+	"vrednost": "Sunny",
+	"znamka": "Nissan",
+	"ime": "Sunny"
+},
+{
+	"vrednost": "Terrano",
+	"znamka": "Nissan",
+	"ime": "Terrano"
+},
+{
+	"vrednost": "Tiida",
+	"znamka": "Nissan",
+	"ime": "Tiida"
+},
+{
+	"vrednost": "Vanette",
+	"znamka": "Nissan",
+	"ime": "Vanette"
+},
+{
+	"vrednost": "X-Trail",
+	"znamka": "Nissan",
+	"ime": "X-Trail"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Nissan",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Prinz",
+	"znamka": "NSU",
+	"ime": "Prinz"
+},
+{
+	"vrednost": "RO-80",
+	"znamka": "NSU",
+	"ime": "RO-80"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "NSU",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Oldsmobile",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Adam",
+	"znamka": "Opel",
+	"ime": "Adam"
+},
+{
+	"vrednost": "Agila",
+	"znamka": "Opel",
+	"ime": "Agila"
+},
+{
+	"vrednost": "Ampera",
+	"znamka": "Opel",
+	"ime": "Ampera"
+},
+{
+	"vrednost": "Antara",
+	"znamka": "Opel",
+	"ime": "Antara"
+},
+{
+	"vrednost": "Ascona",
+	"znamka": "Opel",
+	"ime": "Ascona"
+},
+{
+	"vrednost": "Astra",
+	"znamka": "Opel",
+	"ime": "Astra"
+},
+{
+	"vrednost": "Calibra",
+	"znamka": "Opel",
+	"ime": "Calibra"
+},
+{
+	"vrednost": "Campo",
+	"znamka": "Opel",
+	"ime": "Campo"
+},
+{
+	"vrednost": "Cascada",
+	"znamka": "Opel",
+	"ime": "Cascada"
+},
+{
+	"vrednost": "Combo",
+	"znamka": "Opel",
+	"ime": "Combo"
+},
+{
+	"vrednost": "Commodore",
+	"znamka": "Opel",
+	"ime": "Commodore"
+},
+{
+	"vrednost": "Corsa",
+	"znamka": "Opel",
+	"ime": "Corsa"
+},
+{
+	"vrednost": "Crossland (vsi)",
+	"znamka": "Opel vsi",
+	"ime": "Crossland (vsi)"
+},
+    {
 	"vrednost": "Crossland",
 	"znamka": "Opel",
 	"ime": "Crossland"
 },
-{
+    {
 	"vrednost": "Crossland X",
 	"znamka": "Opel",
 	"ime": "Crossland X"
-},{
+},
+{
+	"vrednost": "Diplomat",
+	"znamka": "Opel",
+	"ime": "Diplomat"
+},
+{
+	"vrednost": "Frontera",
+	"znamka": "Opel",
+	"ime": "Frontera"
+},
+{
+	"vrednost": "Grandland (vsi)",
+	"znamka": "Opel vsi",
+	"ime": "Grandland (vsi)"
+},
+    {
 	"vrednost": "Grandland",
 	"znamka": "Opel",
 	"ime": "Grandland"
 },
-{
+    {
 	"vrednost": "Grandland X",
 	"znamka": "Opel",
 	"ime": "Grandland X"
-},{
+},
+{
+	"vrednost": "GT",
+	"znamka": "Opel",
+	"ime": "GT"
+},
+{
+	"vrednost": "Insignia",
+	"znamka": "Opel",
+	"ime": "Insignia"
+},
+{
+	"vrednost": "Kadett",
+	"znamka": "Opel",
+	"ime": "Kadett"
+},
+{
+	"vrednost": "Karl",
+	"znamka": "Opel",
+	"ime": "Karl"
+},
+{
+	"vrednost": "Manta",
+	"znamka": "Opel",
+	"ime": "Manta"
+},
+{
+	"vrednost": "Meriva",
+	"znamka": "Opel",
+	"ime": "Meriva"
+},
+{
+	"vrednost": "Mokka (vsi)",
+	"znamka": "Opel vsi",
+	"ime": "Mokka (vsi)"
+},
+    {
 	"vrednost": "Mokka",
 	"znamka": "Opel",
 	"ime": "Mokka"
 },
-{
+    {
 	"vrednost": "Mokka X",
 	"znamka": "Opel",
 	"ime": "Mokka X"
+},
+{
+	"vrednost": "Monterey",
+	"znamka": "Opel",
+	"ime": "Monterey"
+},
+{
+	"vrednost": "Monza",
+	"znamka": "Opel",
+	"ime": "Monza"
+},
+{
+	"vrednost": "Olympia",
+	"znamka": "Opel",
+	"ime": "Olympia"
+},
+{
+	"vrednost": "Omega",
+	"znamka": "Opel",
+	"ime": "Omega"
+},
+{
+	"vrednost": "Rekord",
+	"znamka": "Opel",
+	"ime": "Rekord"
+},
+{
+	"vrednost": "Rocks-e",
+	"znamka": "Opel",
+	"ime": "Rocks-e"
+},
+{
+	"vrednost": "Senator",
+	"znamka": "Opel",
+	"ime": "Senator"
+},
+{
+	"vrednost": "Signum",
+	"znamka": "Opel",
+	"ime": "Signum"
+},
+{
+	"vrednost": "Sintra",
+	"znamka": "Opel",
+	"ime": "Sintra"
+},
+{
+	"vrednost": "Speedster",
+	"znamka": "Opel",
+	"ime": "Speedster"
+},
+{
+	"vrednost": "Tigra",
+	"znamka": "Opel",
+	"ime": "Tigra"
+},
+{
+	"vrednost": "Vectra",
+	"znamka": "Opel",
+	"ime": "Vectra"
+},
+{
+	"vrednost": "Zafira",
+	"znamka": "Opel",
+	"ime": "Zafira"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Opel",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "104",
+	"znamka": "Peugeot",
+	"ime": "104"
+},
+{
+	"vrednost": "106",
+	"znamka": "Peugeot",
+	"ime": "106"
+},
+{
+	"vrednost": "107",
+	"znamka": "Peugeot",
+	"ime": "107"
+},
+{
+	"vrednost": "108",
+	"znamka": "Peugeot",
+	"ime": "108"
+},
+{
+	"vrednost": "1007",
+	"znamka": "Peugeot",
+	"ime": "1007"
+},
+{
+	"vrednost": "204",
+	"znamka": "Peugeot",
+	"ime": "204"
+},
+{
+	"vrednost": "205",
+	"znamka": "Peugeot",
+	"ime": "205"
+},
+{
+	"vrednost": "206",
+	"znamka": "Peugeot",
+	"ime": "206"
+},
+{
+	"vrednost": "207",
+	"znamka": "Peugeot",
+	"ime": "207"
+},
+{
+	"vrednost": "208",
+	"znamka": "Peugeot",
+	"ime": "208"
+},
+{
+	"vrednost": "2008",
+	"znamka": "Peugeot",
+	"ime": "2008"
+},
+{
+	"vrednost": "301",
+	"znamka": "Peugeot",
+	"ime": "301"
+},
+{
+	"vrednost": "304",
+	"znamka": "Peugeot",
+	"ime": "304"
+},
+{
+	"vrednost": "305",
+	"znamka": "Peugeot",
+	"ime": "305"
+},
+{
+	"vrednost": "306",
+	"znamka": "Peugeot",
+	"ime": "306"
+},
+{
+	"vrednost": "307",
+	"znamka": "Peugeot",
+	"ime": "307"
+},
+{
+	"vrednost": "308",
+	"znamka": "Peugeot",
+	"ime": "308"
+},
+{
+	"vrednost": "309",
+	"znamka": "Peugeot",
+	"ime": "309"
+},
+{
+	"vrednost": "3008",
+	"znamka": "Peugeot",
+	"ime": "3008"
+},
+{
+	"vrednost": "404",
+	"znamka": "Peugeot",
+	"ime": "404"
+},
+{
+	"vrednost": "405",
+	"znamka": "Peugeot",
+	"ime": "405"
+},
+{
+	"vrednost": "406",
+	"znamka": "Peugeot",
+	"ime": "406"
+},
+{
+	"vrednost": "407",
+	"znamka": "Peugeot",
+	"ime": "407"
+},
+{
+	"vrednost": "407",
+	"znamka": "Peugeot",
+	"ime": "408"
+},
+{
+	"vrednost": "4007",
+	"znamka": "Peugeot",
+	"ime": "4007"
+},
+{
+	"vrednost": "4008",
+	"znamka": "Peugeot",
+	"ime": "4008"
+},
+{
+	"vrednost": "504",
+	"znamka": "Peugeot",
+	"ime": "504"
+},
+{
+	"vrednost": "505",
+	"znamka": "Peugeot",
+	"ime": "505"
+},
+{
+	"vrednost": "508",
+	"znamka": "Peugeot",
+	"ime": "508"
+},
+{
+	"vrednost": "5008",
+	"znamka": "Peugeot",
+	"ime": "5008"
+},
+{
+	"vrednost": "604",
+	"znamka": "Peugeot",
+	"ime": "604"
+},
+{
+	"vrednost": "605",
+	"znamka": "Peugeot",
+	"ime": "605"
+},
+{
+	"vrednost": "607",
+	"znamka": "Peugeot",
+	"ime": "607"
+},
+{
+	"vrednost": "806",
+	"znamka": "Peugeot",
+	"ime": "806"
+},
+{
+	"vrednost": "807",
+	"znamka": "Peugeot",
+	"ime": "807"
+},
+{
+	"vrednost": "Bipper",
+	"znamka": "Peugeot",
+	"ime": "Bipper"
+},
+{
+	"vrednost": "Expert",
+	"znamka": "Peugeot",
+	"ime": "Expert"
+},
+{
+	"vrednost": "iOn",
+	"znamka": "Peugeot",
+	"ime": "iOn"
+},
+{
+	"vrednost": "Partner",
+	"znamka": "Peugeot",
+	"ime": "Partner"
+},
+{
+	"vrednost": "Pick Up",
+	"znamka": "Peugeot",
+	"ime": "Pick Up"
+},
+{
+	"vrednost": "RCZ",
+	"znamka": "Peugeot",
+	"ime": "RCZ"
+},
+{
+	"vrednost": "Rifter",
+	"znamka": "Peugeot",
+	"ime": "Rifter"
+},
+{
+	"vrednost": "Traveller",
+	"znamka": "Peugeot",
+	"ime": "Traveller"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Peugeot",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Porter Van",
+	"znamka": "Piaggio",
+	"ime": "Porter Van"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Piaggio",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Plymouth",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Polestar1“",
+	"znamka": "Polestar",
+	"ime": "Polestar1"
+},
+{
+	"vrednost": "Polestar2",
+	"znamka": "Polestar",
+	"ime": "Polestar2"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Polestar",
+	"ime": "modela ni na seznamu"
 },{
+	"vrednost": "Bonneville",
+	"znamka": "Pontiac",
+	"ime": "Bonneville"
+},
+{
+	"vrednost": "Fiero",
+	"znamka": "Pontiac",
+	"ime": "Fiero"
+},
+{
+	"vrednost": "Firebird",
+	"znamka": "Pontiac",
+	"ime": "Firebird"
+},
+{
+	"vrednost": "Trans Am",
+	"znamka": "Pontiac",
+	"ime": "Trans Am"
+},
+{
+	"vrednost": "Grand Am",
+	"znamka": "Pontiac",
+	"ime": "Grand Am"
+},
+{
+	"vrednost": "Grand Prix",
+	"znamka": "Pontiac",
+	"ime": "Grand Prix"
+},
+{
+	"vrednost": "Trans Sport",
+	"znamka": "Pontiac",
+	"ime": "Trans Sport"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Pontiac",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "356",
+	"znamka": "Porsche",
+	"ime": "356"
+},
+{
+	"vrednost": "718 (vsi)",
+	"znamka": "Porsche vsi",
+	"ime": "718 (vsi)"
+},
+    {
 	"vrednost": "718 Boxster",
 	"znamka": "Porsche",
 	"ime": "718 Boxster"
 },
-{
+    {
 	"vrednost": "718 Cayman",
 	"znamka": "Porsche",
 	"ime": "718 Cayman"
@@ -619,110 +5798,1648 @@
 	"ime": "911"
 },
 {
+	"vrednost": "911 (vsi)",
+	"znamka": "Porsche vsi",
+	"ime": "911 (vsi)"
+},
+    {
+	"vrednost": "911",
+	"znamka": "Porsche",
+	"ime": "911"
+},
+    {
 	"vrednost": "911---Cabriolet",
 	"znamka": "Porsche",
 	"ime": "911 Cabriolet"
 },
-{
+    {
 	"vrednost": "911---Targa",
 	"znamka": "Porsche",
 	"ime": "911 Targa"
-},{
+},
+{
+	"vrednost": "912",
+	"znamka": "Porsche",
+	"ime": "912"
+},
+{
+	"vrednost": "914",
+	"znamka": "Porsche",
+	"ime": "914"
+},
+{
+	"vrednost": "924",
+	"znamka": "Porsche",
+	"ime": "924"
+},
+{
+	"vrednost": "928",
+	"znamka": "Porsche",
+	"ime": "928"
+},
+{
+	"vrednost": "944",
+	"znamka": "Porsche",
+	"ime": "944"
+},
+{
+	"vrednost": "959",
+	"znamka": "Porsche",
+	"ime": "959"
+},
+{
+	"vrednost": "968",
+	"znamka": "Porsche",
+	"ime": "968"
+},
+{
+	"vrednost": "Boxster",
+	"znamka": "Porsche",
+	"ime": "Boxster"
+},
+{
+	"vrednost": "Cayenne (vsi)",
+	"znamka": "Porsche vsi",
+	"ime": "Cayenne (vsi)"
+},
+    {
 	"vrednost": "Cayenne",
 	"znamka": "Porsche",
 	"ime": "Cayenne"
 },
-{
+    {
 	"vrednost": "Cayenne Coupe",
 	"znamka": "Porsche",
 	"ime": "Cayenne Coupe"
 },
 {
+	"vrednost": "Cayman",
+	"znamka": "Porsche",
+	"ime": "Cayman"
+},
+{
+	"vrednost": "Carrera GT",
+	"znamka": "Porsche",
+	"ime": "Carrera GT"
+},
+{
+	"vrednost": "Macan",
+	"znamka": "Porsche",
+	"ime": "Macan"
+},
+{
+	"vrednost": "Panamera (vsi)",
+	"znamka": "Porsche vsi",
+	"ime": "Panamera (vsi)"
+},
+    {
 	"vrednost": "Panamera",
 	"znamka": "Porsche",
 	"ime": "Panamera"
 },
-{
+    {
 	"vrednost": "Panamera---Sport Turismo",
 	"znamka": "Porsche",
 	"ime": "Panamera Sport Turismo"
-},{
+},
+{
+	"vrednost": "Taycan (vsi)",
+	"znamka": "Porsche vsi",
+	"ime": "Taycan (vsi)"
+},
+    {
 	"vrednost": "Taycan",
 	"znamka": "Porsche",
 	"ime": "Taycan"
 },
-{
+    {
 	"vrednost": "Taycan---Sport Turismo",
 	"znamka": "Porsche",
 	"ime": "Taycan Sport Turismo"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Porsche",
+	"ime": "modela ni na seznamu"
 },{
+	"vrednost": "serija 300:",
+	"znamka": "Proton",
+	"ime": "serija 300:"
+},
+{
+	"vrednost": "serija 400:",
+	"znamka": "Proton",
+	"ime": "serija 400:"
+},
+{
+	"vrednost": "Persona",
+	"znamka": "Proton",
+	"ime": "Persona"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Proton",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "G-Razred",
+	"znamka": "Puch",
+	"ime": "G"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Puch",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "R 4",
+	"znamka": "Renault",
+	"ime": "R 4"
+},
+{
+	"vrednost": "R 5",
+	"znamka": "Renault",
+	"ime": "R 5"
+},
+{
+	"vrednost": "R 8",
+	"znamka": "Renault",
+	"ime": "R 8"
+},
+{
+	"vrednost": "R 9",
+	"znamka": "Renault",
+	"ime": "R 9"
+},
+{
+	"vrednost": "R 10",
+	"znamka": "Renault",
+	"ime": "R 10"
+},
+{
+	"vrednost": "R 11",
+	"znamka": "Renault",
+	"ime": "R 11"
+},
+{
+	"vrednost": "R 12",
+	"znamka": "Renault",
+	"ime": "R 12"
+},
+{
+	"vrednost": "R 14",
+	"znamka": "Renault",
+	"ime": "R 14"
+},
+{
+	"vrednost": "R 16",
+	"znamka": "Renault",
+	"ime": "R 16"
+},
+{
+	"vrednost": "R 18",
+	"znamka": "Renault",
+	"ime": "R 18"
+},
+{
+	"vrednost": "R 19",
+	"znamka": "Renault",
+	"ime": "R 19"
+},
+{
+	"vrednost": "R 20",
+	"znamka": "Renault",
+	"ime": "R 20"
+},
+{
+	"vrednost": "R 21",
+	"znamka": "Renault",
+	"ime": "R 21"
+},
+{
+	"vrednost": "R 25",
+	"znamka": "Renault",
+	"ime": "R 25"
+},
+{
+	"vrednost": "R 30",
+	"znamka": "Renault",
+	"ime": "R 30"
+},
+{
+	"vrednost": "Alaskan",
+	"znamka": "Renault",
+	"ime": "Alaskan"
+},
+{
+	"vrednost": "Alpine",
+	"znamka": "Renault",
+	"ime": "Alpine"
+},
+{
+	"vrednost": "Arkana",
+	"znamka": "Renault",
+	"ime": "Arkana"
+},
+{
+	"vrednost": "Astral",
+	"znamka": "Renault",
+	"ime": "Astral"
+},
+{
+	"vrednost": "Avantime",
+	"znamka": "Renault",
+	"ime": "Avantime"
+},
+{
+	"vrednost": "Captur",
+	"znamka": "Renault",
+	"ime": "Captur"
+},
+{
+	"vrednost": "Clio",
+	"znamka": "Renault",
+	"ime": "Clio"
+},
+{
+	"vrednost": "Espace (vsi)",
+	"znamka": "Renault vsi",
+	"ime": "Espace (vsi)"
+},
+    {
 	"vrednost": "Espace",
 	"znamka": "Renault",
 	"ime": "Espace"
 },
-{
+    {
 	"vrednost": "Grand Espace",
 	"znamka": "Renault",
 	"ime": "Grand Espace"
 },
 {
+	"vrednost": "Fluence",
+	"znamka": "Renault",
+	"ime": "Fluence"
+},
+{
+	"vrednost": "Fuego",
+	"znamka": "Renault",
+	"ime": "Fuego"
+},
+{
+	"vrednost": "Kadjar",
+	"znamka": "Renault",
+	"ime": "Kadjar"
+},
+{
+	"vrednost": "Kangoo",
+	"znamka": "Renault",
+	"ime": "Kangoo"
+},
+{
+	"vrednost": "Koleos",
+	"znamka": "Renault",
+	"ime": "Koleos"
+},
+{
+	"vrednost": "Laguna",
+	"znamka": "Renault",
+	"ime": "Laguna"
+},
+{
+	"vrednost": "Latitude",
+	"znamka": "Renault",
+	"ime": "Latitude"
+},
+{
+	"vrednost": "Megane",
+	"znamka": "Renault",
+	"ime": "Megane"
+},
+{
+	"vrednost": "Megane Conquest",
+	"znamka": "Renault",
+	"ime": "Megane Conquest"
+},
+{
+	"vrednost": "Megane E-Tech",
+	"znamka": "Renault",
+	"ime": "Megane E-Tech"
+},
+{
+	"vrednost": "Modus",
+	"znamka": "Renault",
+	"ime": "Modus"
+},
+{
+	"vrednost": "Grand Modus",
+	"znamka": "Renault",
+	"ime": "Grand Modus"
+},
+{
+	"vrednost": "Safrane",
+	"znamka": "Renault",
+	"ime": "Safrane"
+},
+{
+	"vrednost": "Scenic (vsi)",
+	"znamka": "Renault vsi",
+	"ime": "Scenic (vsi)"
+},
+    {
 	"vrednost": "Scenic",
 	"znamka": "Renault",
 	"ime": "Scenic"
 },
-{
+    {
 	"vrednost": "Grand Scenic",
 	"znamka": "Renault",
 	"ime": "Grand Scenic"
+},
+{
+	"vrednost": "Sport Spider",
+	"znamka": "Renault",
+	"ime": "Sport Spider"
+},
+{
+	"vrednost": "Talisman",
+	"znamka": "Renault",
+	"ime": "Talisman"
+},
+{
+	"vrednost": "Thalia",
+	"znamka": "Renault",
+	"ime": "Thalia"
+},
+{
+	"vrednost": "Twingo",
+	"znamka": "Renault",
+	"ime": "Twingo"
+},
+{
+	"vrednost": "Twizy",
+	"znamka": "Renault",
+	"ime": "Twizy"
+},
+{
+	"vrednost": "Vel Satis",
+	"znamka": "Renault",
+	"ime": "Vel Satis"
+},
+{
+	"vrednost": "Wind",
+	"znamka": "Renault",
+	"ime": "Wind"
+},
+{
+	"vrednost": "Zoe",
+	"znamka": "Renault",
+	"ime": "Zoe"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Renault",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Replica",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Corniche",
+	"znamka": "Rolls-Royce",
+	"ime": "Corniche"
+},
+{
+	"vrednost": "Cullinan",
+	"znamka": "Rolls-Royce",
+	"ime": "Cullinan"
+},
+{
+	"vrednost": "Dawn",
+	"znamka": "Rolls-Royce",
+	"ime": "Dawn"
+},
+{
+	"vrednost": "Flying Spur",
+	"znamka": "Rolls-Royce",
+	"ime": "Flying Spur"
+},
+{
+	"vrednost": "Ghost",
+	"znamka": "Rolls-Royce",
+	"ime": "Ghost"
+},
+{
+	"vrednost": "Park Ward",
+	"znamka": "Rolls-Royce",
+	"ime": "Park Ward"
+},
+{
+	"vrednost": "Phantom",
+	"znamka": "Rolls-Royce",
+	"ime": "Phantom"
+},
+{
+	"vrednost": "Silver Cloud",
+	"znamka": "Rolls-Royce",
+	"ime": "Silver Cloud"
+},
+{
+	"vrednost": "Silver Dawn",
+	"znamka": "Rolls-Royce",
+	"ime": "Silver Dawn"
+},
+{
+	"vrednost": "Silver Seraph",
+	"znamka": "Rolls-Royce",
+	"ime": "Silver Seraph"
+},
+{
+	"vrednost": "Silver Shadow",
+	"znamka": "Rolls-Royce",
+	"ime": "Silver Shadow"
+},
+{
+	"vrednost": "Silver Spirit",
+	"znamka": "Rolls-Royce",
+	"ime": "Silver Spirit"
+},
+{
+	"vrednost": "Silver Spur",
+	"znamka": "Rolls-Royce",
+	"ime": "Silver Spur"
+},
+{
+	"vrednost": "Wraith",
+	"znamka": "Rolls-Royce",
+	"ime": "Wraith"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Rolls-Royce",
+	"ime": "modela ni na seznamu"
 },{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Rosengart",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "25",
+	"znamka": "Rover",
+	"ime": "25"
+},
+{
+	"vrednost": "45",
+	"znamka": "Rover",
+	"ime": "45"
+},
+{
+	"vrednost": "75",
+	"znamka": "Rover",
+	"ime": "75"
+},
+{
+	"vrednost": "serija 100:",
+	"znamka": "Rover",
+	"ime": "serija 100:"
+},
+{
+	"vrednost": "serija 200:",
+	"znamka": "Rover",
+	"ime": "serija 200:"
+},
+{
+	"vrednost": "serija 400:",
+	"znamka": "Rover",
+	"ime": "serija 400:"
+},
+{
+	"vrednost": "serija 600:",
+	"znamka": "Rover",
+	"ime": "serija 600:"
+},
+{
+	"vrednost": "serija 800:",
+	"znamka": "Rover",
+	"ime": "serija 800:"
+},
+{
+	"vrednost": "City Rover",
+	"znamka": "Rover",
+	"ime": "City Rover"
+},
+{
+	"vrednost": "Metro",
+	"znamka": "Rover",
+	"ime": "Metro"
+},
+{
+	"vrednost": "Montego",
+	"znamka": "Rover",
+	"ime": "Montego"
+},
+{
+	"vrednost": "Streetwise",
+	"znamka": "Rover",
+	"ime": "Streetwise"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Rover",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "9-3",
+	"znamka": "Saab",
+	"ime": "9-3"
+},
+{
+	"vrednost": "9-3x",
+	"znamka": "Saab",
+	"ime": "9-3x"
+},
+{
+	"vrednost": "9-4x",
+	"znamka": "Saab",
+	"ime": "9-4x"
+},
+{
+	"vrednost": "9-5",
+	"znamka": "Saab",
+	"ime": "9-5"
+},
+{
+	"vrednost": "9-7x",
+	"znamka": "Saab",
+	"ime": "9-7x"
+},
+{
+	"vrednost": "90",
+	"znamka": "Saab",
+	"ime": "90"
+},
+{
+	"vrednost": "96",
+	"znamka": "Saab",
+	"ime": "96"
+},
+{
+	"vrednost": "99",
+	"znamka": "Saab",
+	"ime": "99"
+},
+{
+	"vrednost": "900",
+	"znamka": "Saab",
+	"ime": "900"
+},
+{
+	"vrednost": "9000",
+	"znamka": "Saab",
+	"ime": "9000"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Saab",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Saturn",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Alhambra",
+	"znamka": "Seat",
+	"ime": "Alhambra"
+},
+{
+	"vrednost": "Altea (vsi)",
+	"znamka": "Seat vsi",
+	"ime": "Altea (vsi)"
+},
+    {
+	"vrednost": "Altea",
+	"znamka": "Seat",
+	"ime": "Altea"
+},
+    {
+	"vrednost": "Altea Freetrack",
+	"znamka": "Seat",
+	"ime": "Altea Freetrack"
+},
+    {
+	"vrednost": "Altea XL",
+	"znamka": "Seat",
+	"ime": "Altea XL"
+},
+{
 	"vrednost": "Altea",
 	"znamka": "Seat",
 	"ime": "Altea"
 },
 {
-	"vrednost": "Altea Freetrack",
+	"vrednost": "Arosa",
 	"znamka": "Seat",
-	"ime": "Altea Freetrack"
+	"ime": "Arosa"
 },
 {
-	"vrednost": "Altea XL",
+	"vrednost": "Arona",
 	"znamka": "Seat",
-	"ime": "Altea XL"
+	"ime": "Arona"
+},
+{
+	"vrednost": "Ateca",
+	"znamka": "Seat",
+	"ime": "Ateca"
+},
+{
+	"vrednost": "Cordoba",
+	"znamka": "Seat",
+	"ime": "Cordoba"
+},
+{
+	"vrednost": "Exeo",
+	"znamka": "Seat",
+	"ime": "Exeo"
+},
+{
+	"vrednost": "Ibiza",
+	"znamka": "Seat",
+	"ime": "Ibiza"
+},
+{
+	"vrednost": "Inca",
+	"znamka": "Seat",
+	"ime": "Inca"
+},
+{
+	"vrednost": "Leon",
+	"znamka": "Seat",
+	"ime": "Leon"
+},
+{
+	"vrednost": "Marbella",
+	"znamka": "Seat",
+	"ime": "Marbella"
+},
+{
+	"vrednost": "Malaga",
+	"znamka": "Seat",
+	"ime": "Malaga"
+},
+{
+	"vrednost": "Mii",
+	"znamka": "Seat",
+	"ime": "Mii"
+},
+{
+	"vrednost": "Tarraco",
+	"znamka": "Seat",
+	"ime": "Tarraco"
+},
+{
+	"vrednost": "Toledo",
+	"znamka": "Seat",
+	"ime": "Toledo"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Seat",
+	"ime": "modela ni na seznamu"
 },{
+	"vrednost": "Ceo",
+	"znamka": "Shunaghuan",
+	"ime": "Ceo"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Shuanghuan",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Simca",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "S 105",
+	"znamka": "Škoda",
+	"ime": "S 105"
+},
+{
+	"vrednost": "S 120",
+	"znamka": "Škoda",
+	"ime": "S 120"
+},
+{
+	"vrednost": "Citigo",
+	"znamka": "Škoda",
+	"ime": "Citigo"
+},
+{
+	"vrednost": "Enyaq IV",
+	"znamka": "Škoda",
+	"ime": "Enyaq IV"
+},
+{
+	"vrednost": "Fabia",
+	"znamka": "Škoda",
+	"ime": "Fabia"
+},
+{
+	"vrednost": "Favorit",
+	"znamka": "Škoda",
+	"ime": "Favorit"
+},
+{
+	"vrednost": "Felicia",
+	"znamka": "Škoda",
+	"ime": "Felicia"
+},
+{
+	"vrednost": "Forman",
+	"znamka": "Škoda",
+	"ime": "Forman"
+},
+{
+	"vrednost": "Kamiq",
+	"znamka": "Škoda",
+	"ime": "Kamiq"
+},
+{
+	"vrednost": "Karoq",
+	"znamka": "Škoda",
+	"ime": "Karoq"
+},
+{
+	"vrednost": "Kodiaq",
+	"znamka": "Škoda",
+	"ime": "Kodiaq"
+},
+{
+	"vrednost": "Octavia",
+	"znamka": "Škoda",
+	"ime": "Octavia"
+},
+{
+	"vrednost": "Rapid",
+	"znamka": "Škoda",
+	"ime": "Rapid"
+},
+{
+	"vrednost": "Roomster",
+	"znamka": "Škoda",
+	"ime": "Roomster"
+},
+{
+	"vrednost": "Scala",
+	"znamka": "Škoda",
+	"ime": "Scala"
+},
+{
+	"vrednost": "Superb",
+	"znamka": "Škoda",
+	"ime": "Superb"
+},
+{
+	"vrednost": "Yeti",
+	"znamka": "Škoda",
+	"ime": "Yeti"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Škoda",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "city cabrio",
+	"znamka": "Smart",
+	"ime": "city cabrio"
+},
+{
+	"vrednost": "city coupe",
+	"znamka": "Smart",
+	"ime": "city coupe"
+},
+{
+	"vrednost": "crossblade",
+	"znamka": "Smart",
+	"ime": "crossblade"
+},
+{
+	"vrednost": "forfour",
+	"znamka": "Smart",
+	"ime": "forfour"
+},
+{
+	"vrednost": "fortwo (vsi)",
+	"znamka": "Smart vsi",
+	"ime": "fortwo (vsi)"
+},
+    {
 	"vrednost": "fortwo",
 	"znamka": "Smart",
 	"ime": "fortwo"
 },
-{
+    {
 	"vrednost": "fortwo cabrio",
 	"znamka": "Smart",
 	"ime": "fortwo cabrio"
+},
+{
+	"vrednost": "roadster",
+	"znamka": "Smart",
+	"ime": "roadster"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Smart",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "C8",
+	"znamka": "Spyker",
+	"ime": "C8"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Spyker",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Actyon",
+	"znamka": "SsangYong",
+	"ime": "Actyon"
+},
+{
+	"vrednost": "Korando",
+	"znamka": "SsangYong",
+	"ime": "Korando"
+},
+{
+	"vrednost": "Kyron",
+	"znamka": "SsangYong",
+	"ime": "Kyron"
+},
+{
+	"vrednost": "Musso",
+	"znamka": "SsangYong",
+	"ime": "Musso"
+},
+{
+	"vrednost": "Rexton",
+	"znamka": "SsangYong",
+	"ime": "Rexton"
+},
+{
+	"vrednost": "Rodius",
+	"znamka": "SsangYong",
+	"ime": "Rodius"
+},
+{
+	"vrednost": "Tivoli",
+	"znamka": "SsangYong",
+	"ime": "Tivoli"
+},
+{
+	"vrednost": "Tivoli Grand",
+	"znamka": "SsangYong",
+	"ime": "Tivoli Grand"
+},
+{
+	"vrednost": "XLV",
+	"znamka": "SsangYong",
+	"ime": "XLV"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "SsangYong",
+	"ime": "modela ni na seznamu"
 },{
+	"vrednost": "700 SDX",
+	"znamka": "Subaru",
+	"ime": "700 SDX"
+},
+{
+	"vrednost": "Ascent",
+	"znamka": "Subaru",
+	"ime": "Ascent"
+},
+{
+	"vrednost": "Baja",
+	"znamka": "Subaru",
+	"ime": "Baja"
+},
+{
+	"vrednost": "BRZ",
+	"znamka": "Subaru",
+	"ime": "BRZ"
+},
+{
+	"vrednost": "Crosstrek",
+	"znamka": "Subaru",
+	"ime": "Crosstrek"
+},
+{
+	"vrednost": "Forester",
+	"znamka": "Subaru",
+	"ime": "Forester"
+},
+{
+	"vrednost": "Impreza",
+	"znamka": "Subaru",
+	"ime": "Impreza"
+},
+{
+	"vrednost": "Justy",
+	"znamka": "Subaru",
+	"ime": "Justy"
+},
+{
+	"vrednost": "Legacy",
+	"znamka": "Subaru",
+	"ime": "Legacy"
+},
+{
+	"vrednost": "Leone",
+	"znamka": "Subaru",
+	"ime": "Leone"
+},
+{
+	"vrednost": "Levorg",
+	"znamka": "Subaru",
+	"ime": "Levorg"
+},
+{
+	"vrednost": "Libero",
+	"znamka": "Subaru",
+	"ime": "Libero"
+},
+{
+	"vrednost": "Outback",
+	"znamka": "Subaru",
+	"ime": "Outback"
+},
+{
+	"vrednost": "Solterra",
+	"znamka": "Subaru",
+	"ime": "Solterra"
+},
+{
+	"vrednost": "SVX",
+	"znamka": "Subaru",
+	"ime": "SVX"
+},
+{
+	"vrednost": "Trezia",
+	"znamka": "Subaru",
+	"ime": "Trezia"
+},
+{
+	"vrednost": "Tribeca",
+	"znamka": "Subaru",
+	"ime": "Tribeca"
+},
+{
+	"vrednost": "Vivio",
+	"znamka": "Subaru",
+	"ime": "Vivio"
+},
+{
+	"vrednost": "WRX",
+	"znamka": "Subaru",
+	"ime": "WRX"
+},
+{
+	"vrednost": "XT",
+	"znamka": "Subaru",
+	"ime": "XT"
+},
+{
+	"vrednost": "XV",
+	"znamka": "Subaru",
+	"ime": "XV"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Subaru",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "Across",
+	"znamka": "Suzuki",
+	"ime": "Across"
+},
+{
+	"vrednost": "Alto",
+	"znamka": "Suzuki",
+	"ime": "Alto"
+},
+{
+	"vrednost": "Baleno",
+	"znamka": "Suzuki",
+	"ime": "Baleno"
+},
+{
+	"vrednost": "Capuccino",
+	"znamka": "Suzuki",
+	"ime": "Capuccino"
+},
+{
+	"vrednost": "Celerio",
+	"znamka": "Suzuki",
+	"ime": "Celerio"
+},
+{
+	"vrednost": "Ignis",
+	"znamka": "Suzuki",
+	"ime": "Ignis"
+},
+{
+	"vrednost": "Jimny",
+	"znamka": "Suzuki",
+	"ime": "Jimny"
+},
+{
+	"vrednost": "Kizashi",
+	"znamka": "Suzuki",
+	"ime": "Kizashi"
+},
+{
+	"vrednost": "Liana",
+	"znamka": "Suzuki",
+	"ime": "Liana"
+},
+{
+	"vrednost": "Maruti",
+	"znamka": "Suzuki",
+	"ime": "Maruti"
+},
+{
+	"vrednost": "Samurai",
+	"znamka": "Suzuki",
+	"ime": "Samurai"
+},
+{
+	"vrednost": "Splash",
+	"znamka": "Suzuki",
+	"ime": "Splash"
+},
+{
+	"vrednost": "Swace",
+	"znamka": "Suzuki",
+	"ime": "Swace"
+},
+{
+	"vrednost": "Swift",
+	"znamka": "Suzuki",
+	"ime": "Swift"
+},
+{
+	"vrednost": "SX4",
+	"znamka": "Suzuki",
+	"ime": "SX4"
+},
+{
+	"vrednost": "SX4 S-Cross",
+	"znamka": "Suzuki",
+	"ime": "SX4 S-Cross"
+},
+{
+	"vrednost": "Vitara",
+	"znamka": "Suzuki",
+	"ime": "Vitara"
+},
+{
+	"vrednost": "Grand Vitara",
+	"znamka": "Suzuki",
+	"ime": "Grand Vitara"
+},
+{
+	"vrednost": "Wagon R",
+	"znamka": "Suzuki",
+	"ime": "Wagon R"
+},
+{
+	"vrednost": "X-90",
+	"znamka": "Suzuki",
+	"ime": "X-90"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Suzuki",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Horizon",
+	"znamka": "Talbot",
+	"ime": "Horizon"
+},
+{
+	"vrednost": "Samba",
+	"znamka": "Talbot",
+	"ime": "Samba"
+},
+{
+	"vrednost": "Solara",
+	"znamka": "Talbot",
+	"ime": "Solara"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Talbot",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Nano",
+	"znamka": "Tata",
+	"ime": "Nano"
+},
+{
+	"vrednost": "Indica",
+	"znamka": "Tata",
+	"ime": "Indica"
+},
+{
+	"vrednost": "Indigo",
+	"znamka": "Tata",
+	"ime": "Indigo"
+},
+{
+	"vrednost": "Xenon",
+	"znamka": "Tata",
+	"ime": "Xenon"
+},
+{
+	"vrednost": "Safari",
+	"znamka": "Tata",
+	"ime": "Safari"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Tata",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Tavria",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Zero",
+	"znamka": "Tazzari",
+	"ime": "Zero"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Tazzari",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Roadster",
+	"znamka": "Tesla",
+	"ime": "Roadster"
+},
+{
+	"vrednost": "Model 3",
+	"znamka": "Tesla",
+	"ime": "Model 3"
+},
+{
+	"vrednost": "Model S",
+	"znamka": "Tesla",
+	"ime": "Model S"
+},
+{
+	"vrednost": "Model X",
+	"znamka": "Tesla",
+	"ime": "Model X"
+},
+{
+	"vrednost": "Model Y",
+	"znamka": "Tesla",
+	"ime": "Model Y"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Tesla",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "4-Runner",
+	"znamka": "Toyota",
+	"ime": "4-Runner"
+},
+{
+	"vrednost": "Auris",
+	"znamka": "Toyota",
+	"ime": "Auris"
+},
+{
+	"vrednost": "Avalon",
+	"znamka": "Toyota",
+	"ime": "Avalon"
+},
+{
+	"vrednost": "Avensis",
+	"znamka": "Toyota",
+	"ime": "Avensis"
+},
+{
+	"vrednost": "Avensis Verso",
+	"znamka": "Toyota",
+	"ime": "Avensis Verso"
+},
+{
+	"vrednost": "Aygo",
+	"znamka": "Toyota",
+	"ime": "Aygo"
+},
+{
+	"vrednost": "Aygo X",
+	"znamka": "Toyota",
+	"ime": "Aygo X"
+},
+{
+	"vrednost": "bZ4X",
+	"znamka": "Toyota",
+	"ime": "bZ4X"
+},
+{
+	"vrednost": "C-HR",
+	"znamka": "Toyota",
+	"ime": "C-HR"
+},
+{
+	"vrednost": "Camry",
+	"znamka": "Toyota",
+	"ime": "Camry"
+},
+{
+	"vrednost": "Carina",
+	"znamka": "Toyota",
+	"ime": "Carina"
+},
+{
+	"vrednost": "Celica",
+	"znamka": "Toyota",
+	"ime": "Celica"
+},
+{
+	"vrednost": "Corolla",
+	"znamka": "Toyota",
+	"ime": "Corolla"
+},
+{
+	"vrednost": "Corolla Cross",
+	"znamka": "Toyota",
+	"ime": "Corolla Cross"
+},
+{
+	"vrednost": "Corolla Verso",
+	"znamka": "Toyota",
+	"ime": "Corolla Verso"
+},
+{
+	"vrednost": "Crown",
+	"znamka": "Toyota",
+	"ime": "Crown"
+},
+{
+	"vrednost": "FJ",
+	"znamka": "Toyota",
+	"ime": "FJ"
+},
+{
+	"vrednost": "GT 86",
+	"znamka": "Toyota",
+	"ime": "GT 86"
+},
+{
+	"vrednost": "Hi-Lux",
+	"znamka": "Toyota",
+	"ime": "Hi-Lux"
+},
+{
+	"vrednost": "HiAce",
+	"znamka": "Toyota",
+	"ime": "HiAce"
+},
+{
+	"vrednost": "Highlander",
+	"znamka": "Toyota",
+	"ime": "Highlander"
+},
+{
+	"vrednost": "IQ",
+	"znamka": "Toyota",
+	"ime": "IQ"
+},
+{
+	"vrednost": "Land Cruiser",
+	"znamka": "Toyota",
+	"ime": "Land Cruiser"
+},
+{
+	"vrednost": "Mirai",
+	"znamka": "Toyota",
+	"ime": "Mirai"
+},
+{
+	"vrednost": "MR-2",
+	"znamka": "Toyota",
+	"ime": "MR-2"
+},
+{
+	"vrednost": "LiteAce",
+	"znamka": "Toyota",
+	"ime": "LiteAce"
+},
+{
+	"vrednost": "Paseo",
+	"znamka": "Toyota",
+	"ime": "Paseo"
+},
+{
+	"vrednost": "Picnic",
+	"znamka": "Toyota",
+	"ime": "Picnic"
+},
+{
+	"vrednost": "Previa",
+	"znamka": "Toyota",
+	"ime": "Previa"
+},
+{
+	"vrednost": "Prius",
+	"znamka": "Toyota",
+	"ime": "Prius"
+},
+{
+	"vrednost": "Proace",
+	"znamka": "Toyota",
+	"ime": "Proace"
+},
+{
+	"vrednost": "RAV4",
+	"znamka": "Toyota",
+	"ime": "RAV4"
+},
+{
+	"vrednost": "Starlet",
+	"znamka": "Toyota",
+	"ime": "Starlet"
+},
+{
+	"vrednost": "Supra",
+	"znamka": "Toyota",
+	"ime": "Supra"
+},
+{
+	"vrednost": "Tercel",
+	"znamka": "Toyota",
+	"ime": "Tercel"
+},
+{
+	"vrednost": "Urban Cruiser",
+	"znamka": "Toyota",
+	"ime": "Urban Cruiser"
+},
+{
+	"vrednost": "Verso",
+	"znamka": "Toyota",
+	"ime": "Verso"
+},
+{
+	"vrednost": "Verso-S",
+	"znamka": "Toyota",
+	"ime": "Verso-S"
+},
+{
+	"vrednost": "Yaris",
+	"znamka": "Toyota",
+	"ime": "Yaris"
+},
+{
+	"vrednost": "Yaris Cross",
+	"znamka": "Toyota",
+	"ime": "Yaris Cross"
+},
+{
+	"vrednost": "Yaris Verso",
+	"znamka": "Toyota",
+	"ime": "Yaris Verso"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Toyota",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "601",
+	"znamka": "Trabant",
+	"ime": "601"
+},
+{
+	"vrednost": "Cabrio",
+	"znamka": "Trabant",
+	"ime": "Cabrio"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Trabant",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "Dolomite",
+	"znamka": "Triumph",
+	"ime": "Dolomite"
+},
+{
+	"vrednost": "Moss",
+	"znamka": "Triumph",
+	"ime": "Moss"
+},
+{
+	"vrednost": "Spitfire",
+	"znamka": "Triumph",
+	"ime": "Spitfire"
+},
+{
+	"vrednost": "TR3",
+	"znamka": "Triumph",
+	"ime": "TR3"
+},
+{
+	"vrednost": "TR4",
+	"znamka": "Triumph",
+	"ime": "TR4"
+},
+{
+	"vrednost": "TR5",
+	"znamka": "Triumph",
+	"ime": "TR5"
+},
+{
+	"vrednost": "TR6",
+	"znamka": "Triumph",
+	"ime": "TR6"
+},
+{
+	"vrednost": "TR7",
+	"znamka": "Triumph",
+	"ime": "TR7"
+},
+{
+	"vrednost": "TR8",
+	"znamka": "Triumph",
+	"ime": "TR8"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Triumph",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "240",
+	"znamka": "Volvo",
+	"ime": "240"
+},
+{
+	"vrednost": "340",
+	"znamka": "Volvo",
+	"ime": "340"
+},
+{
+	"vrednost": "360",
+	"znamka": "Volvo",
+	"ime": "360"
+},
+{
+	"vrednost": "440",
+	"znamka": "Volvo",
+	"ime": "440"
+},
+{
+	"vrednost": "460",
+	"znamka": "Volvo",
+	"ime": "460"
+},
+{
+	"vrednost": "480",
+	"znamka": "Volvo",
+	"ime": "480"
+},
+{
+	"vrednost": "740",
+	"znamka": "Volvo",
+	"ime": "740"
+},
+{
+	"vrednost": "760",
+	"znamka": "Volvo",
+	"ime": "760"
+},
+{
+	"vrednost": "780",
+	"znamka": "Volvo",
+	"ime": "780"
+},
+{
+	"vrednost": "850",
+	"znamka": "Volvo",
+	"ime": "850"
+},
+{
+	"vrednost": "940",
+	"znamka": "Volvo",
+	"ime": "940"
+},
+{
+	"vrednost": "960",
+	"znamka": "Volvo",
+	"ime": "960"
+},
+{
+	"vrednost": "C30",
+	"znamka": "Volvo",
+	"ime": "C30"
+},
+{
+	"vrednost": "C30",
+	"znamka": "Volvo",
+	"ime": "C40"
+},
+{
+	"vrednost": "C70",
+	"znamka": "Volvo",
+	"ime": "C70"
+},
+{
+	"vrednost": "S40",
+	"znamka": "Volvo",
+	"ime": "S40"
+},
+{
+	"vrednost": "S60 (vsi)",
+	"znamka": "Volvo vsi",
+	"ime": "S60 (vsi)"
+},
+    {
 	"vrednost": "S60",
 	"znamka": "Volvo",
 	"ime": "S60"
 },
-{
+    {
 	"vrednost": "S60 Cross Country",
 	"znamka": "Volvo",
 	"ime": "S60 Cross Country"
 },
 {
+	"vrednost": "S70",
+	"znamka": "Volvo",
+	"ime": "S70"
+},
+{
+	"vrednost": "S80",
+	"znamka": "Volvo",
+	"ime": "S80"
+},
+{
+	"vrednost": "S90",
+	"znamka": "Volvo",
+	"ime": "S90"
+},
+{
+	"vrednost": "V40 (vsi)",
+	"znamka": "Volvo vsi",
+	"ime": "V40 (vsi)"
+},
+    {
 	"vrednost": "V40",
 	"znamka": "Volvo",
 	"ime": "V40"
 },
-{
+    {
 	"vrednost": "V40 Cross Country",
 	"znamka": "Volvo",
 	"ime": "V40 Cross Country"
 },
 {
+	"vrednost": "V50",
+	"znamka": "Volvo",
+	"ime": "V50"
+},
+{
+	"vrednost": "V60 (vsi)",
+	"znamka": "Volvo vsi",
+	"ime": "V60 (vsi)"
+},
+    {
 	"vrednost": "V60",
 	"znamka": "Volvo",
 	"ime": "V60"
 },
-{
+    {
 	"vrednost": "V60 Cross Country",
 	"znamka": "Volvo",
 	"ime": "V60 Cross Country"
@@ -733,90 +7450,430 @@
 	"ime": "V70"
 },
 {
+	"vrednost": "V70 (vsi)",
+	"znamka": "Volvo vsi",
+	"ime": "V70 (vsi)"
+},
+    {
+	"vrednost": "V70",
+	"znamka": "Volvo",
+	"ime": "V70"
+},
+    {
 	"vrednost": "V70 XC",
 	"znamka": "Volvo",
 	"ime": "V70 XC"
-},{
+},
+{
+	"vrednost": "V90 (vsi)",
+	"znamka": "Volvo vsi",
+	"ime": "V90 (vsi)"
+},
+    {
 	"vrednost": "V90",
 	"znamka": "Volvo",
 	"ime": "V90"
 },
-{
+    {
 	"vrednost": "V90 Cross Country",
 	"znamka": "Volvo",
 	"ime": "V90 Cross Country"
 },
 {
+	"vrednost": "XC40",
+	"znamka": "Volvo",
+	"ime": "XC40"
+},
+{
+	"vrednost": "XC60",
+	"znamka": "Volvo",
+	"ime": "XC60"
+},
+{
+	"vrednost": "XC70",
+	"znamka": "Volvo",
+	"ime": "XC70"
+},
+{
+	"vrednost": "XC90",
+	"znamka": "Volvo",
+	"ime": "XC90"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Volvo",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "Amarok",
+	"znamka": "Volkswagen",
+	"ime": "Amarok"
+},
+{
+	"vrednost": "Arteon (vsi)",
+	"znamka": "Volkswagen vsi",
+	"ime": "Arteon (vsi)"
+},
+    {
 	"vrednost": "Arteon",
 	"znamka": "Volkswagen",
 	"ime": "Arteon"
 },
-{
+    {
 	"vrednost": "Arteon---Shooting Brake",
 	"znamka": "Volkswagen",
 	"ime": "Arteon Shooting Brake"
 },
 {
+	"vrednost": "Beetle",
+	"znamka": "Volkswagen",
+	"ime": "Beetle"
+},
+{
+	"vrednost": "Bora",
+	"znamka": "Volkswagen",
+	"ime": "Bora"
+},
+{
+	"vrednost": "Buggy",
+	"znamka": "Volkswagen",
+	"ime": "Buggy"
+},
+{
+	"vrednost": "Caddy",
+	"znamka": "Volkswagen",
+	"ime": "Caddy"
+},
+{
+	"vrednost": "California",
+	"znamka": "Volkswagen",
+	"ime": "California"
+},
+{
+	"vrednost": "Caravelle",
+	"znamka": "Volkswagen",
+	"ime": "Caravelle"
+},
+{
+	"vrednost": "CC",
+	"znamka": "Volkswagen",
+	"ime": "CC"
+},
+{
+	"vrednost": "Corrado",
+	"znamka": "Volkswagen",
+	"ime": "Corrado"
+},
+{
+	"vrednost": "Derby",
+	"znamka": "Volkswagen",
+	"ime": "Derby"
+},
+{
+	"vrednost": "Eos",
+	"znamka": "Volkswagen",
+	"ime": "Eos"
+},
+{
+	"vrednost": "Fox",
+	"znamka": "Volkswagen",
+	"ime": "Fox"
+},
+{
+	"vrednost": "Golf (vsi)",
+	"znamka": "Volkswagen vsi",
+	"ime": "Golf (vsi)"
+},
+    {
 	"vrednost": "Golf",
 	"znamka": "Volkswagen",
 	"ime": "Golf"
 },
-{
+    {
 	"vrednost": "Golf---Variant",
 	"znamka": "Volkswagen",
 	"ime": "Golf Variant"
 },
-{
+    {
 	"vrednost": "Golf---Plus",
 	"znamka": "Volkswagen",
 	"ime": "Golf Plus"
 },
-{
+    {
 	"vrednost": "Golf---Sportsvan",
 	"znamka": "Volkswagen",
 	"ime": "Golf Sportsvan"
 },
-{
+    {
 	"vrednost": "Crossgolf",
 	"znamka": "Volkswagen",
 	"ime": "Crossgolf"
 },
 {
+	"vrednost": "Hrošč",
+	"znamka": "Volkswagen",
+	"ime": "Hrošč"
+},
+{
+	"vrednost": "ID.3",
+	"znamka": "Volkswagen",
+	"ime": "ID.3"
+},
+{
+	"vrednost": "ID.4",
+	"znamka": "Volkswagen",
+	"ime": "ID.4"
+},
+{
+	"vrednost": "ID.5",
+	"znamka": "Volkswagen",
+	"ime": "ID.5"
+},
+{
+	"vrednost": "ID.Buzz",
+	"znamka": "Volkswagen",
+	"ime": "ID.Buzz"
+},
+{
+	"vrednost": "Jetta",
+	"znamka": "Volkswagen",
+	"ime": "Jetta"
+},
+{
+	"vrednost": "Karmann Ghia",
+	"znamka": "Volkswagen",
+	"ime": "Karmann Ghia"
+},
+{
+	"vrednost": "Lupo",
+	"znamka": "Volkswagen",
+	"ime": "Lupo"
+},
+{
+	"vrednost": "Multivan",
+	"znamka": "Volkswagen",
+	"ime": "Multivan"
+},
+{
+	"vrednost": "Passat (vsi)",
+	"znamka": "Volkswagen vsi",
+	"ime": "Passat (vsi)"
+},
+    {
 	"vrednost": "Passat",
 	"znamka": "Volkswagen",
 	"ime": "Passat"
 },
-{
+    {
 	"vrednost": "Passat---Variant",
 	"znamka": "Volkswagen",
 	"ime": "Passat Variant"
 },
-{
+    {
 	"vrednost": "Passat---Alltrack",
 	"znamka": "Volkswagen",
 	"ime": "Passat Alltrack"
 },
-{
+    {
 	"vrednost": "Passat---CC",
 	"znamka": "Volkswagen",
 	"ime": "Passat CC"
 },
 {
+	"vrednost": "Phaeton",
+	"znamka": "Volkswagen",
+	"ime": "Phaeton"
+},
+{
+	"vrednost": "Polo",
+	"znamka": "Volkswagen",
+	"ime": "Polo"
+},
+{
+	"vrednost": "CrossPolo",
+	"znamka": "Volkswagen",
+	"ime": "CrossPolo"
+},
+{
+	"vrednost": "Santana",
+	"znamka": "Volkswagen",
+	"ime": "Santana"
+},
+{
+	"vrednost": "Scirocco",
+	"znamka": "Volkswagen",
+	"ime": "Scirocco"
+},
+{
+	"vrednost": "Sharan",
+	"znamka": "Volkswagen",
+	"ime": "Sharan"
+},
+{
+	"vrednost": "Shuttle",
+	"znamka": "Volkswagen",
+	"ime": "Shuttle"
+},
+{
+	"vrednost": "Taigo",
+	"znamka": "Volkswagen",
+	"ime": "Taigo"
+},
+{
+	"vrednost": "Taro",
+	"znamka": "Volkswagen",
+	"ime": "Taro"
+},
+{
+	"vrednost": "Tiguan (vsi)",
+	"znamka": "Volkswagen vsi",
+	"ime": "Tiguan (vsi)"
+},
+    {
 	"vrednost": "Tiguan",
 	"znamka": "Volkswagen",
 	"ime": "Tiguan"
 },
-{
+    {
 	"vrednost": "Tiguan Allspace",
 	"znamka": "Volkswagen",
 	"ime": "Tiguan Allspace"
-},{
+},
+{
+	"vrednost": "Touareg",
+	"znamka": "Volkswagen",
+	"ime": "Touareg"
+},
+{
+	"vrednost": "Touran",
+	"znamka": "Volkswagen",
+	"ime": "Touran"
+},
+{
+	"vrednost": "CrossTouran",
+	"znamka": "Volkswagen",
+	"ime": "CrossTouran"
+},
+{
+	"vrednost": "T-Cross",
+	"znamka": "Volkswagen",
+	"ime": "T-Cross"
+},
+{
+	"vrednost": "T-Roc (vsi)",
+	"znamka": "Volkswagen vsi",
+	"ime": "T-Roc (vsi)"
+},
+    {
 	"vrednost": "T-Roc",
 	"znamka": "Volkswagen",
 	"ime": "T-Roc"
 },
-{
+    {
 	"vrednost": "T-Roc---Cabriolet",
 	"znamka": "Volkswagen",
 	"ime": "T-Roc Cabriolet"
+},
+{
+	"vrednost": "Transporter",
+	"znamka": "Volkswagen",
+	"ime": "Transporter"
+},
+{
+	"vrednost": "up!",
+	"znamka": "Volkswagen",
+	"ime": "up!"
+},
+{
+	"vrednost": "Vento",
+	"znamka": "Volkswagen",
+	"ime": "Vento"
+},
+{
+	"vrednost": "XL1",
+	"znamka": "Volkswagen",
+	"ime": "XL1"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Volkswagen",
+	"ime": "modela ni na seznamu"
+},{
+	"vrednost": "101",
+	"znamka": "Zastava",
+	"ime": "101"
+},
+{
+	"vrednost": "128",
+	"znamka": "Zastava",
+	"ime": "128"
+},
+{
+	"vrednost": "750",
+	"znamka": "Zastava",
+	"ime": "750"
+},
+{
+	"vrednost": "850",
+	"znamka": "Zastava",
+	"ime": "850"
+},
+{
+	"vrednost": "1300",
+	"znamka": "Zastava",
+	"ime": "1300"
+},
+{
+	"vrednost": "1500",
+	"znamka": "Zastava",
+	"ime": "1500"
+},
+{
+	"vrednost": "Buggy",
+	"znamka": "Zastava",
+	"ime": "Buggy"
+},
+{
+	"vrednost": "Yugo",
+	"znamka": "Zastava",
+	"ime": "Yugo"
+},
+{
+	"vrednost": "Florida",
+	"znamka": "Zastava",
+	"ime": "Yugo Florida"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Zastava",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "ZAZ",
+	"ime": "modela ni na seznamu"
+},
+{
+	"vrednost": "D1",
+	"znamka": "Zhidou",
+	"ime": "D1"
+},
+{
+	"vrednost": "D2",
+	"znamka": "Zhidou",
+	"ime": "D2"
+},
+{
+	"vrednost": "D2S",
+	"znamka": "Zhidou",
+	"ime": "D2S"
+},
+{
+	"vrednost": "D3",
+	"znamka": "Zhidou",
+	"ime": "D3"
+},
+{
+	"vrednost": "modela ni na seznamu",
+	"znamka": "Zhidou",
+	"ime": "modela ni na seznamu"
 }]
