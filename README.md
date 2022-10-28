@@ -23,3 +23,11 @@ Za vsak avtomobil bom zajel:
 Delovne hipoteze:
 * povezava med ceno in številom prevoženih kilometrov za isti model
 * povezava med ceno in starostjo za isti model
+
+### Navodila za uporabo
+Kloniramo repozitorij
+
+```bash
+git clone https://github.com/pg008/programiranje_1_projektna_naloga.git
+```
+
