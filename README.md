@@ -31,11 +31,15 @@ Delovne hipoteze:
 git clone https://github.com/pg008/programiranje_1_projektna_naloga.git
 ```
 
-*Zajem podatkov*
+*Zajem podatkov*  
 Odpremo Jupyter zvezek *zajem.ipynb*, ki se nahaja v mapi *src*.
 
-Ko poženemo prvo celico, iščemo po platformi *avto.net*. Pozor: strežnik je
-nesramen. Spremenljivka ```izhodni_csv``` je pot datoteke, kamor
+Ko poženemo prvo celico, iščemo po platformi *avto.net*.
+    
+    Pozor: strežnik je
+    nesramen.
+
+Spremenljivka ```izhodni_csv``` je pot datoteke, kamor
 bodo shranjeni rezultati iskanja.
 
 *Obdelava podatkov*
