@@ -466,6 +466,8 @@ class IskalnikAvtoNet(Iskalnik):
                 a.vrsta_motorja = Motor.ELEKTRIČNI
             case "LPG avtoplin":
                 a.vrsta_motorja = Motor.PLIN
+            case "CNG zemeljski plin":
+                a.vrsta_motorja = Motor.PLIN
             case None:
                 a.vrsta_motorja = None
             case _:
