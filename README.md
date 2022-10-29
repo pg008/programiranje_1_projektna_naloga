@@ -41,5 +41,8 @@ Ko poženemo prvo celico, iščemo po platformi *avto.net*.
 Spremenljivka ```izhodni_csv``` je pot datoteke, kamor
 bodo shranjeni rezultati iskanja.
 
+Vsi podatki se nahajajo v datoteki *rabljeni_avtomobili.csv*.
+
 #### Obdelava podatkov
- . . .
+Analiza podatkov je izvedena v zvežčiču *analiza.ipynb*, ki se prav tako
+nahaja v mapi *src*.
