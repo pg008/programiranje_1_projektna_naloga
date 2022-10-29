@@ -13,18 +13,22 @@ from html import escape
 import pickle
 import time
 import json
+import random
 
 
 req_head = {
     'Accept-Encoding': 'gzip, deflate, br',
     'Accept-Language': 'sl-SI,sl;q=0.7',
-    'Upgrade-Insecure-Requests': '1',
-    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+    # 'Upgrade-Insecure-Requests': '1',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
     'Cache-Control': 'max-age=0',
-    'Connection': 'keep-alive',
-    'Cookie': "ogledov=; CookieConsent={stamp:'ZZ+G+JzAH06Pgim9YJnUq42zfmz0+GDa0DgLu/xu80HWc4MqtF2waA==',necessary:true,preferences:true,statistics:true,marketing:true,ver:2,utc:1666018759035,iab2:'CPg_g4APg_g4ACGABBENClCgAP_AAH_AAAAAJFNd_H__bW9r-f5_aft0eY1P9_r37uQzDhfNk-8F3L_W_LwX52E7NF36tq4KmR4ku1LBIUNlHMHUDUmwaokVryHsak2cpzNKJ7BEknMZOydYGF9vmxtj-QKY7_5_d3bx2D-t_9v239z3z81Xn3d53-_03LCdV5_9Dfn9fR_bc9KPt_58v8v8_____3_e__3_7997BIQAkw1biALsSxwJtAwigRAjCsJCqBQAQUAwtEBgA4OCnZWAT6wgQAIBQBGBECHAFGBAIAAAIAkIgAkCLBAAACIBAACABEIhAAQMAgoALAwCAAEA0DFEKAAQJCDIgIilMCAiBIICWyoQSgukNMIA6ywAoJEbFQAIgAAFYAAgLBwDBEgJWLBAkxRvkAIwQoBRKhWoAAAA.YAAAAAAAAAAA',gacm:'1~AAAAAAAAAAACAABAAAgAIAAABAAhAAAACAAAAAAAQAAQAAAAAAABBBAAIAAAAAAAAAAAAQAAAABAAAAAIgMAAAAAAAgAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAQAAAAAAFAAAABAAAAAAAAAAAARBAAAAAAAAAACAAABAAAAAAAAAAEAAAAAAABAAAAAEAAAAAAAAAAAAAAAAAAACBAAAAAAAAAAAAQAAAAAAAAAAgAAAAAAAQAAAAAAAAAAAAAAAACAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAgAAAAAAAEAAAAAAAQAAgAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAkQAAAAAAAAAAAAAAAAQ=',region:'si'}; model1=modela+ni+na+seznamu; statAvtokatalog=20; datadome=hJ8m7CCbYrvl8hFL2qiSouvtOHImYXTgAFZRJwyW~8Mew~tm0Oh2UJi8Z4JQS0~P4BiGHDUu.pVZvS-j2~XEukZLPIBx67gVmF.0Z0u.CRrVTgcN_KIcWqP9T1OVwWd",
+    # 'Connection': 'keep-alive',
+    'Cookie': "",
 }
+
+def posodobi_cookie():
+    req_head['Cookie'] = open("../podatki/cookie.txt", "r").read()
 
 modeli_avtonet = [
     (m["znamka"], m["ime"])
@@ -161,7 +165,7 @@ class Iskalnik:
                 r.encoding = 'windows-1250'
             html = r.text
             n.extend(self._poišči_avtomobile(html))
-            time.sleep(čakaj_med_requesti)
+            time.sleep(random.uniform(čakaj_med_requesti/2, 5*čakaj_med_requesti))
         print(f"Najdenih {len(n)} avtomobilov.")
         if len(n) == 0: return
         if podrobno:
@@ -263,6 +267,7 @@ class Iskalnik:
     def _urlji_iskalnih_strani(self):
         while True:
             try:
+                posodobi_cookie()
                 strani = self._število_strani()
             except IOError:
                 print("Blokada! Nadaljujem?")
@@ -401,6 +406,7 @@ class IskalnikAvtoNet(Iskalnik):
             *args, **kwargs)
     
     def _število_strani(self):
+
         html = requests.get(self._filter._poln_url(stran=1000), headers=req_head).text
         try:
             i = re.search(
@@ -471,6 +477,8 @@ class IskalnikAvtoNet(Iskalnik):
                 a.vrsta_motorja = Motor.PLIN
             case "hibridni pogon":
                 a.vrsta_motorja = Motor.HIBRID
+            case "plin":
+                a.vrsta_motorja = Motor.PLIN
             case None:
                 a.vrsta_motorja = None
             case _:
