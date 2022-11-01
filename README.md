@@ -27,6 +27,9 @@ Delovne hipoteze:
 
 
 ### Zajem podatkov
+> **Note**  
+> Zajeti podatki se nahajajo v [rabljeni_avtomobili.csv](podatki/rabljeni_avtomobili.csv)
+
 Za zajem podatkov s strani *bolha* in *avto.net* sem napisal razred
 `Iskalnik`, ki mu podamo iskalni filter (objekt razreda `Filter`).
 Filter regulira parametre v http zahtevi, ki jo iskalnik pošlje
@@ -35,19 +38,19 @@ na spletni strani.
 
 Razred `Filter` ni dokončan, ker ga nisem potreboval
 v celoti, deluje pa pri izbiri modela avtomobila na strani *avto.net*. Podatke za nastavitve filtra sem
-zajel v datoteki <src/podatki_platforme.ipynb>, shranjeni pa so v datotekah <podatki/modeli_avtonet.json>, <podatki/znamke_avtonet.json>, <podatki/modeli_bolha.json>.
+zajel v datoteki [podatki_platforme.ipynb](src/podatki_platforme.ipynb), shranjeni pa so v datotekah [modeli_avtonet.json](podatki/modeli_avtonet.json), [znamke_avtonet.json](podatki/znamke_avtonet.json) in [modeli_bolha.json](podatki/modeli_bolha.json).
 
 Najprej sem zajel [neodvisno bazo modelov avtomobilov](https://www.autoevolution.com/cars/), ki sem jo uporabil za referenco pri
 identifikaciji modelov za uskladitev med stranema *avto.net* in *bolha*.
 Koda za zajem s te strani se nahaja v datoteki
-<src/modeli_avtomobilov.ipynb>, rezultati pa so shranjeni
-v *sqlite* bazi <podatki/modeli_avtomobilov.db>.
+[modeli_avtomobilov.ipynb](src/modeli_avtomobilov.ipynb), rezultati pa so shranjeni
+v *sqlite* bazi [modeli_avtomobilov.db](podatki/modeli_avtomobilov.db).
 
 Razred `Iskalnik` ima metodo tabela, ki vrne pandas
 razpredelnico, to sem nato shranil v csv datoteke.
-Ker sem zajemal postopoma, je v mapi <podatki> več
+Ker sem zajemal postopoma, je v mapi [podatki](podatki) več
 csv datotek, ki sem jih nato vse združil v
-skupno datoteko <podatki/rabljeni_avtomobili.csv>.
+skupno datoteko [rabljeni_avtomobili.csv](podatki/rabljeni_avtomobili.csv).
 
 
 Odpremo Jupyter zvezek *zajem.ipynb*, ki se nahaja v mapi *src*.
